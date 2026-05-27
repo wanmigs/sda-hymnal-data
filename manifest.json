@@ -1,0 +1,113 @@
+{
+  "manifestVersion": 1,
+  "contentVersion": "9fb6de74ca856fc6",
+  "generatedAt": "2026-05-27T14:36:25Z",
+  "collections": [
+    {
+      "id": "english",
+      "file": "english.json",
+      "title": "English Hymns",
+      "description": "English hymns (app schema: verses, optional refrain).",
+      "schema": "app",
+      "sha256": "158411f8cd54dfc7768ed72555691421180dc052128e133fe5aa0e6dbe4d9e78",
+      "sizeBytes": 311052,
+      "count": 237
+    },
+    {
+      "id": "tagalog",
+      "file": "tagalog.json",
+      "title": "Tagalog Hymns",
+      "description": "Tagalog hymns (app schema).",
+      "schema": "app",
+      "sha256": "dd834d89de298ed491b89046cf16dd79ac3f263d910eb90e41e25f51d86a1184",
+      "sizeBytes": 259633,
+      "count": 237
+    },
+    {
+      "id": "cebuano",
+      "file": "cebuano.json",
+      "title": "Cebuano Hymns",
+      "description": "Cebuano hymns (app schema).",
+      "schema": "app",
+      "sha256": "b5891139fc1d3beb8bd319a54f432beb4b372ebab4a455806cce9c419b424a62",
+      "sizeBytes": 245789,
+      "count": 237
+    },
+    {
+      "id": "sdahymnal",
+      "file": "sdahymnal.json",
+      "title": "SDA Hymnal",
+      "description": "SDA hymnal entries (stanza-based schema).",
+      "schema": "sdahymnal",
+      "sha256": "dd124eec78e45f4cf8dfd4ff63fa74a931947e5d5949f0a67307bbe4d86e4754",
+      "sizeBytes": 535823,
+      "count": 237,
+      "rootKey": "english_hymns"
+    },
+    {
+      "id": "scripture-songs",
+      "file": "scripture-songs.json",
+      "title": "Scripture Songs",
+      "description": "Scripture-based songs (app schema).",
+      "schema": "app",
+      "sha256": "4f7f0cedaf721f2d6fabd98d7a2303206e8990ac6eac1cfb0a7cfebbf245ceda",
+      "sizeBytes": 2177,
+      "count": 3
+    },
+    {
+      "id": "data",
+      "file": "data.json",
+      "title": "Scripture Songs (Themed & Full Lyrics)",
+      "description": "Themed scripture song snippets and full-lyrics collection.",
+      "schema": "composite",
+      "sha256": "bc55ee62cae9c378b69b6a81427bd816b669573aed59d9972b0f731e43ca1fa0",
+      "sizeBytes": 6871,
+      "count": 27,
+      "parts": [
+        {
+          "part": 0,
+          "rootKey": "scripture_songs",
+          "schema": "scripture-themed",
+          "categoryCount": 4,
+          "count": 20
+        },
+        {
+          "part": 1,
+          "rootKey": "full_lyrics_collection",
+          "schema": "full-lyrics",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "ay-songs",
+      "file": "ay-songs.json",
+      "title": "Adventist Youth Songs",
+      "description": "Adventist Youth (AY) songs (app schema).",
+      "schema": "app",
+      "sha256": "2cf97a3c340dba642c914b7dad33e2da3826d991e28ef9cf1af75a39ae7c70a6",
+      "sizeBytes": 8323,
+      "count": 10
+    },
+    {
+      "id": "special-songs",
+      "file": "special-songs.json",
+      "title": "Special Songs",
+      "description": "Special and supplemental songs (app schema).",
+      "schema": "app",
+      "sha256": "f73877e7fd5438a8979dfe2377a3d82f12d1f19a106fe525766b7a6eedeb8a87",
+      "sizeBytes": 12469,
+      "count": 10
+    },
+    {
+      "id": "others",
+      "file": "others.json",
+      "title": "Other Content",
+      "description": "Additional structured content (e.g. Ten Commandments).",
+      "schema": "structured",
+      "sha256": "29715e48904432d02820fdf95c7163c8b243c0535ca86fbc036a8cc2bd90060f",
+      "sizeBytes": 20739,
+      "count": 5
+    }
+  ]
+}
