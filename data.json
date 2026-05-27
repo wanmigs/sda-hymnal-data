@@ -1,0 +1,151 @@
+{
+  "scripture_songs": {
+    "songs_of_praise_and_worship": [
+      {
+        "title": "I Will Call Upon the Lord",
+        "scripture": "Psalm 18:3, 46",
+        "lyrics_snippet": "I will call upon the Lord, who is worthy to be praised; so shall I be saved from mine enemies."
+      },
+      {
+        "title": "This is the Day",
+        "scripture": "Psalm 118:24",
+        "lyrics_snippet": "This is the day that the Lord hath made; we will rejoice and be glad in it."
+      },
+      {
+        "title": "Enter His Gates",
+        "scripture": "Psalm 100:4",
+        "lyrics_snippet": "Enter His gates with thanksgiving and into His courts with praise."
+      },
+      {
+        "title": "Unto Thee, O Lord",
+        "scripture": "Psalm 25:1-2",
+        "lyrics_snippet": "Unto Thee, O Lord, do I lift up my soul. O my God, I trust in Thee."
+      },
+      {
+        "title": "Thy Loving Kindness",
+        "scripture": "Psalm 63:3",
+        "lyrics_snippet": "Thy loving kindness is better than life; my lips shall praise Thee."
+      },
+      {
+        "title": "Bless the Lord, Oh My Soul",
+        "scripture": "Psalm 103:1",
+        "lyrics_snippet": "Bless the Lord, O my soul: and all that is within me, bless His holy name."
+      }
+    ],
+    "guidance_and_the_word": [
+      {
+        "title": "Thy Word",
+        "scripture": "Psalm 119:105",
+        "lyrics_snippet": "Thy Word is a lamp unto my feet and a light unto my path."
+      },
+      {
+        "title": "The Law of the Lord is Perfect",
+        "scripture": "Psalm 19:7",
+        "lyrics_snippet": "The law of the Lord is perfect, converting the soul."
+      },
+      {
+        "title": "Trust in the Lord",
+        "scripture": "Proverbs 3:5-6",
+        "lyrics_snippet": "Trust in the Lord with all thine heart and lean not unto thine own understanding."
+      },
+      {
+        "title": "Thy Word Have I Hid in My Heart",
+        "scripture": "Psalm 119:11",
+        "lyrics_snippet": "Thy word have I hid in mine heart, that I might not sin against thee."
+      },
+      {
+        "title": "He Hath Shewed Thee, O Man",
+        "scripture": "Micah 6:8",
+        "lyrics_snippet": "To do justly, and to love mercy, and to walk humbly with thy God."
+      }
+    ],
+    "strength_and_encouragement": [
+      {
+        "title": "Be Still and Know",
+        "scripture": "Psalm 46:10",
+        "lyrics_snippet": "Be still and know that I am God."
+      },
+      {
+        "title": "The Steadfast Love of the Lord",
+        "scripture": "Lamentations 3:22-23",
+        "lyrics_snippet": "They are new every morning, new every morning; great is Thy faithfulness."
+      },
+      {
+        "title": "Create in Me a Clean Heart",
+        "scripture": "Psalm 51:10-12",
+        "lyrics_snippet": "Create in me a clean heart, O God; and renew a right spirit within me."
+      },
+      {
+        "title": "Humble Yourselves",
+        "scripture": "1 Peter 5:6 / James 4:10",
+        "lyrics_snippet": "Humble yourselves in the sight of the Lord, and He shall lift you up."
+      },
+      {
+        "title": "But They That Wait Upon the Lord",
+        "scripture": "Isaiah 40:31",
+        "lyrics_snippet": "But they that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles."
+      }
+    ],
+    "distinctly_adventist_favorites": [
+      {
+        "title": "Fear God and Give Glory to Him",
+        "scripture": "Revelation 14:7",
+        "lyrics_snippet": "Fear God and give glory to Him; for the hour of His judgment is come."
+      },
+      {
+        "title": "Behold, What Manner of Love",
+        "scripture": "1 John 3:1",
+        "lyrics_snippet": "Behold, what manner of love the Father hath bestowed upon us."
+      },
+      {
+        "title": "Remember the Sabbath Day",
+        "scripture": "Exodus 20:8-11",
+        "lyrics_snippet": "Remember the sabbath day, to keep it holy."
+      },
+      {
+        "title": "Side by Side",
+        "scripture": "N/A (SDA Fellowship Song)",
+        "lyrics_snippet": "Side by side we stand, awaiting God's command, worshiping the King in our own land."
+      }
+    ]
+  }
+}
+{
+  "full_lyrics_collection": [
+    {
+      "title": "Unto Thee, O Lord",
+      "scripture_reference": "Psalm 25",
+      "lyrics": "Unto Thee, O Lord (Unto Thee, O Lord)\nDo I lift up my soul (Do I lift up my soul)\nUnto Thee, O Lord (Unto Thee, O Lord)\nDo I lift up my soul.\n\nChorus:\nO my God, I trust in Thee,\nLet me not be ashamed,\nLet not mine enemies triumph over me.\n\nVerse 2:\nYea, let none that wait on Thee be ashamed,\nYea, let none that wait on Thee be ashamed,\nO my God, I trust in Thee,\nLet me not be ashamed,\nLet not mine enemies triumph over me."
+    },
+    {
+      "title": "He Hath Shewed Thee",
+      "scripture_reference": "Micah 6:8",
+      "lyrics": "He hath shewed thee, O man, what is good;\nAnd what doth the Lord require of thee,\nBut to do justly, and to love mercy,\nAnd to walk humbly with thy God."
+    },
+    {
+      "title": "The Steadfast Love",
+      "scripture_reference": "Lamentations 3:22-23",
+      "lyrics": "The steadfast love of the Lord never ceaseth,\nHis mercies never come to an end;\nThey are new every morning, new every morning;\nGreat is Thy faithfulness, O Lord,\nGreat is Thy faithfulness."
+    },
+    {
+      "title": "Create in Me a Clean Heart",
+      "scripture_reference": "Psalm 51:10-12",
+      "lyrics": "Create in me a clean heart, O God,\nAnd renew a right spirit within me.\nCast me not away from Thy presence, O Lord,\nAnd take not Thy Holy Spirit from me.\nRestore unto me the joy of Thy salvation,\nAnd renew a right spirit within me."
+    },
+    {
+      "title": "This is the Day",
+      "scripture_reference": "Psalm 118:24",
+      "lyrics": "This is the day, this is the day\nThat the Lord hath made, that the Lord hath made.\nWe will rejoice, we will rejoice\nAnd be glad in it, and be glad in it.\n\nChorus:\nThis is the day that the Lord hath made,\nWe will rejoice and be glad in it.\nThis is the day, this is the day\nThat the Lord hath made."
+    },
+    {
+      "title": "I Will Call Upon the Lord",
+      "scripture_reference": "Psalm 18:3, 46",
+      "lyrics": "I will call upon the Lord (I will call upon the Lord)\nWho is worthy to be praised (Who is worthy to be praised)\nSo shall I be saved from mine enemies. (So shall I be saved from mine enemies.)\n\nChorus:\nThe Lord liveth, and blessed be the Rock,\nAnd let the God of my salvation be exalted!\nThe Lord liveth, and blessed be the Rock,\nAnd let the God of my salvation be exalted!"
+    },
+    {
+      "title": "Fear God and Give Glory",
+      "scripture_reference": "Revelation 14:7",
+      "lyrics": "Fear God and give glory to Him;\nFor the hour of His judgment is come:\nAnd worship Him that made heaven, and earth,\nAnd the sea, and the fountains of waters.\nHallelujah! Hallelujah!"
+    }
+  ]
+}

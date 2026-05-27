@@ -1,0 +1,401 @@
+[
+  {
+    "id": "ten-commandments",
+    "title": "The Ten Commandments",
+    "subtitle": "Exodus 20:1-17",
+    "content": [
+      {
+        "number": 1,
+        "text": "Thou shalt have no other gods before me.",
+        "verse": "Exodus 20:3",
+        "explanation": "God alone is worthy of our worship and devotion. This commandment establishes the foundation of our relationship with God—He must be first in our lives, above all earthly attachments and idols."
+      },
+      {
+        "number": 2,
+        "text": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Thou shalt not bow down thyself to them, nor serve them.",
+        "verse": "Exodus 20:4-6",
+        "explanation": "God cannot be represented by any physical image or object. This commandment protects us from reducing the infinite God to finite representations and reminds us that true worship is spiritual, not material."
+      },
+      {
+        "number": 3,
+        "text": "Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain.",
+        "verse": "Exodus 20:7",
+        "explanation": "God's name represents His character and authority. We honor Him by speaking His name with reverence, keeping our promises made in His name, and living in a way that reflects His holy character."
+      },
+      {
+        "number": 4,
+        "text": "Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work.",
+        "verse": "Exodus 20:8-11",
+        "explanation": "The Sabbath is a memorial of Creation and a sign of God's sanctifying power. It is a day of rest, worship, and fellowship with God and others—a weekly reminder that our identity rests in God, not in our work."
+      },
+      {
+        "number": 5,
+        "text": "Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.",
+        "verse": "Exodus 20:12",
+        "explanation": "This commandment bridges our duty to God and our duty to others. Honoring parents teaches us respect for authority and gratitude for those who nurtured us, forming the basis for a healthy society."
+      },
+      {
+        "number": 6,
+        "text": "Thou shalt not kill.",
+        "verse": "Exodus 20:13",
+        "explanation": "Human life is sacred because we are made in God's image. This commandment protects the sanctity of life and extends to harboring hatred or anger in our hearts, as Jesus taught in Matthew 5:21-22."
+      },
+      {
+        "number": 7,
+        "text": "Thou shalt not commit adultery.",
+        "verse": "Exodus 20:14",
+        "explanation": "God designed marriage as a sacred covenant between husband and wife. This commandment protects the family unit and calls us to purity in thought and action, honoring the gift of sexuality within marriage."
+      },
+      {
+        "number": 8,
+        "text": "Thou shalt not steal.",
+        "verse": "Exodus 20:15",
+        "explanation": "This commandment upholds the principle of honest labor and respect for others' property. It calls us to be content with what we have and to acquire possessions through honest means."
+      },
+      {
+        "number": 9,
+        "text": "Thou shalt not bear false witness against thy neighbour.",
+        "verse": "Exodus 20:16",
+        "explanation": "God is truth, and His children are called to truthfulness. This commandment forbids lying, gossip, slander, and any form of deception that harms others' reputation or well-being."
+      },
+      {
+        "number": 10,
+        "text": "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.",
+        "verse": "Exodus 20:17",
+        "explanation": "This final commandment addresses the heart—the source of all other sins. Covetousness breeds discontentment and leads to other transgressions. It calls us to cultivate gratitude and contentment in Christ."
+      }
+    ]
+  },
+  {
+    "id": "lords-prayer",
+    "title": "The Lord's Prayer",
+    "subtitle": "Matthew 6:9-13",
+    "content": [
+      {
+        "text": "Our Father which art in heaven,",
+        "explanation": "Jesus invites us to approach God as our loving Father. This intimate address reminds us of our identity as God's children and our access to Him through Christ."
+      },
+      {
+        "text": "Hallowed be thy name.",
+        "explanation": "We begin prayer by honoring God's holy name and character. This sets the proper perspective—worship precedes requests."
+      },
+      {
+        "text": "Thy kingdom come,",
+        "explanation": "We pray for God's reign to be established in our hearts now and for Christ's soon return when His kingdom will be fully realized."
+      },
+      {
+        "text": "Thy will be done in earth, as it is in heaven.",
+        "explanation": "We surrender our will to God's perfect will, trusting that His plans are better than ours and praying for His purposes to be accomplished."
+      },
+      {
+        "text": "Give us this day our daily bread.",
+        "explanation": "We acknowledge our dependence on God for all our needs—physical, emotional, and spiritual. This teaches us to trust God day by day."
+      },
+      {
+        "text": "And forgive us our debts, as we forgive our debtors.",
+        "explanation": "We ask for God's forgiveness while committing to extend that same forgiveness to others. Our willingness to forgive reflects our understanding of grace."
+      },
+      {
+        "text": "And lead us not into temptation, but deliver us from evil:",
+        "explanation": "We ask God to guide us away from situations that would cause us to stumble and to protect us from the evil one."
+      },
+      {
+        "text": "For thine is the kingdom, and the power, and the glory, for ever.",
+        "explanation": "We conclude by affirming God's sovereignty, might, and majesty. All glory belongs to Him alone, now and forever."
+      },
+      { "text": "Amen.", "bold": true }
+    ]
+  },
+  {
+    "id": "beatitudes",
+    "title": "The Beatitudes",
+    "subtitle": "Matthew 5:3-12",
+    "content": [
+      {
+        "number": 1,
+        "heading": "Blessed are the poor in spirit:",
+        "text": "for theirs is the kingdom of heaven.",
+        "verse": "Matthew 5:3",
+        "explanation": "Those who recognize their spiritual poverty and need for God are blessed. Humility is the gateway to receiving God's grace and entering His kingdom."
+      },
+      {
+        "number": 2,
+        "heading": "Blessed are they that mourn:",
+        "text": "for they shall be comforted.",
+        "verse": "Matthew 5:4",
+        "explanation": "Those who grieve over sin—both their own and the world's—will receive God's comfort. This mourning leads to repentance and healing."
+      },
+      {
+        "number": 3,
+        "heading": "Blessed are the meek:",
+        "text": "for they shall inherit the earth.",
+        "verse": "Matthew 5:5",
+        "explanation": "Meekness is not weakness but strength under control. The meek trust God's timing and justice rather than fighting for their own rights."
+      },
+      {
+        "number": 4,
+        "heading": "Blessed are they which do hunger and thirst after righteousness:",
+        "text": "for they shall be filled.",
+        "verse": "Matthew 5:6",
+        "explanation": "Those who intensely desire to live rightly before God will be satisfied. God promises to fill those who earnestly seek His righteousness."
+      },
+      {
+        "number": 5,
+        "heading": "Blessed are the merciful:",
+        "text": "for they shall obtain mercy.",
+        "verse": "Matthew 5:7",
+        "explanation": "Those who show compassion and forgiveness to others will receive the same from God. Mercy given reflects mercy received."
+      },
+      {
+        "number": 6,
+        "heading": "Blessed are the pure in heart:",
+        "text": "for they shall see God.",
+        "verse": "Matthew 5:8",
+        "explanation": "Purity of heart means single-minded devotion to God with undivided loyalty. Those with pure hearts will experience intimate fellowship with God."
+      },
+      {
+        "number": 7,
+        "heading": "Blessed are the peacemakers:",
+        "text": "for they shall be called the children of God.",
+        "verse": "Matthew 5:9",
+        "explanation": "Peacemakers actively work to reconcile people with God and with each other. This reflects God's own character as the ultimate peacemaker through Christ."
+      },
+      {
+        "number": 8,
+        "heading": "Blessed are they which are persecuted for righteousness' sake:",
+        "text": "for theirs is the kingdom of heaven.",
+        "verse": "Matthew 5:10",
+        "explanation": "Those who suffer for doing right share in Christ's sufferings. Persecution for righteousness confirms our belonging to God's kingdom."
+      }
+    ]
+  },
+  {
+    "id": "apostles-creed",
+    "title": "The Apostles' Creed",
+    "subtitle": "Ancient Statement of Christian Faith",
+    "content": [
+      {
+        "text": "I believe in God, the Father Almighty,",
+        "explanation": "We affirm our faith in one God who is both our loving Father and the all-powerful Creator of all things."
+      },
+      {
+        "text": "Creator of heaven and earth.",
+        "explanation": "God made everything that exists—the visible and invisible realms. He is the source and sustainer of all life."
+      },
+      { "text": "" },
+      {
+        "text": "I believe in Jesus Christ, His only Son, our Lord,",
+        "explanation": "Jesus is the unique, eternal Son of God and our Lord—fully God and fully human, the only mediator between God and humanity."
+      },
+      {
+        "text": "Who was conceived by the Holy Spirit,",
+        "explanation": "Jesus' birth was miraculous—He was conceived by the power of the Holy Spirit, not by human means."
+      },
+      {
+        "text": "Born of the Virgin Mary,",
+        "explanation": "Mary, a virgin, gave birth to Jesus, fulfilling prophecy (Isaiah 7:14) and demonstrating God's supernatural intervention in human history."
+      },
+      {
+        "text": "Suffered under Pontius Pilate,",
+        "explanation": "Jesus' suffering was real and historical, occurring during the governorship of Pontius Pilate (approximately AD 30-33)."
+      },
+      {
+        "text": "Was crucified, died, and was buried;",
+        "explanation": "Jesus truly died on the cross for our sins. His death was not an illusion but a real sacrifice for humanity's redemption."
+      },
+      {
+        "text": "He descended to the dead.",
+        "explanation": "Jesus truly experienced death and was in the grave, confirming the reality of His sacrifice before His resurrection."
+      },
+      {
+        "text": "On the third day He rose again;",
+        "explanation": "Jesus' bodily resurrection on the third day is the cornerstone of Christian faith, proving His victory over sin and death."
+      },
+      {
+        "text": "He ascended into heaven,",
+        "explanation": "After 40 days of post-resurrection appearances, Jesus ascended to heaven in the presence of His disciples (Acts 1:9-11)."
+      },
+      {
+        "text": "He is seated at the right hand of the Father,",
+        "explanation": "Jesus now reigns in glory, interceding for believers and exercising all authority in heaven and on earth."
+      },
+      {
+        "text": "And He will come to judge the living and the dead.",
+        "explanation": "Jesus will return visibly to judge all humanity—both those alive at His coming and those who have died throughout history."
+      },
+      { "text": "" },
+      {
+        "text": "I believe in the Holy Spirit,",
+        "explanation": "The Holy Spirit is the third person of the Trinity, present with believers to guide, convict, comfort, and empower us."
+      },
+      {
+        "text": "The holy catholic Church,",
+        "explanation": "'Catholic' means universal—we believe in one worldwide Church composed of all true believers in Christ across all denominations."
+      },
+      {
+        "text": "The communion of saints,",
+        "explanation": "All believers—past, present, and future—are united in Christ, sharing in fellowship as members of His body."
+      },
+      {
+        "text": "The forgiveness of sins,",
+        "explanation": "Through Christ's sacrifice, all who repent and believe receive complete forgiveness of sins—past, present, and future."
+      },
+      {
+        "text": "The resurrection of the body,",
+        "explanation": "At Christ's return, believers will receive glorified, imperishable bodies, reunited with their souls for eternal life."
+      },
+      {
+        "text": "And the life everlasting.",
+        "explanation": "Eternal life with God awaits all who trust in Christ—a life of joy, peace, and fellowship that never ends."
+      },
+      { "text": "Amen.", "bold": true }
+    ]
+  },
+  {
+    "id": "28-beliefs",
+    "title": "28 Fundamental Beliefs",
+    "subtitle": "Seventh-day Adventist Church",
+    "content": [
+      {
+        "number": 1,
+        "text": "Holy Scriptures",
+        "explanation": "The Holy Scriptures, Old and New Testaments, are the written Word of God. They are the infallible revelation of His will, the standard of character, and the authoritative revealer of doctrines."
+      },
+      {
+        "number": 2,
+        "text": "Trinity",
+        "explanation": "There is one God: Father, Son, and Holy Spirit—a unity of three co-eternal Persons. God is immortal, all-powerful, all-knowing, above all, and ever present."
+      },
+      {
+        "number": 3,
+        "text": "Father",
+        "explanation": "God the eternal Father is the Creator, Source, Sustainer, and Sovereign of all creation. He is just and holy, merciful and gracious, slow to anger, and abounding in steadfast love."
+      },
+      {
+        "number": 4,
+        "text": "Son",
+        "explanation": "God the eternal Son became incarnate in Jesus Christ. Through Him all things were created, the character of God is revealed, the salvation of humanity is accomplished, and the world is judged."
+      },
+      {
+        "number": 5,
+        "text": "Holy Spirit",
+        "explanation": "God the eternal Spirit was active with the Father and the Son in Creation, incarnation, and redemption. He inspired the writers of Scripture and filled Christ's life with power."
+      },
+      {
+        "number": 6,
+        "text": "Creation",
+        "explanation": "God has revealed in Scripture the authentic and historical account of His creative activity. He created the universe, and in six literal days made the earth and all life upon it."
+      },
+      {
+        "number": 7,
+        "text": "Nature of Humanity",
+        "explanation": "Man and woman were made in the image of God with individuality, the power and freedom to think and act. Though created free beings, they are indivisible units of body, mind, and spirit."
+      },
+      {
+        "number": 8,
+        "text": "Great Controversy",
+        "explanation": "All humanity is now involved in a great controversy between Christ and Satan regarding the character of God, His law, and His sovereignty over the universe."
+      },
+      {
+        "number": 9,
+        "text": "Life, Death, and Resurrection of Christ",
+        "explanation": "In Christ's life of perfect obedience to God's will, His suffering, death, and resurrection, God provided the only means of atonement for human sin."
+      },
+      {
+        "number": 10,
+        "text": "Experience of Salvation",
+        "explanation": "In infinite love and mercy God made Christ, who knew no sin, to be sin for us, so that in Him we might be made the righteousness of God."
+      },
+      {
+        "number": 11,
+        "text": "Growing in Christ",
+        "explanation": "By His death on the cross Jesus triumphed over the forces of evil. As we walk in Him, we are empowered to have victory over the evil forces that still seek to control us."
+      },
+      {
+        "number": 12,
+        "text": "Church",
+        "explanation": "The church is the community of believers who confess Jesus Christ as Lord and Saviour. We are called out from the world to unite for worship, fellowship, instruction, and service."
+      },
+      {
+        "number": 13,
+        "text": "Remnant and Its Mission",
+        "explanation": "The universal church is composed of all who truly believe in Christ. In the last days, a remnant has been called to keep the commandments of God and the faith of Jesus."
+      },
+      {
+        "number": 14,
+        "text": "Unity in the Body of Christ",
+        "explanation": "The church is one body with many members, called from every nation, kindred, tongue, and people. In Christ we are a new creation united in faith, hope, and love."
+      },
+      {
+        "number": 15,
+        "text": "Baptism",
+        "explanation": "By baptism we confess our faith in the death and resurrection of Jesus Christ. Baptism is by immersion in water and is a symbol of our union with Christ."
+      },
+      {
+        "number": 16,
+        "text": "Lord's Supper",
+        "explanation": "The Lord's Supper is a participation in the emblems of the body and blood of Jesus as an expression of faith in Him, our Lord and Saviour."
+      },
+      {
+        "number": 17,
+        "text": "Spiritual Gifts and Ministries",
+        "explanation": "God bestows upon all members of His church spiritual gifts which each member is to employ in loving ministry for the common good of the church and humanity."
+      },
+      {
+        "number": 18,
+        "text": "Gift of Prophecy",
+        "explanation": "The Scriptures testify that one of the gifts of the Holy Spirit is prophecy. This gift is an identifying mark of the remnant church, manifested in the ministry of Ellen G. White."
+      },
+      {
+        "number": 19,
+        "text": "Law of God",
+        "explanation": "The great principles of God's law are embodied in the Ten Commandments and exemplified in the life of Christ. They are binding upon all people in every age."
+      },
+      {
+        "number": 20,
+        "text": "Sabbath",
+        "explanation": "The Sabbath is God's perpetual sign of His eternal covenant. It is a time of rest and worship from evening Friday to evening Saturday (the seventh day)."
+      },
+      {
+        "number": 21,
+        "text": "Stewardship",
+        "explanation": "We are God's stewards, entrusted with time and opportunities, abilities and possessions, and the blessings of the earth and its resources. We are responsible for their proper use."
+      },
+      {
+        "number": 22,
+        "text": "Christian Behavior",
+        "explanation": "We are called to be a godly people who think, feel, and act in harmony with biblical principles in all aspects of personal and social life."
+      },
+      {
+        "number": 23,
+        "text": "Marriage and the Family",
+        "explanation": "Marriage was divinely established in Eden and affirmed by Jesus to be a lifelong union between a man and a woman in loving companionship."
+      },
+      {
+        "number": 24,
+        "text": "Christ's Ministry in the Heavenly Sanctuary",
+        "explanation": "There is a sanctuary in heaven where Christ ministers on our behalf, making available to believers the benefits of His atoning sacrifice."
+      },
+      {
+        "number": 25,
+        "text": "Second Coming of Christ",
+        "explanation": "The second coming of Christ is the blessed hope of the church. When He returns, the righteous dead will be resurrected and together with the living will be glorified."
+      },
+      {
+        "number": 26,
+        "text": "Death and Resurrection",
+        "explanation": "The wages of sin is death. But God will grant eternal life to the redeemed. Until that day, death is an unconscious state for all people."
+      },
+      {
+        "number": 27,
+        "text": "Millennium and the End of Sin",
+        "explanation": "The millennium is the thousand-year reign of Christ with His saints in heaven between the first and second resurrections."
+      },
+      {
+        "number": 28,
+        "text": "New Earth",
+        "explanation": "On the new earth, God will provide an eternal home for the redeemed and a perfect environment for everlasting life, love, joy, and learning in His presence."
+      }
+    ]
+  }
+]
