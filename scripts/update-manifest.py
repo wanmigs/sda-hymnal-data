@@ -17,6 +17,10 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 MANIFEST_PATH = REPO_ROOT / "manifest.json"
 
+# Default appVersion used only when manifest.json does not already define one.
+# Edit appVersion directly in manifest.json; regeneration preserves that value.
+DEFAULT_APP_VERSION = "1.0.0"
+
 # Stable catalog order and metadata (edit here when adding a new collection file).
 COLLECTION_SPECS = [
     {
@@ -204,6 +208,20 @@ def content_version(collections: list[dict]) -> str:
     return hashlib.sha256(combined.encode("utf-8")).hexdigest()[:16]
 
 
+def read_existing_app_version() -> str:
+    """Preserve a manually-edited appVersion across regenerations."""
+    if not MANIFEST_PATH.is_file():
+        return DEFAULT_APP_VERSION
+    try:
+        existing = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return DEFAULT_APP_VERSION
+    app_version = existing.get("appVersion")
+    if isinstance(app_version, str) and app_version.strip():
+        return app_version
+    return DEFAULT_APP_VERSION
+
+
 def build_manifest() -> dict:
     collections = []
     for spec in COLLECTION_SPECS:
@@ -214,6 +232,7 @@ def build_manifest() -> dict:
 
     return {
         "manifestVersion": 1,
+        "appVersion": read_existing_app_version(),
         "contentVersion": content_version(collections),
         "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "collections": collections,
@@ -232,6 +251,7 @@ def main() -> int:
         encoding="utf-8",
     )
     print(f"Wrote {MANIFEST_PATH.relative_to(REPO_ROOT)}")
+    print(f"  appVersion:     {manifest['appVersion']}")
     print(f"  contentVersion: {manifest['contentVersion']}")
     print(f"  collections:    {len(manifest['collections'])}")
     return 0
