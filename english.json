@@ -40,7 +40,8 @@
           "Trust for our trembling, and hope for our future."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/006%20%E2%80%93%20O%20Worship%20the%20Lord.mp3"
   },
   {
     "title": "The Lord in Zion Reigneth",
@@ -74,7 +75,8 @@
           "Exalt the King of heaven and earth, and crown Him Lord of all."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/007%20%E2%80%93%20The%20Lord%20in%20Zion%20Reigneth.mp3"
   },
   {
     "title": "We Gather Together",
@@ -108,7 +110,8 @@
           "Thy name be ever praised! O Lord make us free!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/008%20%E2%80%93%20We%20Gather%20Together.mp3"
   },
   {
     "title": "My Maker and My King",
@@ -159,7 +162,8 @@
           "And all my days be Thine."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/015%20%E2%80%93%20My%20Maker%20and%20My%20King.mp3"
   },
   {
     "title": "Rejoice, Ye Pure in Heart!",
@@ -213,11 +217,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Rejoice, rejoice, rejoice",
-        "Give thanks and sing."
-      ]
-    }
+      "lines": ["Rejoice, rejoice, rejoice", "Give thanks and sing."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
   {
     "title": "Wake the Song",
@@ -271,7 +273,8 @@
         "Wake the song, wake the song",
         "The song of Jubilee."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/034%20%E2%80%93%20Wake%20the%20Song.mp3"
   },
   {
     "title": "The Name of Jesus Is So Sweet",
@@ -407,7 +410,8 @@
           "With favor as a shield."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/039%20%E2%80%93%20Lord%2C%20in%20the%20Morning.mp3"
   },
   {
     "title": "How Pleasant, How Divinely Fair",
@@ -493,7 +497,8 @@
           "I triumph still, if Thou abide with me!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/050%20%E2%80%93%20Abide%20With%20Me.mp3"
   },
   {
     "title": "Day Is Dying in the West",
@@ -538,7 +543,8 @@
         "Heaven and earth are praising Thee,",
         "O Lord most high!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/051%20%E2%80%93%20Day%20Is%20Dying%20in%20the%20West.mp3"
   },
   {
     "title": "Lord, Dismiss Us With Thy Blessing",
@@ -567,7 +573,8 @@
           "to the truth may we be found."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/064%20%E2%80%93%20Lord%2C%20Dismiss%20Us%20With%20Thy%20Blessing.mp3"
   },
   {
     "title": "God Be With You",
@@ -610,7 +617,8 @@
           "God be with you till we meet again."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/065%20%E2%80%93%20God%20Be%20With%20You.mp3"
   },
   {
     "title": "Come, Thou Almighty King",
@@ -665,7 +673,8 @@
           "Love and adore!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/071%20%E2%80%93%20Come%20Thou%20Almighty%20King.mp3"
   },
   {
     "title": "Holy, Holy, Holy",
@@ -708,7 +717,8 @@
           "God in three Persons, blessed Trinity!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/073%20%E2%80%93%20Holy%20Holy%20Holy.mp3"
   },
   {
     "title": "Jesus Comes With Power to Gladden",
@@ -806,7 +816,8 @@
           "Red life that shall endless be."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/076%20%E2%80%93%20O%20Love%20That%20Wilt%20Not%20Let%20Me%20Go.mp3"
   },
   {
     "title": "Like as a Father",
@@ -1116,7 +1127,8 @@
           "When rolling years shall cease to move."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/082%20%E2%80%93%20Before%20Jehovah%27s%20Awful%20Throne.mp3"
   },
   {
     "title": "O Worship the King",
@@ -1159,7 +1171,8 @@
           "Our Maker, Defender, Redeemer, and Friend!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/083%20%E2%80%93%20O%20Worship%20the%20King.mp3"
   },
   {
     "title": "I Sing the Mighty Power of God",
@@ -1205,7 +1218,8 @@
           "But God is present there."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/088%20%E2%80%93%20I%20Sing%20the%20Mighty%20Power%20of%20God.mp3"
   },
   {
     "title": "This Is My Father's World",
@@ -1251,7 +1265,8 @@
           "God reigns; let the earth be glad."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/092%20%E2%80%93%20This%20Is%20My%20Father%27s%20World.mp3"
   },
   {
     "title": "God Will Take Care of You",
@@ -1302,7 +1317,8 @@
         "He will take care of you,",
         "God will take care of you."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/099%20%E2%80%93%20God%20Will%20Take%20Care%20of%20You.mp3"
   },
   {
     "title": "The First Noel",
@@ -1356,11 +1372,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Noel, Noel, Noel, Noel,",
-        "Born is the King of Israel"
-      ]
-    }
+      "lines": ["Noel, Noel, Noel, Noel,", "Born is the King of Israel"]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
   {
     "title": "There's a Song in the Air",
@@ -1418,7 +1432,8 @@
           "Our Savior and King!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/120%20%E2%80%93%20There%27s%20a%20Song%20in%20the%20Air.mp3"
   },
   {
     "title": "Hark! the Herald Angels Sing",
@@ -1470,7 +1485,8 @@
           "Glory to the new born King!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/122%20%E2%80%93%20Hark%21%20the%20Herald%20Angels%20Sing.mp3"
   },
   {
     "title": "Joy to the World",
@@ -1517,7 +1533,8 @@
           "And wonders, and wonders of His love."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/125%20%E2%80%93%20Joy%20to%20the%20World.mp3"
   },
   {
     "title": "It Came Upon the Midnight Clear",
@@ -1576,7 +1593,8 @@
           "the song which now the angels sing!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/130%20%E2%80%93%20It%20Came%20Upon%20the%20Midnight%20Clear.mp3"
   },
   {
     "title": "O Come, All Ye Faithful",
@@ -1613,7 +1631,8 @@
           "O come, let us adore Him, Christ, the Lord!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/132%20%E2%80%93%20O%20Come%2C%20All%20Ye%20Faithful.mp3"
   },
   {
     "title": "O Little Town of Bethlehem",
@@ -1656,7 +1675,8 @@
           "O come to us, abide with us, our Lord Emmanuel!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/135%20%E2%80%93%20O%20Little%20Town%20of%20Bethlehem.mp3"
   },
   {
     "title": "Silent Night, Holy Night",
@@ -1707,7 +1727,8 @@
           "Christ the Savior is born."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/143%20%E2%80%93%20Silent%20Night%2C%20Holy%20Night.mp3"
   },
   {
     "title": "Tell Me the Story of Jesus",
@@ -1761,7 +1782,8 @@
         "Tell me the story most precious,",
         "Sweetest that ever was heard."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/152%20%E2%80%93%20Tell%20Me%20the%20Story%20of%20Jesus.mp3"
   },
   {
     "title": "The Lilly of the Valley",
@@ -1954,7 +1976,8 @@
         "I will cling to the old rugged cross,",
         "And exchange it some day for a crown."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/159%20%E2%80%93%20The%20Old%20Rugged%20Cross.mp3"
   },
   {
     "title": "Christ The Lord Is Risen Today",
@@ -1997,7 +2020,8 @@
           "Ours the cross, the grave, the skies, Allelulia!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/166%20%E2%80%93%20Christ%20the%20Lord%20Is%20Risen%20Today.mp3"
   },
   {
     "title": "I Will Sing of Jesus' Love",
@@ -2039,7 +2063,8 @@
         "He has died that I might live",
         "I will sing His love to me."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/183%20%E2%80%93%20I%20Will%20Sing%20of%20Jesus%27%20Love.mp3"
   },
   {
     "title": "Jesus is All the World to Me",
@@ -2098,7 +2123,8 @@
           "Hes my friend."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/185%20%E2%80%93%20Jesus%20Is%20All%20the%20World%20to%20Me.mp3"
   },
   {
     "title": "I've Found a Friend",
@@ -2157,7 +2183,8 @@
           "No; I am His forever."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/186%20%E2%80%93%20I%27ve%20Found%20a%20Friend.mp3"
   },
   {
     "title": "Love Divine",
@@ -2216,7 +2243,8 @@
           "lost in wonder, love, and praise."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/191%20%E2%80%93%20Love%20Divine.mp3"
   },
   {
     "title": "Showers of Blessing",
@@ -2267,7 +2295,8 @@
         "Mercy drops round us are falling,",
         "But for the showers we plead."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/195%20%E2%80%93%20Showers%20of%20Blessing.mp3"
   },
   {
     "title": "Tell Me the Old, Old Story",
@@ -2306,7 +2335,8 @@
       "lines": [
         "Tell me the old, old story, Tell me the old, old story, Tell me the old, old story, Of Jesus and His love."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/196%20%E2%80%93%20Tell%20Me%20the%20Old%2C%20Old%20Story.mp3"
   },
   {
     "title": "Hail Him the King of Glory",
@@ -2340,7 +2370,8 @@
         "Hail Him the King of glory, Once the Lamb for sinners slain;",
         "Tell, tell the wondrous story, Jesus comes to reign."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/202%20%E2%80%93%20Hail%20Him%20the%20King%20of%20Glory.mp3"
   },
   {
     "title": "Face to Face",
@@ -2381,7 +2412,8 @@
         "Face to face shall I behold Him, Far beyond the starry sky;",
         "Face to face in all His glory I shall see Him by and by!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/206%20%E2%80%93%20Face%20to%20Face.mp3"
   },
   {
     "title": "It May Be at Morn",
@@ -2423,7 +2455,8 @@
         "Christ returneth, Hallelujah!",
         "Hallelujah! Amen, Hallelujah! Amen."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/207%20%E2%80%93%20It%20May%20Be%20at%20Morn.mp3"
   },
   {
     "title": "Jesus Is Coming Again",
@@ -2460,10 +2493,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Coming again, coming again, Jesus is coming again!"
-      ]
-    }
+      "lines": ["Coming again, coming again, Jesus is coming again!"]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
   },
   {
     "title": "When the Roll is Called Up Yonder",
@@ -2504,7 +2536,8 @@
         "When the roll is called up yonder, When the",
         "roll is called up yonder, When the roll is called up yonder, I'll be there."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/216%20%E2%80%93%20When%20the%20Roll%20Is%20Called%20Up%20Yonder.mp3"
   },
   {
     "title": "When He Cometh",
@@ -2538,7 +2571,8 @@
         "Like the stars in the morning, His bright crowns adorning,",
         "They shall shine in their beauty, Bright gems for His crown."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/218%20%E2%80%93%20When%20He%20Cometh.mp3"
   },
   {
     "title": "We Know Not the Time",
@@ -2974,7 +3008,8 @@
           "Well join the everlasting song, and crown Him Lord of all."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/229%20%E2%80%93%20All%20Hail%20the%20Power%20of%20Jesus%27%20Name.mp3"
   },
   {
     "title": "I Love Thee",
@@ -3014,7 +3049,8 @@
           "While rivers of pleasure my spirit do cheer."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/236%20%E2%80%93%20I%20Love%20Thee.mp3"
   },
   {
     "title": "Fairest Lord Jesus",
@@ -3053,7 +3089,8 @@
           "Praise, adoration, Now and forevermore be Thine!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/240%20%E2%80%93%20Fairest%20Lord%20Jesus.mp3"
   },
   {
     "title": "Worthy, Worthy Is the Lamb",
@@ -3087,7 +3124,8 @@
         "Glory, hallelujiah! Praise Him, hallelujiah!",
         "Glory, hallelujiah To the Lamb!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/246%20%E2%80%93%20Worthy%2C%20Worthy%20Is%20the%20Lamb.mp3"
   },
   {
     "title": "Praise Him, Praise Him",
@@ -3133,7 +3171,8 @@
         "Praise Him! Praise Him! Tell of His excellent greatness.",
         "Praise Him! Praise Him! Ever in joyful song!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/249%20%E2%80%93%20Praise%20Him%21%20Praise%20Him%21.mp3"
   },
   {
     "title": "There's No Other Name Like Jesus",
@@ -3181,7 +3220,8 @@
         "Sweet name, dear name, There's no other name like Jesus;",
         "Sweet name, dear name, There's no other name like Jesus."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/253%20%E2%80%93%20There%27s%20No%20Other%20Name%20Like%20Jesus.mp3"
   },
   {
     "title": "Hover O'er Me, Holy Spirit",
@@ -3222,7 +3262,8 @@
         "Fill me now, fill me now, Jesus, come and fill me now.",
         "Fill me with Thy hallowed presence, Come, O come and fill me now."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/260%20%E2%80%93%20Hover%20O%27er%20Me%2C%20Holy%20Spirit.mp3"
   },
   {
     "title": "Holy Spirit, Light Divine",
@@ -3257,7 +3298,8 @@
           "Cast down every idol throne, Reign supreme, and reign alone."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/268%20%E2%80%93%20Holy%20Spirit%2C%20Light%20Divine.mp3"
   },
   {
     "title": "Come, Holy Spirit",
@@ -3375,7 +3417,8 @@
           "Heeding Thy holy Word I win the strife."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/271%20%E2%80%93%20Break%20Thou%20the%20Bread%20of%20Life.mp3"
   },
   {
     "title": "Give Me the Bible",
@@ -3417,7 +3460,8 @@
         "Precept and promise, law and love combining,",
         "Til night shall vanish in eternal day."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/272%20%E2%80%93%20Give%20Me%20the%20Bible.mp3"
   },
   {
     "title": "What Says the Bible",
@@ -3500,7 +3544,8 @@
         "Only trust Him, only trust Him, Only trust Him now;",
         "He will save you, He will save you, He will save you now."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/279%20%E2%80%93%20Only%20Trust%20Him.mp3"
   },
   {
     "title": "I Gave My Life for Thee",
@@ -3534,7 +3579,8 @@
           "I've borne, I've borne it all for thee, What hast thou borne of Me?"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/281%20%E2%80%93%20I%20Gave%20My%20Life%20for%20Thee.mp3"
   },
   {
     "title": "I Hear Thy Welcome Voice",
@@ -3575,7 +3621,8 @@
         "I am coming, Lord! Coming now to Thee!",
         "Wash me, cleanse me, in the blood That flowed on Calvary."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/282%20%E2%80%93%20I%20Hear%20Thy%20Welcome%20Voice.mp3"
   },
   {
     "title": "Wonderful Words of Life",
@@ -3612,7 +3659,8 @@
         "Beautiful words, wonderful words, Wonderful words of life,",
         "Beautiful words, wonderful words, Wonderful words of life."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/286%20%E2%80%93%20Wonderful%20Words%20of%20Life.mp3"
   },
   {
     "title": "Softly and Tenderly",
@@ -3654,7 +3702,8 @@
         "earnestly, tenderly, Jesus is calling,",
         "calling, O sinner, come home!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/287%20%E2%80%93%20Softly%20and%20Tenderly.mp3"
   },
   {
     "title": "Jesus, the Loving Shepherd",
@@ -3913,7 +3962,8 @@
         "In the precious",
         "blood of the Lamb."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/294%20%E2%80%93%20Power%20in%20the%20Blood.mp3"
   },
   {
     "title": "Chief of Sinners",
@@ -3944,7 +3994,8 @@
           "Safe with Him from early strife, He sustains the hidden life."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/295%20%E2%80%93%20Chief%20of%20Sinners.mp3"
   },
   {
     "title": "Lord, I'm Coming Home",
@@ -3992,7 +4043,8 @@
         "Coming home, coming home Nevermore to roam;",
         "Open wide Thine arms of love; Lord, I'm coming home."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/296%20%E2%80%93%20Lord%2C%20I%27m%20Coming%20Home.mp3"
   },
   {
     "title": "Rock of Ages",
@@ -4023,7 +4075,8 @@
           "Rock of Ages, cleft for me, Let me hide myself in Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/300%20%E2%80%93%20Rock%20of%20Ages.mp3"
   },
   {
     "title": "Nearer, Still Nearer",
@@ -4104,7 +4157,8 @@
           "My sinful self my only shame, My glory all the cross."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/303%20%E2%80%93%20Beneath%20the%20Cross%20of%20Jesus.mp3"
   },
   {
     "title": "Faith of Our Fathers",
@@ -4144,7 +4198,8 @@
           "We will be true to thee till death."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/304%20%E2%80%93%20Faith%20of%20Our%20Fathers.mp3"
   },
   {
     "title": "Draw Me Nearer",
@@ -4186,7 +4241,8 @@
         "Draw me nearer, nearer, nearer, blessed Lord,",
         "to thy precious, bleeding side."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/306%20%E2%80%93%20Draw%20Me%20Nearer.mp3"
   },
   {
     "title": "I Am Coming to the Cross",
@@ -4227,7 +4283,8 @@
         "I am trusting, Lord, in Thee, O Thou Lamb of Calvary;",
         "Huumbly at Thy cross I bow; Save me, Jesus, save me now."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/307%20%E2%80%93%20I%20Am%20Coming%20to%20the%20Cross.mp3"
   },
   {
     "title": "Wholly Thine",
@@ -4261,7 +4318,8 @@
         "Wholly Thine, wholly Thine, Wholly Thine, this is my vow;",
         "Wholly Thine, wholly Thine, Wholly Thine, O Lord, just now."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/308%20%E2%80%93%20Wholly%20Thine.mp3"
   },
   {
     "title": "I Surrender All",
@@ -4302,7 +4360,8 @@
         "I surrender all, I surrender all;",
         "All to Thee, my blessed Savior, I surrender all."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/309%20%E2%80%93%20I%20Surrender%20All.mp3"
   },
   {
     "title": "Near the Cross",
@@ -4343,7 +4402,8 @@
         "Near the cross, in the cross, be my glory ever,",
         "Till my raptured soul shall find Rest beyong the river."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/312%20%E2%80%93%20Near%20the%20Cross.mp3"
   },
   {
     "title": "Just as I Am",
@@ -4400,10 +4460,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "O Lamb of God, I come, I come."
-      ]
-    }
+      "lines": ["O Lamb of God, I come, I come."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/313%20%E2%80%93%20Just%20as%20I%20Am.mp3"
   },
   {
     "title": "O, for a Closer Walk!",
@@ -4438,7 +4497,8 @@
           "Help me to tear it from Thy throne, And worship only Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/315%20%E2%80%93%20O%20for%20a%20Closer%20Walk%21.mp3"
   },
   {
     "title": "Must Jesus Bear the Cross Alone?",
@@ -4466,7 +4526,8 @@
           "With joy I'll cast my golden crown, And His dear name repeat."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/328%20%E2%80%93%20Must%20Jesus%20Bear%20the%20Cross%20Alone.mp3"
   },
   {
     "title": "Live Out Thy Life Within Me",
@@ -4509,7 +4570,8 @@
           "Be Thou Thyself the answer to all my questionings."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/316%20%E2%80%93%20Live%20Out%20Thy%20Life%20Within%20Me.mp3"
   },
   {
     "title": "Whiter Than Snow",
@@ -4559,7 +4621,8 @@
         "Whiter than snow, yes, whiter than snow;",
         "Now wash me, and I shall be whiter than snow."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/318%20%E2%80%93%20Whiter%20Than%20Snow.mp3"
   },
   {
     "title": "My Jesus, I Love Thee",
@@ -4602,7 +4665,8 @@
           "if ever I loved thee, my Jesus, 'tis now."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/321%20%E2%80%93%20My%20Jesus%2C%20I%20Love%20Thee.mp3"
   },
   {
     "title": "Take the World, but Give Me Jesus",
@@ -4653,7 +4717,8 @@
         "Oh, the fullness of redemption,",
         "Pledge of endless life above"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/329%20%E2%80%93%20Take%20the%20World%2C%20but%20Give%20Me%20Jesus.mp3"
   },
   {
     "title": "Take My Life and Let It Be",
@@ -4710,7 +4775,8 @@
           "Ever, only, all for Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/330%20%E2%80%93%20Take%20My%20Life%20and%20Let%20It%20Be.mp3"
   },
   {
     "title": "O Jesus, I Have Promised",
@@ -4756,7 +4822,8 @@
           "my Master and my Friend."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/331%20%E2%80%93%20O%20Jesus%2C%20I%20Have%20Promised.mp3"
   },
   {
     "title": "Father, We Come To Thee",
@@ -4844,7 +4911,8 @@
           "seal it for thy courts above."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/334%20%E2%80%93%20Come%2C%20Thou%20Fount%20of%20Every%20Blessing.mp3"
   },
   {
     "title": "What a Wonderful Savior",
@@ -4893,7 +4961,8 @@
         "What a wonderful Savior is Jesus, my Jesus!",
         "What a wonderful Savior is Jesus, my Lord!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/335%20%E2%80%93%20What%20a%20Wonderful%20Savior.mp3"
   },
   {
     "title": "There Is a Fountain",
@@ -4974,7 +5043,8 @@
           "Is ransomed form the grave."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/336%20%E2%80%93%20There%20Is%20a%20Fountain.mp3"
   },
   {
     "title": "Redeemed!",
@@ -5016,7 +5086,8 @@
         "Redeemed, (Redeemed);;, redeemed, (Redeemed);;,",
         "His child, and forever, I am."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/337%20%E2%80%93%20Redeemed%21.mp3"
   },
   {
     "title": "Jesus Saves",
@@ -5075,7 +5146,8 @@
           "Jesus saves, Jesus saves."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/340%20%E2%80%93%20Jesus%20Saves.mp3"
   },
   {
     "title": "To God Be the Glory",
@@ -5119,7 +5191,8 @@
         "O come to the Father through Jesus the Son,",
         "and give Him the glory, great things He hath done!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/341%20%E2%80%93%20To%20God%20Be%20the%20Glory.mp3"
   },
   {
     "title": "There's Life in a Look",
@@ -5286,7 +5359,8 @@
           "shall be the church at rest."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/348%20%E2%80%93%20The%20Church%20Has%20One%20Foundation.mp3"
   },
   {
     "title": "Blest Be the Tie That Binds",
@@ -5329,7 +5403,8 @@
           "and hope to meet again."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/350%20%E2%80%93%20Blest%20Be%20the%20Tie%20That%20Binds.mp3"
   },
   {
     "title": "We Give This Child to You",
@@ -5363,7 +5438,8 @@
           "Be subject to Your will."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/379%20%E2%80%93%20We%20Give%20This%20Child%20to%20You.mp3"
   },
   {
     "title": "Far and Near the Fields Are Teeming",
@@ -5405,7 +5481,8 @@
         "Send them now the sheaves to gather,",
         "Ere the harvest-time pass by."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/358%20%E2%80%93%20Far%20and%20Near%20the%20Fields%20Are%20Teeming.mp3"
   },
   {
     "title": "Hark! the Voice of Jesus Calling",
@@ -5464,7 +5541,8 @@
           "\"Here am I, O Lord, send me.\""
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/359%20%E2%80%93%20Hark%21%20the%20Voice%20of%20Jesus%20Calling.mp3"
   },
   {
     "title": "Hark! 'Tis the Shepherd's Voice I Hear",
@@ -5506,7 +5584,8 @@
         "Bring them in, Bring them in,",
         "Bring the wanderers to Jesus."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/361%20%E2%80%93%20Hark%21%20%27Tis%20the%20Shepherd%27s%20Voice%20I%20Hear.mp3"
   },
   {
     "title": "O Zion, Haste",
@@ -5597,7 +5676,8 @@
         "Bringing in the sheaves, Bringing in the sheaves,",
         "We shall come rejoicing, Bringing in the sheaves."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/369%20%E2%80%93%20Bringing%20in%20the%20Sheaves.mp3"
   },
   {
     "title": "O Where Are the Reapers?",
@@ -5639,7 +5719,8 @@
         "O who will help us to garner in",
         "The sheaves of good from the fields of sin?"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/366%20%E2%80%93%20O%20Where%20Are%20the%20Reapers.mp3"
   },
   {
     "title": "Rescue the Perishing",
@@ -5679,7 +5760,8 @@
         "Rescue the perishing, care for the dying;",
         "Jesus is merciful, Jesus will save."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/367%20%E2%80%93%20Rescue%20the%20Perishing.mp3"
   },
   {
     "title": "Watchman, Blow the Gospel Trumpet",
@@ -5730,7 +5812,8 @@
         "God commissions, sound the message!",
         "Every captive may be free."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/368%20%E2%80%93%20Watchman%2C%20Blow%20the%20Gospel%20Trumpet.mp3"
   },
   {
     "title": "Lift Him Up",
@@ -5797,7 +5880,8 @@
         "Lift Him up, 'tis He that speaketh,",
         "Now He bids you flee from wrong."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/371%20%E2%80%93%20Lift%20Him%20Up.mp3"
   },
   {
     "title": "Work, for the Night Is Coming",
@@ -5843,7 +5927,8 @@
           "When man's work is o'er."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/375%20%E2%80%93%20Work%2C%20for%20the%20Night%20Is%20Coming.mp3"
   },
   {
     "title": "O Day of Rest and Gladness",
@@ -5889,7 +5974,8 @@
           "To mansions of the blest."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/382%20%E2%80%93%20O%20Day%20of%20Rest%20and%20Gladness.mp3"
   },
   {
     "title": "Far From All Care",
@@ -5932,7 +6018,8 @@
           "And sing redemption's song each Sabbath day."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/394%20%E2%80%93%20Far%20From%20All%20Care.mp3"
   },
   {
     "title": "Safely Through Another Week",
@@ -5991,7 +6078,8 @@
           "Till we we rise to reign with Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/384%20%E2%80%93%20Safely%20Through%20Another%20Week.mp3"
   },
   {
     "title": "Don't Forget the Sabbath",
@@ -6087,7 +6175,8 @@
           "to this waiting heart of mine."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/391%20%E2%80%93%20Welcome%2C%20Welcome%2C%20Day%20of%20Rest.mp3"
   },
   {
     "title": "Another Six Days' Work Is Done",
@@ -6229,7 +6318,8 @@
         "We're marching upward to Zion,",
         "The beautiful city of God."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/422%20%E2%80%93%20Marching%20to%20Zion.mp3"
   },
   {
     "title": "No Night There",
@@ -6280,7 +6370,8 @@
         "And they count not time by years,",
         "For there is no night there."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/427%20%E2%80%93%20No%20Night%20There.mp3"
   },
   {
     "title": "I Shall See the King",
@@ -6322,7 +6413,8 @@
         "'Twas on Calvary Jesus died for me;",
         "I shall see the King someday."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/426%20%E2%80%93%20I%20Shall%20See%20the%20King.mp3"
   },
   {
     "title": "Sweet By and By",
@@ -6366,7 +6458,8 @@
         "By and by by and by",
         "We shall meet on that beautiful shore."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/428%20%E2%80%93%20Sweet%20By%20and%20By.mp3"
   },
   {
     "title": "Shall We Gather at the River",
@@ -6417,7 +6510,8 @@
         "gather with the saints at the river",
         "that flows by the throne of God."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/432%20%E2%80%93%20Shall%20We%20Gather%20at%20the%20River.mp3"
   },
   {
     "title": "The Glory Song",
@@ -6463,7 +6557,8 @@
         "I shall look on His face,",
         "That will be glory, be glory for me."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/435%20%E2%80%93%20The%20Glory%20Song.mp3"
   },
   {
     "title": "My Lord and I",
@@ -6522,7 +6617,8 @@
           "My Lord and I."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/456%20%E2%80%93%20My%20Lord%20and%20I.mp3"
   },
   {
     "title": "I Love to Tell the Story",
@@ -6589,7 +6685,8 @@
         "to tell the old, old story",
         "of Jesus and His love."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/457%20%E2%80%93%20I%20Love%20to%20Tell%20the%20Story.mp3"
   },
   {
     "title": "Blessed Assurance, Jesus is Mine!",
@@ -6631,7 +6728,8 @@
         "this is my story, this is my song,",
         "praising my Savior all the day long."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/462%20%E2%80%93%20Blessed%20Assurance%2C%20Jesus%20is%20Mine%21.mp3"
   },
   {
     "title": "Wonderful Peace",
@@ -6682,7 +6780,8 @@
         "Sweep over my spirit forever, I pray,",
         "In fathomless billows of love."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/466%20%E2%80%93%20Wonderful%20Peace.mp3"
   },
   {
     "title": "A Child of the King",
@@ -6733,7 +6832,8 @@
         "With Jesus my Savior,",
         "I'm a child of the King."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/468%20%E2%80%93%20A%20Child%20of%20the%20King.mp3"
   },
   {
     "title": "Leaning on the Everlasting Arms",
@@ -6775,7 +6875,8 @@
         "leaning, leaning,",
         "leaning on the everlasting arms."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/469%20%E2%80%93%20Leaning%20on%20the%20Everlasting%20Arms.mp3"
   },
   {
     "title": "There's Sunshine in My Soul Today",
@@ -6826,7 +6927,8 @@
         "When Jesus shows His smiling face",
         "There is sunshine in the soul."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/470%20%E2%80%93%20There%27s%20Sunshine%20in%20My%20Soul%20Today.mp3"
   },
   {
     "title": "When Upon Life's Billows",
@@ -7061,7 +7163,8 @@
           "nearer, my God, to thee, nearer to thee!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/473%20%E2%80%93%20Nearer%20My%20God%2C%20to%20Thee.mp3"
   },
   {
     "title": "Take the Name of Jesus With You",
@@ -7112,7 +7215,8 @@
         "Precious Name, O how sweet!",
         "Hope of earth and joy of Heav'n."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/474%20%E2%80%93%20Take%20the%20Name%20of%20Jesus%20With%20You.mp3"
   },
   {
     "title": "Sweet Hour of Prayer",
@@ -7158,7 +7262,8 @@
           "Farewell, farewell, sweet hour of prayer!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/478%20%E2%80%93%20Sweet%20Hour%20of%20Prayer.mp3"
   },
   {
     "title": "I Need Thee Every Hour",
@@ -7200,7 +7305,8 @@
         "every hour I need thee;",
         "O bless me now, my Savior, I come to thee."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/483%20%E2%80%93%20I%20Need%20Thee%20Every%20Hour.mp3"
   },
   {
     "title": "In the Garden",
@@ -7242,7 +7348,8 @@
         "And the joy we share as we tarry there,",
         "None other has ever known."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/487%20%E2%80%93%20In%20the%20Garden.mp3"
   },
   {
     "title": "Jesus, Lover of My Soul",
@@ -7301,7 +7408,8 @@
           "Rise to all eternity."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/489%20%E2%80%93%20Jesus%2C%20Lover%20of%20My%20Soul.mp3"
   },
   {
     "title": "We Would See Jesus",
@@ -7344,7 +7452,8 @@
           "Soon to return and end this mortal night!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/494%20%E2%80%93%20We%20Would%20See%20Jesus.mp3"
   },
   {
     "title": "Near to the Heart of God",
@@ -7386,7 +7495,8 @@
         "hold us who wait before thee",
         "near to the heart of God."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/495%20%E2%80%93%20Near%20to%20the%20Heart%20of%20God.mp3"
   },
   {
     "title": "What a Friend We Have in Jesus",
@@ -7432,7 +7542,8 @@
           "You will find a solace there."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/499%20%E2%80%93%20What%20a%20Friend%20We%20Have%20in%20Jesus.mp3"
   },
   {
     "title": "Take Time to Be Holy",
@@ -7491,7 +7602,8 @@
           "for service above."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/500%20%E2%80%93%20Take%20Time%20to%20Be%20Holy.mp3"
   },
   {
     "title": "'Tis the Blessed Hour of Prayer",
@@ -7672,7 +7784,8 @@
           "His kingdom is forever."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/506%20%E2%80%93%20A%20Mighty%20Fortress.mp3"
   },
   {
     "title": "Moment by Moment",
@@ -7723,7 +7836,8 @@
         "Looking to Jesus till glory doth shine;",
         "Moment by moment, O Lord, I am Thine."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/507%20%E2%80%93%20Moment%20by%20Moment.mp3"
   },
   {
     "title": "Anywhere With Jesus",
@@ -7763,7 +7877,8 @@
         "Anywhere, anywhere! Fear I cannot know;",
         "Anywhere with Jesus I can safely go."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/508%20%E2%80%93%20Anywhere%20With%20Jesus.mp3"
   },
   {
     "title": "How Firm a Foundation",
@@ -7815,7 +7930,8 @@
           "I'll never, no never, no never forsake!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/509%20%E2%80%93%20How%20Firm%20a%20Foundation.mp3"
   },
   {
     "title": "Just When I Need Him Most",
@@ -7874,7 +7990,8 @@
           "Just when I need Him most."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/512%20%E2%80%93%20Just%20When%20I%20Need%20Him%20Most.mp3"
   },
   {
     "title": "The Lord Is My Light",
@@ -7925,7 +8042,8 @@
         "The Lord is my light, my joy, and my song;",
         "By day and by night He leads me along."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/515%20%E2%80%93%20The%20Lord%20Is%20My%20Light.mp3"
   },
   {
     "title": "All the Way",
@@ -7977,7 +8095,8 @@
           "Jesus led me all the way."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/516%20%E2%80%93%20All%20the%20Way.mp3"
   },
   {
     "title": "5My Faith Looks Up to Thee",
@@ -8020,7 +8139,8 @@
           "from Thee aside."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/517%20%E2%80%93%20My%20Faith%20Looks%20Up%20to%20Thee.mp3"
   },
   {
     "title": "He Hideth My Soul",
@@ -8072,7 +8192,8 @@
         "And covers me there with His hand,",
         "And covers me there with His hand."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/520%20%E2%80%93%20He%20Hideth%20My%20Soul.mp3"
   },
   {
     "title": "My Hope Is Built on Nothing Less",
@@ -8122,7 +8243,8 @@
         "all other ground is sinking sand,",
         "all other ground is sinking sand."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/522%20%E2%80%93%20My%20Hope%20Is%20Built%20on%20Nothing%20Less.mp3"
   },
   {
     "title": "'Tis So Sweet to Trust in Jesus",
@@ -8216,7 +8338,8 @@
         "Standing, standing,",
         "I'm standing on the promises of God."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/518%20%E2%80%93%20Standing%20on%20the%20Promises.mp3"
   },
   {
     "title": "Hiding in Thee",
@@ -8257,7 +8380,8 @@
         "Thou blest “Rock of Ages,”",
         "I’m hiding in Thee."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/525%20%E2%80%93%20Hiding%20in%20Thee.mp3"
   },
   {
     "title": "A Shelter in the Time of Storm",
@@ -8308,7 +8432,8 @@
         "Faithful guide for the pilgrim band—",
         "A shelter in the time of storm."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/528%20%E2%80%93%20A%20Shelter%20in%20the%20Time%20of%20Storm.mp3"
   },
   {
     "title": "Under His Wings",
@@ -8350,7 +8475,8 @@
         "Under His wings, my soul shall abide,",
         "Safely abide forever."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/529%20%E2%80%93%20Under%20His%20Wings.mp3"
   },
   {
     "title": "It Is Well With My Soul",
@@ -8390,7 +8516,8 @@
         "It is well with my soul,",
         "it is well, it is well with my soul."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/530%20%E2%80%93%20It%20Is%20Well%20With%20My%20Soul.mp3"
   },
   {
     "title": "We'll Build on the Rock",
@@ -8432,7 +8559,8 @@
         "We’ll build on the Rock, on the solid Rock,",
         "On Christ, the mighty Rock."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/531%20%E2%80%93%20We%27ll%20Build%20on%20the%20Rock.mp3"
   },
   {
     "title": "Will Your Anchor Hold",
@@ -8492,7 +8620,8 @@
         "Fastened to the Rock which cannot move,",
         "Grounded firm and deep in the Savior's love."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/534%20%E2%80%93%20Will%20Your%20Anchor%20Hold.mp3"
   },
   {
     "title": "Blessed Lord How Much I Need Thee",
@@ -8594,7 +8723,8 @@
         "His faithful follower I would be,",
         "for by His hand He leadeth me."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/537%20%E2%80%93%20He%20Leadeth%20Me.mp3"
   },
   {
     "title": "I Will Early Seek the Savior",
@@ -8636,7 +8766,8 @@
         "Jesus loves me, died to save me,",
         "This is why I love Him so."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/539%20%E2%80%93%20I%20Will%20Early%20Seek%20the%20Savior.mp3"
   },
   {
     "title": "Savior, Like a Shepherd",
@@ -8682,7 +8813,8 @@
           "We will early turn to thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/545%20%E2%80%93%20Savior%2C%20Like%20a%20Shepherd.mp3"
   },
   {
     "title": "Jesus, Savior, Pilot Me",
@@ -8722,7 +8854,8 @@
           "Fear not, I will pilot thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/551%20%E2%80%93%20Jesus%2C%20Savior%2C%20Pilot%20Me.mp3"
   },
   {
     "title": "O Let Me Walk With Thee",
@@ -8762,7 +8895,8 @@
           "Yet, Savior, let me walk with Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/554%20%E2%80%93%20O%20Let%20Me%20Walk%20With%20Thee.mp3"
   },
   {
     "title": "The home where changes never come",
@@ -8994,7 +9128,8 @@
           "Christ only, always, living in me!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/567%20%E2%80%93%20Have%20Thine%20Own%20Way%2C%20Lord.mp3"
   },
   {
     "title": "Pass Me Not, O Gentle Savior",
@@ -9044,7 +9179,8 @@
         "while on others thou art calling,",
         "do not pass me by."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/569%20%E2%80%93%20Pass%20Me%20Not%2C%20O%20Gentle%20Savior.mp3"
   },
   {
     "title": "Not I, But Christ",
@@ -9087,7 +9223,8 @@
           "Christ, only Christ, here and eternally."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/570%20%E2%80%93%20Not%20I%2C%20But%20Christ.mp3"
   },
   {
     "title": "In the Heart of Jesus",
@@ -9130,7 +9267,8 @@
           "If the home of Jesus holds for you a place?"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/577%20%E2%80%93%20In%20the%20Heart%20of%20Jesus.mp3"
   },
   {
     "title": "Working, O Christ, With Thee",
@@ -9173,7 +9311,8 @@
           "And join us evermore, working with Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/582%20%E2%80%93%20Working%2C%20O%20Christ%2C%20With%20Thee.mp3"
   },
   {
     "title": "I Am Thinking Today of That Beautiful Land",
@@ -9355,7 +9494,8 @@
         "Trust and obey, for there's no other way",
         "to be happy in Jesus, but to trust and obey."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/590%20%E2%80%93%20Trust%20and%20Obey.mp3"
   },
   {
     "title": "One Thing I of the Lord Desire",
@@ -9499,7 +9639,8 @@
           "Heirs of the kingdom, rejoice ye and sing."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/594%20%E2%80%93%20Heir%20of%20the%20Kingdom.mp3"
   },
   {
     "title": "O Brother, Be Faithful",
@@ -9660,7 +9801,8 @@
         "Jesus comes to reign victorious,",
         "Lo! He comes, yes, Jesus comes."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/598%20%E2%80%93%20Watch%2C%20Ye%20Saints.mp3"
   },
   {
     "title": "Hold Fast Till I Come",
@@ -9702,7 +9844,8 @@
         "Come, enter My joy, sit down on the throne;",
         "Bright crowns are in waiting; hold fast till I come."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/600%20%E2%80%93%20Hold%20Fast%20Till%20I%20Come.mp3"
   },
   {
     "title": "We Know Not the Hour",
@@ -9744,7 +9887,8 @@
         "He will come in the clouds of His Father's",
         "bright glory but we know not the hour."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/604%20%E2%80%93%20We%20Know%20Not%20the%20Hour.mp3"
   },
   {
     "title": "Some Day the Silver Cord Will Break",
@@ -9835,7 +9979,8 @@
         "Stand like the brave, stand like the brave,",
         "Stand like the brave, with thy face to the foe."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/610%20%E2%80%93%20Stand%20Like%20the%20Brave.mp3"
   },
   {
     "title": "Onward, Christian Soldiers!",
@@ -9884,7 +10029,8 @@
         "Onward, Christian soldiers, marching as to war,",
         "with the cross of Jesus going on before."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/612%20%E2%80%93%20Onward%2C%20Christian%20Soldiers%21.mp3"
   },
   {
     "title": "Sound the Battle Cry",
@@ -9938,7 +10084,8 @@
         "Onward, forward, shout aloud hosanna!",
         "Christ is Captain of the mighty throng."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/614%20%E2%80%93%20Sound%20the%20Battle%20Cry.mp3"
   },
   {
     "title": "We Are Living, We Are Dwelling",
@@ -9981,7 +10128,8 @@
           "Hath the promise, in the kingdom An eternity to spend."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/617%20%E2%80%93%20We%20Are%20Living%2C%20We%20Are%20Dwelling.mp3"
   },
   {
     "title": "Stand Up! Stand Up for Jesus!",
@@ -10024,7 +10172,8 @@
           "He with the King of glory shall reign eternally."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/618%20%E2%80%93%20Stand%20Up%21%20Stand%20Up%20for%20Jesus%21.mp3"
   },
   {
     "title": "I Will Follow Thee",
@@ -10084,7 +10233,8 @@
         "And though all men should forsake Thee;",
         "By Thy grace I'll follow Thee."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/623%20%E2%80%93%20I%20Will%20Follow%20Thee.mp3"
   },
   {
     "title": "Higher Ground",
@@ -10135,7 +10285,8 @@
         "A higher plane than I have found;",
         "Lord, plant my feet on higher ground."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/625%20%E2%80%93%20Higher%20Ground.mp3"
   },
   {
     "title": "In a Little While We're Going Home",
@@ -10186,7 +10337,8 @@
         "We shall meet at last, When the stormy winds are past,",
         "In a little while we're going home."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/626%20%E2%80%93%20In%20a%20Little%20While%20We%27re%20Going%20Home.mp3"
   },
   {
     "title": "Yield Not to Temptation",
@@ -10279,7 +10431,8 @@
         "When we all see Jesus,",
         "We'll sing and shout the victory!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/633%20%E2%80%93%20When%20We%20All%20Get%20to%20Heaven.mp3"
   },
   {
     "title": "Would You Win A Saviour's Blessing?",
@@ -10381,7 +10534,8 @@
         "Time doth softly, sweetly glide,",
         "When there's love at home."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/652%20%E2%80%93%20Love%20at%20Home.mp3"
   },
   {
     "title": "O Perfect Love",
@@ -10415,7 +10569,8 @@
           "that dawns upon eternal love and life."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/656%20%E2%80%93%20O%20Perfect%20Love.mp3"
   },
   {
     "title": "Not Now, but in the Coming Years",
@@ -10534,7 +10689,8 @@
           "Raise the glorious harvest home!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/557%20%E2%80%93%20Come%2C%20Ye%20Thankful%20People.mp3"
   },
   {
     "title": "Cast Thy Burden Upon the Lord",
@@ -10552,7 +10708,8 @@
           "Let none be made ashamed, that wait upon Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/666%20%E2%80%93%20Cast%20Thy%20Burden%20Upon%20the%20Lord.mp3"
   },
   {
     "title": "O Thou Who Hearest",
@@ -10568,7 +10725,8 @@
           "O let this Sabbath hour with Him be bright. Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/668%20%E2%80%93%20O%20Thou%20Who%20Hearest.mp3"
   },
   {
     "title": "The Lord Bless You and Keep You",
@@ -10588,7 +10746,8 @@
           "Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/669%20%E2%80%93%20The%20Lord%20Bless%20You%20and%20Keep%20You.mp3"
   },
   {
     "title": "As We Come to You in Prayer",
@@ -10625,7 +10784,8 @@
           "Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/684%20%E2%80%93%20Hear%20Our%20Prayer%2C%20O%20Lord.mp3"
   },
   {
     "title": "Praise God, From Whom All Blessings",
@@ -10641,7 +10801,8 @@
           "Praise Father, Son, and Holy Ghost."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/694%20%E2%80%93%20Praise%20God%2C%20From%20Whom%20All%20Blessings.mp3"
   },
   {
     "title": "Dismiss Us, Lord With Blessing",
@@ -10658,7 +10819,8 @@
           "Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/690%20%E2%80%93%20Dismiss%20Us%2C%20Lord%20With%20Blessing.mp3"
   },
   {
     "title": "The Lord Is in His Holy Temple",
@@ -10676,7 +10838,8 @@
           "Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/687%20%E2%80%93%20The%20Lord%20Is%20in%20His%20Holy%20Temple.mp3"
   },
   {
     "title": "We Shall Behold Him",

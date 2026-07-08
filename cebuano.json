@@ -28,7 +28,8 @@
           "Kung kining tanan dad-on sa atubangan; Uban ang pagsalig ug paglaum; Sa walay duha-duha Iyang dawaton; Tungod sa ngalan nga malahalon"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/006%20%E2%80%93%20O%20Worship%20the%20Lord.mp3"
   },
   {
     "title": "Ang Dios Hari sa Sion",
@@ -62,7 +63,8 @@
           "Ituboy ug koronahan, Hari nga gamhanan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/007%20%E2%80%93%20The%20Lord%20in%20Zion%20Reigneth.mp3"
   },
   {
     "title": "Nagtigum Kita",
@@ -87,7 +89,8 @@
           "Gituboy ta ang Pangulong madaugon, Mag-ampo nga maglaban Sya gihapon; I-iway kami sa mga kalisdanan, Ang Imong ngalan daygon, Dios nga gamhanan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/008%20%E2%80%93%20We%20Gather%20Together.mp3"
   },
   {
     "title": "Haring Magbuhat",
@@ -126,7 +129,8 @@
           "Matag pulong ug tinguha alang gyud Kanimo."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/015%20%E2%80%93%20My%20Maker%20and%20My%20King.mp3"
   },
   {
     "title": "Maglipay Kamong Putli",
@@ -180,11 +184,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Maglipay! Maglipay!",
-        "Maglipay ug mag-awit!"
-      ]
-    }
+      "lines": ["Maglipay! Maglipay!", "Maglipay ug mag-awit!"]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
   {
     "title": "Manag-awit sa Kalipay",
@@ -226,7 +228,8 @@
         "Mag-awit, mag-awit,",
         "Mag-awit sa kalipay"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/034%20%E2%80%93%20Wake%20the%20Song.mp3"
   },
   {
     "title": "Matam-is ang Ngalang Jesus",
@@ -362,7 +365,8 @@
           "Buot Mong palaktan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/039%20%E2%80%93%20Lord%2C%20in%20the%20Morning.mp3"
   },
   {
     "title": "Daw Unsa nga Kahimut-an",
@@ -448,7 +452,8 @@
           "Kon Ikaw mouban pagpadayon."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/050%20%E2%80%93%20Abide%20With%20Me.mp3"
   },
   {
     "title": "Nagsalop sa Kadadpan",
@@ -498,7 +503,8 @@
         "Langit, yuta maglipay",
         "Magdayeg sa kanunay sa Ginoo."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/051%20%E2%80%93%20Day%20Is%20Dying%20in%20the%20West.mp3"
   },
   {
     "title": "Ginoo, Papaulia",
@@ -521,7 +527,8 @@
           "Mo kami sa kaulipnan ang imo mang binuhat."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/064%20%E2%80%93%20Lord%2C%20Dismiss%20Us%20With%20Thy%20Blessing.mp3"
   },
   {
     "title": "Ang Dios Magauban Kanimo",
@@ -574,7 +581,8 @@
         "Unya magpahulay",
         "Kita sa wanay katapusan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/065%20%E2%80%93%20God%20Be%20With%20You.mp3"
   },
   {
     "title": "Umari Ka Karon",
@@ -617,7 +625,8 @@
           "Dawata na kami, O Ginoo"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/071%20%E2%80%93%20Come%20Thou%20Almighty%20King.mp3"
   },
   {
     "title": "Balaan, Balaan",
@@ -660,7 +669,8 @@
           "Tulo ka Persona, Dios nga Trinidad!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/073%20%E2%80%93%20Holy%20Holy%20Holy.mp3"
   },
   {
     "title": "Kung ang Gugma sa Ginoo",
@@ -754,7 +764,8 @@
           "Unya bulak mangalimyon kinabuhaing dayon."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/076%20%E2%80%93%20O%20Love%20That%20Wilt%20Not%20Let%20Me%20Go.mp3"
   },
   {
     "title": "Sama sa Amahang Nagpangga",
@@ -873,10 +884,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Dios nong gugma! Ang nagluwas;",
-        "Ang gugma nagluwas."
-      ]
+      "lines": ["Dios nong gugma! Ang nagluwas;", "Ang gugma nagluwas."]
     }
   },
   {
@@ -1027,7 +1035,8 @@
           "Ngadto sa way katapusan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/082%20%E2%80%93%20Before%20Jehovah%27s%20Awful%20Throne.mp3"
   },
   {
     "title": "Simbahon Ang Hari nga Langitnon",
@@ -1070,7 +1079,8 @@
           "Magbubuhat, Magluluwas ug Higala."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/083%20%E2%80%93%20O%20Worship%20the%20King.mp3"
   },
   {
     "title": "Ginaawit Ko ang Gahum",
@@ -1104,7 +1114,8 @@
           "Bisan asa ka moadto tua ang Dios didto."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/088%20%E2%80%93%20I%20Sing%20the%20Mighty%20Power%20of%20God.mp3"
   },
   {
     "title": "Kini ang Kalibutan sa Akong Amahan",
@@ -1144,7 +1155,8 @@
           "Maglipay ang Dios Hari man."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/092%20%E2%80%93%20This%20Is%20My%20Father%27s%20World.mp3"
   },
   {
     "title": "Bantayan Kasa Dios",
@@ -1195,7 +1207,8 @@
         "Bantayan ka Niya,",
         "Bantayan ka sa Dios."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/099%20%E2%80%93%20God%20Will%20Take%20Care%20of%20You.mp3"
   },
   {
     "title": "Ang Una nga Noel",
@@ -1249,11 +1262,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Noel, Noel, Noel, Noel,",
-        "Natawo ang Hari sa Israel."
-      ]
-    }
+      "lines": ["Noel, Noel, Noel, Noel,", "Natawo ang Hari sa Israel."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
   {
     "title": "Sa Hangin May Honi",
@@ -1296,7 +1307,8 @@
           "Pag abi-abi sa Batang Manluluwas."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/120%20%E2%80%93%20There%27s%20a%20Song%20in%20the%20Air.mp3"
   },
   {
     "title": "Manolunda Nanag-awit",
@@ -1333,7 +1345,8 @@
           "Manolunda nag-awit \"Himaya sa bagong Hari!\""
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/122%20%E2%80%93%20Hark%21%20the%20Herald%20Angels%20Sing.mp3"
   },
   {
     "title": "Kalipay sa Kalibutan",
@@ -1376,7 +1389,8 @@
           "Ug sa dakung gugma Niya."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/125%20%E2%80%93%20Joy%20to%20the%20World.mp3"
   },
   {
     "title": "Usa Ka Tungang Gabii",
@@ -1410,7 +1424,8 @@
           "Pahulay sa agianan angel pamatian mo."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/130%20%E2%80%93%20It%20Came%20Upon%20the%20Midnight%20Clear.mp3"
   },
   {
     "title": "Kamong Nanagtuman",
@@ -1449,7 +1464,8 @@
         "Ato Siyang simbahon",
         "Cristo nga Dios."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/132%20%E2%80%93%20O%20Come%2C%20All%20Ye%20Faithful.mp3"
   },
   {
     "title": "Diotayng Lungsod sa Bethlehem",
@@ -1492,7 +1508,8 @@
           "Umanhi Ka'g mapabilin manluluwas namo."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/135%20%E2%80%93%20O%20Little%20Town%20of%20Bethlehem.mp3"
   },
   {
     "title": "Malinawon ug Balaan",
@@ -1535,7 +1552,8 @@
           "Si Cristo Manunubos, si Cristo Manunubos."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/143%20%E2%80%93%20Silent%20Night%2C%20Holy%20Night.mp3"
   },
   {
     "title": "Suginli Ko Mahitungod Kang Jesus",
@@ -1577,7 +1595,8 @@
         "Sa hamiling sugilanon",
         "Matam-is pamation"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/152%20%E2%80%93%20Tell%20Me%20the%20Story%20of%20Jesus.mp3"
   },
   {
     "title": "Ang Maayong Higala",
@@ -1738,7 +1757,8 @@
         "Gakuson ko ang baul N'yang krus",
         "Unya kailisag korona"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/159%20%E2%80%93%20The%20Old%20Rugged%20Cross.mp3"
   },
   {
     "title": "Si Cristo Nabanhaw Karon",
@@ -1781,7 +1801,8 @@
           "Maato ang kadaugan tanan, Aleluya!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/166%20%E2%80%93%20Christ%20the%20Lord%20Is%20Risen%20Today.mp3"
   },
   {
     "title": "Awitong Gugma ni Jesus",
@@ -1823,7 +1844,8 @@
         "Namatay sa pagluwas",
         "Awiton ang gugma N'ya"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/183%20%E2%80%93%20I%20Will%20Sing%20of%20Jesus%27%20Love.mp3"
   },
   {
     "title": "Si Jesus sa Tanang Kalibutan",
@@ -1866,7 +1888,8 @@
           "Kalipay nga dimatapus abyan ko."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/185%20%E2%80%93%20Jesus%20Is%20All%20the%20World%20to%20Me.mp3"
   },
   {
     "title": "Hikaplagan Ko ang Abyan",
@@ -1909,7 +1932,8 @@
           "Higugmaon ko Ikaw man hangtud sa katapusan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/186%20%E2%80%93%20I%27ve%20Found%20a%20Friend.mp3"
   },
   {
     "title": "Diosnong Gugma, Kahalangdon",
@@ -1952,7 +1976,8 @@
           "Kanimo kami moyukbo among kalipayng hingpit."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/191%20%E2%80%93%20Love%20Divine.mp3"
   },
   {
     "title": "Mga Ulan sa Panalangin",
@@ -1993,7 +2018,8 @@
         "Ipaulan na gikinahanglan namo",
         "Mga ulan sa kaluoy ang among gipangandoy"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/195%20%E2%80%93%20Showers%20of%20Blessing.mp3"
   },
   {
     "title": "Isaysay Kanako ang Sugilon",
@@ -2033,7 +2059,8 @@
         "Isaysay kanako ang karaang kasaysayan",
         "Tungod sa gugmang Jesus nga hilabihan man"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/196%20%E2%80%93%20Tell%20Me%20the%20Old%2C%20Old%20Story.mp3"
   },
   {
     "title": "Dayega Siya nga Hari",
@@ -2075,7 +2102,8 @@
         "Kini ang sugilon",
         "Si Jesus moanhi"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/202%20%E2%80%93%20Hail%20Him%20the%20King%20of%20Glory.mp3"
   },
   {
     "title": "Akong Makita Si Cristo",
@@ -2126,7 +2154,8 @@
         "Sa mahimayaong nawong",
         "Sa ako nga Ginoo."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/206%20%E2%80%93%20Face%20to%20Face.mp3"
   },
   {
     "title": "Sayo sa Buntag kon ang Adlaw Magpukaw",
@@ -2167,7 +2196,8 @@
         "Mabati na namo; Ang Ginoo, ania na,",
         "Aleluya, Amen! Aleluya, Amen!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/207%20%E2%80%93%20It%20May%20Be%20at%20Morn.mp3"
   },
   {
     "title": "Mga Trumpeta Patingoga",
@@ -2212,11 +2242,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Mobalik S'ya, mobalik S'ya,",
-        "Si Jesus mobalik na."
-      ]
-    }
+      "lines": ["Mobalik S'ya, mobalik S'ya,", "Si Jesus mobalik na."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
   },
   {
     "title": "Kon Tingugon ang Trumpeta",
@@ -2258,7 +2286,8 @@
         "Kon pagatawgon ang ngalan",
         "Kon tawgon ang ngalan dito ko daayon"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/216%20%E2%80%93%20When%20the%20Roll%20Is%20Called%20Up%20Yonder.mp3"
   },
   {
     "title": "Kon si Jesus Mobalik Na",
@@ -2300,7 +2329,8 @@
         "Magsidlak sa katahum",
         "Mahal Kaniya"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/218%20%E2%80%93%20When%20He%20Cometh.mp3"
   },
   {
     "title": "Dili Nato Mahibaloan",
@@ -2763,7 +2793,8 @@
           "Nga Ikaw pagkoronahan Ginoo sa tanan"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/229%20%E2%80%93%20All%20Hail%20the%20Power%20of%20Jesus%27%20Name.mp3"
   },
   {
     "title": "Akong Gihigugma Ikaw",
@@ -2806,7 +2837,8 @@
           "Magamalipayon sa kaluwasan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/236%20%E2%80%93%20I%20Love%20Thee.mp3"
   },
   {
     "title": "Mahigugmaong Dios",
@@ -2845,7 +2877,8 @@
           "Pagdayeg pag-amba Kanimo sa kahangturan"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/240%20%E2%80%93%20Fairest%20Lord%20Jesus.mp3"
   },
   {
     "title": "Corderong May Katakus",
@@ -2885,7 +2918,8 @@
         "Dayga Aleluya! Dayga Aleluya!",
         "Dayga Aleluya! Balaan nga Cordero!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/246%20%E2%80%93%20Worthy%2C%20Worthy%20Is%20the%20Lamb.mp3"
   },
   {
     "title": "Dayegon Ta si Jesus",
@@ -2927,11 +2961,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Dayegon ta gayud Siya ug tinuod",
-        "Kay Siya maayo ug matuod."
-      ]
-    }
+      "lines": ["Dayegon ta gayud Siya ug tinuod", "Kay Siya maayo ug matuod."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/249%20%E2%80%93%20Praise%20Him%21%20Praise%20Him%21.mp3"
   },
   {
     "title": "Wala Nay Lain Ngalan",
@@ -2991,7 +3023,8 @@
         "Ngalang timos",
         "Wala nay sama kang Jesus"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/253%20%E2%80%93%20There%27s%20No%20Other%20Name%20Like%20Jesus.mp3"
   },
   {
     "title": "Hupnga Man sa Espiritu",
@@ -3042,7 +3075,8 @@
         "Aron ako mahugasan",
         "Sa akong kasalanan"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/260%20%E2%80%93%20Hover%20O%27er%20Me%2C%20Holy%20Spirit.mp3"
   },
   {
     "title": "Hupnga Man sa Espiritu",
@@ -3093,7 +3127,8 @@
         "Aron ako mahugasan",
         "Sa akong kasalanan"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/268%20%E2%80%93%20Holy%20Spirit%2C%20Light%20Divine.mp3"
   },
   {
     "title": "Balaang Espiritu, Kunsari Kami",
@@ -3222,7 +3257,8 @@
           "Kaming tanang mga piniutan"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/271%20%E2%80%93%20Break%20Thou%20the%20Bread%20of%20Life.mp3"
   },
   {
     "title": "Ambi ang Biblia",
@@ -3264,7 +3300,8 @@
         "Makamando ang Iyang tulomanon",
         "Ug magtultol kanato sa langit"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/272%20%E2%80%93%20Give%20Me%20the%20Bible.mp3"
   },
   {
     "title": "Unsay Giingon sa Kasulatan?",
@@ -3335,7 +3372,8 @@
         "Si Jesus lamang saligi Siya laumi",
         "Kay di ka Niya itugyan sa kadautan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/279%20%E2%80%93%20Only%20Trust%20Him.mp3"
   },
   {
     "title": "Ang Kinabuhi Ko",
@@ -3369,7 +3407,8 @@
           "Ang tanan igahatag ko, unsa man ang imo?"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/281%20%E2%80%93%20I%20Gave%20My%20Life%20for%20Thee.mp3"
   },
   {
     "title": "Nakadungog Ako",
@@ -3406,11 +3445,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Karon Ginoo mandoi ako",
-        "Sa dugo sa Calbaryo hugasi man ako"
-      ]
-    }
+      "lines": ["Karon Ginoo mandoi ako", "Sa dugo sa Calbaryo hugasi man ako"]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/282%20%E2%80%93%20I%20Hear%20Thy%20Welcome%20Voice.mp3"
   },
   {
     "title": "Awiton Nato Pagusab",
@@ -3449,7 +3486,8 @@
         "Kahibulongan nga pulong",
         "Pulong sa atong Dios."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/286%20%E2%80%93%20Wonderful%20Words%20of%20Life.mp3"
   },
   {
     "title": "Malumo, Si Jesus Nga Nagtawag",
@@ -3491,7 +3529,8 @@
         "Malumo si Jesus nga nagatawag",
         "Igsoon ko pauli."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/287%20%E2%80%93%20Softly%20and%20Tenderly.mp3"
   },
   {
     "title": "Gitawag Ka Ni Jesus",
@@ -3743,7 +3782,8 @@
         "May gahum ang dugo ni Jesus",
         "Ni Jesus man nga Cordero."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/294%20%E2%80%93%20Power%20in%20the%20Blood.mp3"
   },
   {
     "title": "Ako Makasasala",
@@ -3774,7 +3814,8 @@
           "Iya nang hibaloan kay Siya man gamhanan"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/295%20%E2%80%93%20Chief%20of%20Sinners.mp3"
   },
   {
     "title": "Ako Sa Dios Nahilayo",
@@ -3822,7 +3863,8 @@
         "Mobalik man ako sa balay nako",
         "Sa maluloyong bukton ako luwason"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/296%20%E2%80%93%20Lord%2C%20I%27m%20Coming%20Home.mp3"
   },
   {
     "title": "O Dalangpanang Bato",
@@ -3853,7 +3895,8 @@
           "Unya tabangi kami O ginoo mandoi"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/300%20%E2%80%93%20Rock%20of%20Ages.mp3"
   },
   {
     "title": "Duol, Labing Duol, Ihatag",
@@ -3934,7 +3977,8 @@
           "Sa krus kahimayaan akong kadaugan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/303%20%E2%80%93%20Beneath%20the%20Cross%20of%20Jesus.mp3"
   },
   {
     "title": "Pagtoo sa mga Amahan",
@@ -3974,7 +4018,8 @@
           "Magpabiling maunongon"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/304%20%E2%80%93%20Faith%20of%20Our%20Fathers.mp3"
   },
   {
     "title": "Ipaduol Ko, Nimo",
@@ -4016,7 +4061,8 @@
         "Ipaduol ako Kanimo",
         "Jesus sa dugo Mong nagtubos"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/306%20%E2%80%93%20Draw%20Me%20Nearer.mp3"
   },
   {
     "title": "Ako Nagduol sa Krus",
@@ -4067,7 +4113,8 @@
         "Aron maluwas ako",
         "Sa pagkamasalaypon"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/307%20%E2%80%93%20I%20Am%20Coming%20to%20the%20Cross.mp3"
   },
   {
     "title": "Imo Na Ako, O Ginoo",
@@ -4101,7 +4148,8 @@
         "Imo na, Imo na, Imo na ako Jesus",
         "Imo na, Imo na, Imo na ako, O Dios"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/308%20%E2%80%93%20Wholly%20Thine.mp3"
   },
   {
     "title": "O Cristo Jesus Biyaan Ko",
@@ -4151,7 +4199,8 @@
         "Ang tanan nga dagway",
         "Sa mga kadautan"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/309%20%E2%80%93%20I%20Surrender%20All.mp3"
   },
   {
     "title": "Duol sa Krus",
@@ -4192,7 +4241,8 @@
         "Sa namatyan Mong krus akong himayaon",
         "Hangtud nga makaplagan pahulay nga dayon"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/312%20%E2%80%93%20Near%20the%20Cross.mp3"
   },
   {
     "title": "Makasasala Ako, Dios",
@@ -4249,7 +4299,8 @@
           "Iya man nga ginapala"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/313%20%E2%80%93%20Just%20as%20I%20Am.mp3"
   },
   {
     "title": "Usa ka Suod nga Paglakaw",
@@ -4284,7 +4335,8 @@
           "Aron ako maputli na tanan isalikway."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/315%20%E2%80%93%20O%20for%20a%20Closer%20Walk%21.mp3"
   },
   {
     "title": "Si Jesu-Cristo Ginoo",
@@ -4312,7 +4364,8 @@
           "Manluluwas nagpahayag sa Iyang kagahum"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/328%20%E2%80%93%20Must%20Jesus%20Bear%20the%20Cross%20Alone.mp3"
   },
   {
     "title": "Makitang Imong Gawi sa Akong Kinabuhi",
@@ -4355,7 +4408,8 @@
           "Mahimayaong Jesus, Hari's mga hari."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/316%20%E2%80%93%20Live%20Out%20Thy%20Life%20Within%20Me.mp3"
   },
   {
     "title": "Hingpita Ako Jesus nga Ginoo",
@@ -4401,7 +4455,8 @@
         "Ug nga ako karon hugasi",
         "Unya gayud, mahimo nga maputli"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/318%20%E2%80%93%20Whiter%20Than%20Snow.mp3"
   },
   {
     "title": "Jesus, Ikaw Akong Gihigugma",
@@ -4444,7 +4499,8 @@
           "Ikaw higugmaon I Jesus karon"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/321%20%E2%80%93%20My%20Jesus%2C%20I%20Love%20Thee.mp3"
   },
   {
     "title": "Ihatag si Jesus Nako",
@@ -4495,7 +4551,8 @@
         "O, kahibulongang gugma",
         "Kanunay nagpadayon"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/329%20%E2%80%93%20Take%20the%20World%2C%20but%20Give%20Me%20Jesus.mp3"
   },
   {
     "title": "Ang Akong Kinabuhi",
@@ -4551,7 +4608,8 @@
           "Ihatag ko Kanimo"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/330%20%E2%80%93%20Take%20My%20Life%20and%20Let%20It%20Be.mp3"
   },
   {
     "title": "Jesus Nagsaad Ako Pagalagad",
@@ -4585,7 +4643,8 @@
           "Hatagi ako sa grasya agalon nako"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/331%20%E2%80%93%20O%20Jesus%2C%20I%20Have%20Promised.mp3"
   },
   {
     "title": "Nagaduol Kami Kaniimo Amahan",
@@ -4621,10 +4680,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ginoo, kalag namo bantayi",
-        "Kami sa gihapon panalipdi"
-      ]
+      "lines": ["Ginoo, kalag namo bantayi", "Kami sa gihapon panalipdi"]
     }
   },
   {
@@ -4659,7 +4715,8 @@
           "Kasingkasing ko, Ginoo ihatag ko Kanimo"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/334%20%E2%80%93%20Come%2C%20Thou%20Fount%20of%20Every%20Blessing.mp3"
   },
   {
     "title": "Kahibulongan nga Manluluwas si Cristo",
@@ -4700,7 +4757,8 @@
         "Kahibulongan nga Manluluwas si Cristo!",
         "Siya man mahigugmaon ug malumo!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/335%20%E2%80%93%20What%20a%20Wonderful%20Savior.mp3"
   },
   {
     "title": "Aduna Man Ing Tuburan",
@@ -4757,7 +4815,8 @@
           "Hangtud sa kinabuhi N'ya ako makaambit"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/336%20%E2%80%93%20There%20Is%20a%20Fountain.mp3"
   },
   {
     "title": "Naluwas! Akong Isugilon",
@@ -4791,7 +4850,8 @@
         "Luwas, luwas, sa dugo lang sa Cordero",
         "Luwas, luwas, kahangturan, Iya ako."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/337%20%E2%80%93%20Redeemed%21.mp3"
   },
   {
     "title": "Nakadungog Kami Man",
@@ -4834,7 +4894,8 @@
           "Aron magmalipayon putling kinabuhi."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/340%20%E2%80%93%20Jesus%20Saves.mp3"
   },
   {
     "title": "Daygon ang Dios",
@@ -4876,7 +4937,8 @@
         "Duol sa Amahan, si Cristong dalan",
         "Himaya'g pag-ampo Kaniya lamang"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/341%20%E2%80%93%20To%20God%20Be%20the%20Glory.mp3"
   },
   {
     "title": "Maluwas Kon Tuman-aw",
@@ -5014,7 +5076,8 @@
           "Iglesyang madaugon makapahulay na."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/348%20%E2%80%93%20The%20Church%20Has%20One%20Foundation.mp3"
   },
   {
     "title": "Bugkosa Na Kami",
@@ -5049,7 +5112,8 @@
           "Apan managtipon kon matinumanon."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/350%20%E2%80%93%20Blest%20Be%20the%20Tie%20That%20Binds.mp3"
   },
   {
     "title": "Itugyan Kanimo Kining Bata",
@@ -5077,7 +5141,8 @@
           "Aron ang among puloyan motultol Kanimo."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/379%20%E2%80%93%20We%20Give%20This%20Child%20to%20You.mp3"
   },
   {
     "title": "Ang Tibuok Kapatagan",
@@ -5111,7 +5176,8 @@
         "Patalinghugi Ginoo ang among pangamuyo",
         "Padadi sa magalani sa paghipus sa binhi"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/358%20%E2%80%93%20Far%20and%20Near%20the%20Fields%20Are%20Teeming.mp3"
   },
   {
     "title": "Dungga ang Tawag ni Jesus",
@@ -5154,7 +5220,8 @@
           "Kinsay mouban kaniya ania ako dad-a"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/359%20%E2%80%93%20Hark%21%20the%20Voice%20of%20Jesus%20Calling.mp3"
   },
   {
     "title": "Hindunggan Mo Ba si Cristo",
@@ -5196,7 +5263,8 @@
         "Dadana, Dadana,",
         "Sa atubangan Niya"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/361%20%E2%80%93%20Hark%21%20%27Tis%20the%20Shepherd%27s%20Voice%20I%20Hear.mp3"
   },
   {
     "title": "O Sion, Pagdali",
@@ -5287,7 +5355,8 @@
         "Kalipayng lonlon, Kalipayng lonlon",
         "Pagtigum sa uhay Kalipayng lonlon"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/369%20%E2%80%93%20Bringing%20in%20the%20Sheaves.mp3"
   },
   {
     "title": "Hain na ang mga Mangangani?",
@@ -5329,7 +5398,8 @@
         "Ug tabanig kami pagtigum",
         "Sa mga tawo nga matarung"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/366%20%E2%80%93%20O%20Where%20Are%20the%20Reapers.mp3"
   },
   {
     "title": "Luwasa Ginoo ang Nangawala",
@@ -5369,7 +5439,8 @@
         "Luwasa, Ginoo ang nangabihag",
         "Kaloy-i, Jesus ang nanagtawag."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/367%20%E2%80%93%20Rescue%20the%20Perishing.mp3"
   },
   {
     "title": "Patingoga ang Trumpeta",
@@ -5420,7 +5491,8 @@
         "Ipalanog ang balita",
         "Piniutan umanhi"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/368%20%E2%80%93%20Watchman%2C%20Blow%20the%20Gospel%20Trumpet.mp3"
   },
   {
     "title": "Ibayaw Nimo si Jesus",
@@ -5469,7 +5541,8 @@
         "Ibayaw ang Manluluwas sa katawhang naghulat",
         "Ibayaw Siya nga nagingon biyaing dautang buhat"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/371%20%E2%80%93%20Lift%20Him%20Up.mp3"
   },
   {
     "title": "Ang Maayong Balita",
@@ -5503,7 +5576,8 @@
           "Ang kinabuhi unya ug ang himaya"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/375%20%E2%80%93%20Work%2C%20for%20the%20Night%20Is%20Coming.mp3"
   },
   {
     "title": "O Adlaw sa Pahulay",
@@ -5537,7 +5611,8 @@
           "Pahulay paabuton sa dayong puloy-an"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/382%20%E2%80%93%20O%20Day%20of%20Rest%20and%20Gladness.mp3"
   },
   {
     "title": "Sabado nga Layo sa Kabalaka",
@@ -5580,7 +5655,8 @@
           "Sa matagmatahum nga sabado"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/394%20%E2%80%93%20Far%20From%20All%20Care.mp3"
   },
   {
     "title": "Adlawng Igpapahulay",
@@ -5623,7 +5699,8 @@
           "Unya balikan kita sa Ginoo tang Jesus."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/384%20%E2%80%93%20Safely%20Through%20Another%20Week.mp3"
   },
   {
     "title": "Di Mo Hikalimtan ang Sabado",
@@ -5698,7 +5775,8 @@
           "Halaran ta si Jesus kay Siya Manunubos."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/391%20%E2%80%93%20Welcome%2C%20Welcome%2C%20Day%20of%20Rest.mp3"
   },
   {
     "title": "Ang Semana Natapus Na",
@@ -5826,7 +5904,8 @@
         "Nga giandam sa Ginoong",
         "Jesus nga makagagahum"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/422%20%E2%80%93%20Marching%20to%20Zion.mp3"
   },
   {
     "title": "Ang Yuta nga Matahum",
@@ -5867,7 +5946,8 @@
         "Ang luha pagpahiram sa Dios man nga balaan",
         "Kaywala nay kagulanan sa maong puloyan"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/427%20%E2%80%93%20No%20Night%20There.mp3"
   },
   {
     "title": "Akong Makita sa Dakung Ugma",
@@ -5909,7 +5989,8 @@
         "Namatay kanhi ug makita na",
         "Ang akong Hari unya."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/426%20%E2%80%93%20I%20Shall%20See%20the%20King.mp3"
   },
   {
     "title": "Sa Balay sa Akong Amahan",
@@ -5951,7 +6032,8 @@
         "Sa balay'ng langitnon",
         "Magkinit-anay kitang tanan"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/428%20%E2%80%93%20Sweet%20By%20and%20By.mp3"
   },
   {
     "title": "Magakatikum Ba Kita",
@@ -5994,7 +6076,8 @@
         "Uban sa atong Manlalaban",
         "Ug sa mga balaan"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/432%20%E2%80%93%20Shall%20We%20Gather%20at%20the%20River.mp3"
   },
   {
     "title": "Ang Himaya Maako Man",
@@ -6036,7 +6119,8 @@
         "Ang grasya makita ko kang Jesus",
         "Nga Ginoo ko ug manunubos"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/435%20%E2%80%93%20The%20Glory%20Song.mp3"
   },
   {
     "title": "Kanunayng Magkauban",
@@ -6079,7 +6163,8 @@
           "Busa sa buluhaton magkauban."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/456%20%E2%80%93%20My%20Lord%20and%20I.mp3"
   },
   {
     "title": "Mga Butang Langitnon",
@@ -6128,7 +6213,8 @@
         "Isaysay sa kakugi bisan sa kaaway pa",
         "Ang karaang kaagi kang Jesus nga gugma"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/457%20%E2%80%93%20I%20Love%20to%20Tell%20the%20Story.mp3"
   },
   {
     "title": "Matuod nga Kabulahanan",
@@ -6170,7 +6256,8 @@
         "Dayegon ko ang Manunubos",
         "Sa kinabuhi ko nga bugos."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/462%20%E2%80%93%20Blessed%20Assurance%2C%20Jesus%20is%20Mine%21.mp3"
   },
   {
     "title": "Kay sa Kinahiladman",
@@ -6220,7 +6307,8 @@
         "pag-ampo ako magpadayon karon,",
         "Tungod sa gugma N'yang bililhon."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/466%20%E2%80%93%20Wonderful%20Peace.mp3"
   },
   {
     "title": "Anak sa Hari",
@@ -6269,7 +6357,8 @@
         "Anak ko sa Harim Haring langitnon;",
         "Ni Jesus gitubos, Anak ko sa Hari"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/468%20%E2%80%93%20A%20Child%20of%20the%20King.mp3"
   },
   {
     "title": "Ang Pakiguban Kon Kana Diosnon",
@@ -6299,7 +6388,8 @@
       "lines": [
         "Salig sa Dios, Kay Siya ang kalig-onan, Salig salig, Sa buktong walay katapusan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/469%20%E2%80%93%20Leaning%20on%20the%20Everlasting%20Arms.mp3"
   },
   {
     "title": "May Kahayag ang Kalag Ko",
@@ -6350,7 +6440,8 @@
         "Kon si Jesus magpahiyum,",
         "Ang kalag madanagon."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/470%20%E2%80%93%20There%27s%20Sunshine%20in%20My%20Soul%20Today.mp3"
   },
   {
     "title": "Ipha ang Panalangin",
@@ -6577,7 +6668,8 @@
           "Aron unya kita, Mabulahan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/473%20%E2%80%93%20Nearer%20My%20God%2C%20to%20Thee.mp3"
   },
   {
     "title": "Bantayi ang Ngalan Jesus",
@@ -6628,7 +6720,8 @@
         "Hamili nga ngalan",
         "Sa yutag kalangitan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/474%20%E2%80%93%20Take%20the%20Name%20of%20Jesus%20With%20You.mp3"
   },
   {
     "title": "Sa Matam-ison nga Takna",
@@ -6662,7 +6755,8 @@
           "Way lain nga makahumpay kondi ang pag-ampo lamang."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/478%20%E2%80%93%20Sweet%20Hour%20of%20Prayer.mp3"
   },
   {
     "title": "Kinahanglan Nako",
@@ -6678,10 +6772,7 @@
       },
       {
         "number": 2,
-        "lines": [
-          "Pabilin kanako Ginoo ko,",
-          "Panulay mawala kon naa Ka."
-        ]
+        "lines": ["Pabilin kanako Ginoo ko,", "Panulay mawala kon naa Ka."]
       },
       {
         "number": 3,
@@ -6703,7 +6794,8 @@
         "Kinahanglan ko Ikaw sa tanang panahon",
         "Panalangini karon ang giuhaw"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/483%20%E2%80%93%20I%20Need%20Thee%20Every%20Hour.mp3"
   },
   {
     "title": "Didto Ako sa Tanaman",
@@ -6745,7 +6837,8 @@
         "Nga mao ang Iya nga higala",
         "Nga sa gihapon ako."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/487%20%E2%80%93%20In%20the%20Garden.mp3"
   },
   {
     "title": "Mahigugmaong Jesus",
@@ -6788,7 +6881,8 @@
           "Uban gayud Kanimo O Jesus nga Ginoo."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/489%20%E2%80%93%20Jesus%2C%20Lover%20of%20My%20Soul.mp3"
   },
   {
     "title": "Jesus Pakita",
@@ -6831,7 +6925,8 @@
           "Ug mobalik pagtapus ning tanan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/494%20%E2%80%93%20We%20Would%20See%20Jesus.mp3"
   },
   {
     "title": "Sa Sabakan sa Dios",
@@ -6871,7 +6966,8 @@
         "O Jesus Manunubos hatag gikan sa Dios;",
         "Kami karon naghulat maluloyong Jesus."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/495%20%E2%80%93%20Near%20to%20the%20Heart%20of%20God.mp3"
   },
   {
     "title": "Si Jesus Maoy Kahayag",
@@ -6905,7 +7001,8 @@
           "Mohubad sa mga gapus sa atong kasalanan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/499%20%E2%80%93%20What%20a%20Friend%20We%20Have%20in%20Jesus.mp3"
   },
   {
     "title": "mag-ampo Kanunay sa Ginoo",
@@ -6948,7 +7045,8 @@
           "Saligi ang saad sa Ginoo mo."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/500%20%E2%80%93%20Take%20Time%20to%20Be%20Holy.mp3"
   },
   {
     "title": "Sa Taknang Matam-ison",
@@ -7024,9 +7122,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Jesus umari Ka sa taliwala, Ug panalangini Kami nga buhi."
-      ]
+      "lines": ["Jesus umari Ka sa taliwala, Ug panalangini Kami nga buhi."]
     }
   },
   {
@@ -7069,7 +7165,8 @@
           "Bisan og mawatang ang Dios magpadayon gingharian way katapusan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/506%20%E2%80%93%20A%20Mighty%20Fortress.mp3"
   },
   {
     "title": "Si Jesu-Cristo ang Manunubos",
@@ -7120,7 +7217,8 @@
         "Ang mahal Niyang dugo giula",
         "Aron ang tanang sala mapala."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/507%20%E2%80%93%20Moment%20by%20Moment.mp3"
   },
   {
     "title": "Mouban Ako Jesus Bisan Asa",
@@ -7156,11 +7254,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Bisan asa Ikaw uban man ako;",
-        "Mokuyog ako Kanimo Ginoo"
-      ]
-    }
+      "lines": ["Bisan asa Ikaw uban man ako;", "Mokuyog ako Kanimo Ginoo"]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/508%20%E2%80%93%20Anywhere%20With%20Jesus.mp3"
   },
   {
     "title": "Unsa Kalig-on ang Patukoranan",
@@ -7212,7 +7308,8 @@
           "Kung ang kaugalingon igatugyan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/509%20%E2%80%93%20How%20Firm%20a%20Foundation.mp3"
   },
   {
     "title": "Sa Dihang Ako Siyang Gikinahanglan",
@@ -7261,7 +7358,8 @@
         "Kon gikinahanglan, si Jesus duol man;",
         "Sa paglipay andam kanunay, Kon gikinahanglan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/512%20%E2%80%93%20Just%20When%20I%20Need%20Him%20Most.mp3"
   },
   {
     "title": "Ang Dios Kahayag",
@@ -7312,7 +7410,8 @@
         "Ang Dios kahayag awit kalipay,",
         "Adlaw ug gabii giyakanunay."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/515%20%E2%80%93%20The%20Lord%20Is%20My%20Light.mp3"
   },
   {
     "title": "Ang Ginoo Nagamando",
@@ -7349,7 +7448,8 @@
           "Ug Siya nagaalima sa kalag kong maluya"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/516%20%E2%80%93%20All%20the%20Way.mp3"
   },
   {
     "title": "Nagadangop Ako",
@@ -7380,7 +7480,8 @@
           "Kasubo isikway bayloig kalipay nga langitnon"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/517%20%E2%80%93%20My%20Faith%20Looks%20Up%20to%20Thee.mp3"
   },
   {
     "title": "Iyang Gitipigan ang Akong Kalag",
@@ -7431,7 +7532,8 @@
         "Iyang gitipigan ang akong kalag",
         "Hangtud na sa kabuntagon ilalum sa Iyang bukton."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/520%20%E2%80%93%20He%20Hideth%20My%20Soul.mp3"
   },
   {
     "title": "Natukod ang Paglaum Ko",
@@ -7481,7 +7583,8 @@
         "Nga maligong sandiganan;",
         "Ang uban pulos mahuyang."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/522%20%E2%80%93%20My%20Hope%20Is%20Built%20on%20Nothing%20Less.mp3"
   },
   {
     "title": "Si Jesus Atong Saligan",
@@ -7562,7 +7665,8 @@
       "lines": [
         "Nagasalig sa, sa mga saad sa akong Mangnunubos; Nagasalig, Nagsalig ko sa saad ni Jesus."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/518%20%E2%80%93%20Standing%20on%20the%20Promises.mp3"
   },
   {
     "title": "Panalipdi Ako Batong Bantilis",
@@ -7598,11 +7702,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ikaw ang tagoanan ko",
-        "Kay Ikaw ra man ang maligong Bato."
-      ]
-    }
+      "lines": ["Ikaw ang tagoanan ko", "Kay Ikaw ra man ang maligong Bato."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/525%20%E2%80%93%20Hiding%20in%20Thee.mp3"
   },
   {
     "title": "Ikaw Among Dalangpanan",
@@ -7653,7 +7755,8 @@
         "Sa tanan nga katawohan",
         "Sa panahon sa bagyo man"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/528%20%E2%80%93%20A%20Shelter%20in%20the%20Time%20of%20Storm.mp3"
   },
   {
     "title": "Sa Ilalum sa Iyang mga Pako",
@@ -7695,7 +7798,8 @@
         "Mopahulay ang kalag nako",
         "Uban kang Jesu-Cristo"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/529%20%E2%80%93%20Under%20His%20Wings.mp3"
   },
   {
     "title": "Kung ang Pakigdait Sama sa Suba",
@@ -7731,11 +7835,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Maayo sa kalag",
-        "Maayo alang sa kalag ko"
-      ]
-    }
+      "lines": ["Maayo sa kalag", "Maayo alang sa kalag ko"]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/530%20%E2%80%93%20It%20Is%20Well%20With%20My%20Soul.mp3"
   },
   {
     "title": "Magtukod Ibabaw sa Bato",
@@ -7775,7 +7877,8 @@
         "Magtukod sa Bato, magtukod sa Bato",
         "Magtukod kita diha sa Bato ng mao si Cristo"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/531%20%E2%80%93%20We%27ll%20Build%20on%20the%20Rock.mp3"
   },
   {
     "title": "Maligon Ka Ba Igsoon Nako",
@@ -7835,7 +7938,8 @@
         "Siya gayud magatindog,",
         "Ug sa kaaway dili matarug."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/534%20%E2%80%93%20Will%20Your%20Anchor%20Hold.mp3"
   },
   {
     "title": "Gikinahanglan Ka Nako",
@@ -7922,7 +8026,8 @@
         "Magmatinumanon ako",
         "Sa pagkamasinulondon."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/537%20%E2%80%93%20He%20Leadeth%20Me.mp3"
   },
   {
     "title": "Pangitaon Ko'ng Ginoo",
@@ -7964,7 +8069,8 @@
         "Gipakamatyan ko Niya,",
         "Maong higugmaon S'ya."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/539%20%E2%80%93%20I%20Will%20Early%20Seek%20the%20Savior.mp3"
   },
   {
     "title": "Cristo Namong Magbabalantay",
@@ -7998,7 +8104,8 @@
           "Aron amo nga maangkon ang kinabuhing dayon."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/545%20%E2%80%93%20Savior%2C%20Like%20a%20Shepherd.mp3"
   },
   {
     "title": "Jesus Ako Mandoi",
@@ -8029,7 +8136,8 @@
           "Papahuta Jesus ang kalag ko nga lumos."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/551%20%E2%80%93%20Jesus%2C%20Savior%2C%20Pilot%20Me.mp3"
   },
   {
     "title": "Pakuyoga Ako O Dios",
@@ -8060,7 +8168,8 @@
           "O maloloyong Ginoo nan Kanimo uban ako."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/554%20%E2%80%93%20O%20Let%20Me%20Walk%20With%20Thee.mp3"
   },
   {
     "title": "Ang Puloy-ang Way Kasamok",
@@ -8257,7 +8366,8 @@
           "Si Cristo lamang tutokan ko."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/567%20%E2%80%93%20Have%20Thine%20Own%20Way%2C%20Lord.mp3"
   },
   {
     "title": "Dili Mo Ako Pasagdan",
@@ -8298,7 +8408,8 @@
         "Cristo, Cristo, dunggon Mo ako,",
         "Ikaw ra ang maloloyon sa katawohan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/569%20%E2%80%93%20Pass%20Me%20Not%2C%20O%20Gentle%20Savior.mp3"
   },
   {
     "title": "Dili Ako, Apan Cristo",
@@ -8341,7 +8452,8 @@
           "Karon ug hangtud sa kahangturan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/570%20%E2%80%93%20Not%20I%2C%20But%20Christ.mp3"
   },
   {
     "title": "Sa Dughan ni Jesus",
@@ -8384,7 +8496,8 @@
           "Niining puloyan ginahulat ka."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/577%20%E2%80%93%20In%20the%20Heart%20of%20Jesus.mp3"
   },
   {
     "title": "Jesus Ubani Man",
@@ -8427,7 +8540,8 @@
           "Ug sa gingharian babahinan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/582%20%E2%80%93%20Working%2C%20O%20Christ%2C%20With%20Thee.mp3"
   },
   {
     "title": "Naghunahuna Gayud Ako",
@@ -8599,7 +8713,8 @@
         "Pagtuohan ug tumanon nato,",
         "Ang tanan kasugoan sa atong Ginoo."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/590%20%E2%80%93%20Trust%20and%20Obey.mp3"
   },
   {
     "title": "Tabangi Ako, O Ginoo",
@@ -8731,7 +8846,8 @@
           "Kay daghan ang wala makalikay."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/594%20%E2%80%93%20Heir%20of%20the%20Kingdom.mp3"
   },
   {
     "title": "Igsoon, Padayon",
@@ -8878,7 +8994,8 @@
         "Karon nagakanaug ang ato nga Manunubos,",
         "Tanawa ninyo si Jesusm Hari ug Mananaug."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/598%20%E2%80%93%20Watch%2C%20Ye%20Saints.mp3"
   },
   {
     "title": "Matam-is ang Saad sa Nagtuo",
@@ -8920,7 +9037,8 @@
         "Sa pagbalik Ko ang gingharian",
         "Nga gitagana sa manga balaan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/600%20%E2%80%93%20Hold%20Fast%20Till%20I%20Come.mp3"
   },
   {
     "title": "Wala Man Kita Mahibalo sa Oras",
@@ -8962,7 +9080,8 @@
         "Ang Ginoo ta nga mobalik sa pagtubos",
         "Sa matinohoon"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/604%20%E2%80%93%20We%20Know%20Not%20the%20Hour.mp3"
   },
   {
     "title": "Ang Ako nga Panahon Man",
@@ -9028,11 +9147,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Magatindog, nga maisog,",
-        "Atubanga ang kaaway gayud."
-      ]
-    }
+      "lines": ["Magatindog, nga maisog,", "Atubanga ang kaaway gayud."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/610%20%E2%80%93%20Stand%20Like%20the%20Brave.mp3"
   },
   {
     "title": "Sundalo nga Diosnon",
@@ -9077,11 +9194,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Mga Cristohanon magusa karon,",
-        "Aron sa kadaugan makabaton."
-      ]
-    }
+      "lines": ["Mga Cristohanon magusa karon,", "Aron sa kadaugan makabaton."]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/612%20%E2%80%93%20Onward%2C%20Christian%20Soldiers%21.mp3"
   },
   {
     "title": "Sulong Kang Satan",
@@ -9123,7 +9238,8 @@
         "Sulong, sulong awiton hosana;",
         "Si Cristo ang atong Kapitan"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/614%20%E2%80%93%20Sound%20the%20Battle%20Cry.mp3"
   },
   {
     "title": "Kita Nagakinabuhi",
@@ -9166,7 +9282,8 @@
           "Ang iyang kauban daghan batok sa Dios katawhan."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/617%20%E2%80%93%20We%20Are%20Living%2C%20We%20Are%20Dwelling.mp3"
   },
   {
     "title": "Tindog Alang Kang Jesus",
@@ -9209,7 +9326,8 @@
           "Sa himaya maghari nga uban Kaniya."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/618%20%E2%80%93%20Stand%20Up%21%20Stand%20Up%20for%20Jesus%21.mp3"
   },
   {
     "title": "Mosunod Ako Kanimo",
@@ -9269,7 +9387,8 @@
         "Kon tanan motalikod na",
         "Mosunod gayud ako."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/623%20%E2%80%93%20I%20Will%20Follow%20Thee.mp3"
   },
   {
     "title": "Nagpadayon Akog Lakaw",
@@ -9320,7 +9439,8 @@
         "Aron ako makatakod",
         "Sa taas nga panaw gayud"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/625%20%E2%80%93%20Higher%20Ground.mp3"
   },
   {
     "title": "Kita Maglipayay",
@@ -9371,7 +9491,8 @@
         "Ang malipayon ug matahum puloyan",
         "Ni Jesus giandam sa tanan."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/626%20%E2%80%93%20In%20a%20Little%20While%20We%27re%20Going%20Home.mp3"
   },
   {
     "title": "Dili Ka Padaug",
@@ -9461,7 +9582,8 @@
         "Ug uban kang Jesus,",
         "Kadaugan pagawiton."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/633%20%E2%80%93%20When%20We%20All%20Get%20to%20Heaven.mp3"
   },
   {
     "title": "May Gugma Ka Ba Kang Jesus?",
@@ -9559,11 +9681,9 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Katahum, katahum,",
-        "Sa puloyang may gugma kay malinawon"
-      ]
-    }
+      "lines": ["Katahum, katahum,", "Sa puloyang may gugma kay malinawon"]
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/652%20%E2%80%93%20Love%20at%20Home.mp3"
   },
   {
     "title": "Gugma Hingpit",
@@ -9597,7 +9717,8 @@
           "Mosubang nga may gugma'g kalipay."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/656%20%E2%80%93%20O%20Perfect%20Love.mp3"
   },
   {
     "title": "Sa Uban Rang mga Tuig",
@@ -9682,7 +9803,8 @@
           "Manolunda umanhi mahimayaong ani!"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/557%20%E2%80%93%20Come%2C%20Ye%20Thankful%20People.mp3"
   },
   {
     "title": "Itugyan ang Imong Lulan",
@@ -9700,7 +9822,8 @@
           "Dili Niya talikdan ang masaligon"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/666%20%E2%80%93%20Cast%20Thy%20Burden%20Upon%20the%20Lord.mp3"
   },
   {
     "title": "O Dios nga Mamati",
@@ -9716,7 +9839,8 @@
           "Malipayon ako uban Nimo. Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/668%20%E2%80%93%20O%20Thou%20Who%20Hearest.mp3"
   },
   {
     "title": "Ang Dios Magapanalangin",
@@ -9738,7 +9862,8 @@
           "Amen, Amen, Amen"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/669%20%E2%80%93%20The%20Lord%20Bless%20You%20and%20Keep%20You.mp3"
   },
   {
     "title": "Sa mag-ampo Kami",
@@ -9768,7 +9893,8 @@
           "Grasya Ug kalinaw, Among pag-ampo. Amen"
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/684%20%E2%80%93%20Hear%20Our%20Prayer%2C%20O%20Lord.mp3"
   },
   {
     "title": "Dayega ang Dios Amahan",
@@ -9784,7 +9910,8 @@
           "Dayegon kanunay nato."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/694%20%E2%80%93%20Praise%20God%2C%20From%20Whom%20All%20Blessings.mp3"
   },
   {
     "title": "Papaulia Kami, O Dios",
@@ -9800,7 +9927,8 @@
           "Luwasa unya sa gingharian. Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/690%20%E2%80%93%20Dismiss%20Us%2C%20Lord%20With%20Blessing.mp3"
   },
   {
     "title": "And Dios Anaa sa Iyang Templo",
@@ -9817,7 +9945,8 @@
           "Maghilum, maghilum, kay Siya Dios, Amen."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/687%20%E2%80%93%20The%20Lord%20Is%20in%20His%20Holy%20Temple.mp3"
   },
   {
     "title": "Atong Makita",
