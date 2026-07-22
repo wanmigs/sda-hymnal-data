@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
   "appVersion": "1.0.3",
-  "contentVersion": "9fb6de74ca856fc",
-  "generatedAt": "2026-07-08T16:34:35Z",
+  "contentVersion": "8d1e303398e5065b",
+  "generatedAt": "2026-07-22T02:41:08Z",
   "collections": [
     {
       "id": "english",
@@ -10,8 +10,8 @@
       "title": "English Hymns",
       "description": "English hymns (app schema: verses, optional refrain).",
       "schema": "app",
-      "sha256": "d6d3e3ea8703d3fc873cddc2d6b60fbeba2a0c16bf133159b018a47cf606df02",
-      "sizeBytes": 328659,
+      "sha256": "89b36e17142ef9de0fc10f22c1a105e749a1e56de82238bae53b72c68021e581",
+      "sizeBytes": 331755,
       "count": 237
     },
     {
@@ -20,8 +20,8 @@
       "title": "Tagalog Hymns",
       "description": "Tagalog hymns (app schema).",
       "schema": "app",
-      "sha256": "ead073f623c30de0b8444cb9b69939efeb97aed67f9458e34e2f7922c8c03124",
-      "sizeBytes": 277106,
+      "sha256": "8246b0357090bbdd20fab373aa940169a55a55bf28e9a67d12e9eb2feaf41754",
+      "sizeBytes": 280285,
       "count": 237
     },
     {
@@ -40,8 +40,8 @@
       "title": "SDA Hymnal",
       "description": "SDA hymnal entries (stanza-based schema).",
       "schema": "sdahymnal",
-      "sha256": "dd124eec78e45f4cf8dfd4ff63fa74a931947e5d5949f0a67307bbe4d86e4754",
-      "sizeBytes": 535823,
+      "sha256": "451cc845414fc54f6e3585bcc9ba6bc4f88498f31c8713317d2d34f056efe8d4",
+      "sizeBytes": 543721,
       "count": 237,
       "rootKey": "english_hymns"
     },
