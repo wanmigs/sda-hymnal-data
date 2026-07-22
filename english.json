@@ -418,46 +418,47 @@
   },
   {
     "title": "How Pleasant, How Divinely Fair",
-    "pageNumber": 19,
+    "pageNumber": 18,
     "language": "english",
     "verses": [
       {
         "number": 1,
         "lines": [
-          "Panginoon, Iyong dinggin,",
-          "Ang aking dalangin,",
-          "Sa umagang ito'y hain,",
-          "Ang puso kong angkin."
+          "How pleasant, how divinely fair,",
+          "O Lord of hosts, Thy dwellings are!",
+          "With long desire my spirit faints",
+          "To meet th'assemblies of Thy saints."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Panginoong Jesu Cristo,",
-          "Ako'y pakinggan Mo.",
-          "Ipahayag sa Diyos Ama",
-          "Ang bawat hiling ko."
+          "Blest are the souls that find a place",
+          "Within the temple of Thy grace;",
+          "There they behold Thy gentle rays,",
+          "And seek Thy face, and learn Thy praise."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Mangyaring ako'y samahan,",
-          "Espiritung banal,",
-          "Nang upang sa kabanalan,",
-          "Lumaging mabuhay."
+          "Blest are the men whose hearts are set",
+          "To find the way to Zion's gate.",
+          "God is their strength; and through the road",
+          "They lean upon their helper, God."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Ang magpuri sa 'Yong ngalan,",
-          "Ay ang makakamtan.",
-          "Lubos na pagsasanggalang,",
-          "Sa kapahamakan."
+          "Cheerful they walk, with growing strength,",
+          "Till all shall meet in heaven at length,",
+          "Till all before Thy face appear,",
+          "And join in nobler worship there."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/039%20%E2%80%93%20Lord%2C%20in%20the%20Morning.mp3"
   },
   {
     "title": "Abide With Me",
@@ -631,7 +632,6 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/065%20%E2%80%93%20God%20Be%20With%20You.mp3",
     "refrain": {
       "lines": [
         "Till we meet, till we meet,",
@@ -639,7 +639,8 @@
         "Till we meet, till we meet,",
         "God be with you till we meet again."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/065%20%E2%80%93%20God%20Be%20With%20You.mp3"
   },
   {
     "title": "Come, Thou Almighty King",
@@ -809,7 +810,8 @@
         "Joy and peace to others bringing,",
         "When love shines in!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/073%20%E2%80%93%20Holy%20Holy%20Holy.mp3"
   },
   {
     "title": "O Love That Wilt Not Let Me Go",
@@ -900,7 +902,8 @@
           "Father in heaven for ever to be."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/076%20%E2%80%93%20O%20Love%20That%20Wilt%20Not%20Let%20Me%20Go.mp3"
   },
   {
     "title": "Of Jesus' Love that Sought Me",
@@ -1490,13 +1493,13 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/122%20%E2%80%93%20Hark%21%20the%20Herald%20Angels%20Sing.mp3",
     "refrain": {
       "lines": [
         "Hark! the herald angels sing,",
         "\"Glory to the newborn King.\""
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/122%20%E2%80%93%20Hark%21%20the%20Herald%20Angels%20Sing.mp3"
   },
   {
     "title": "Joy to the World",
@@ -1623,13 +1626,13 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/132%20%E2%80%93%20O%20Come%2C%20All%20Ye%20Faithful.mp3",
     "refrain": {
       "lines": [
         "O come, let us adore Him, O come, let us adore Him,",
         "O come, let us adore Him, Christ, the Lord!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/132%20%E2%80%93%20O%20Come%2C%20All%20Ye%20Faithful.mp3"
   },
   {
     "title": "O Little Town of Bethlehem",
@@ -1826,7 +1829,8 @@
         "He’s the Lily of the Valley, the Bright and Morning Star,",
         "He’s the fairest of ten thousand to my soul."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/152%20%E2%80%93%20Tell%20Me%20the%20Story%20of%20Jesus.mp3"
   },
   {
     "title": "There Was One Who Was Willing",
@@ -2667,7 +2671,8 @@
         "Waiting and watching,",
         "Still waiting and watching for Thee."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/218%20%E2%80%93%20When%20He%20Cometh.mp3"
   },
   {
     "title": "Called to the Feast",
@@ -3459,38 +3464,56 @@
   },
   {
     "title": "Come, Holy Spirit",
-    "pageNumber": 143,
+    "pageNumber": 142,
     "language": "english",
     "verses": [
       {
         "number": 1,
         "lines": [
-          "Banal na Espiritu, Ilaw ng kabanalan,",
-          "Kadilima'y pawiin, Puso ko'y liwanagan."
+          "Come, Holy Spirit, heavenly Dove,",
+          "With all Thy quickening powers;",
+          "Kindle a flame of sacred love",
+          "In these cold hearts of ours."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Banal na Espiritu, Ang puso ko'y linisin;",
-          "Ang imbing kasalanan, Sumusupil sa akin."
+          "O raise our thoughts from things below,",
+          "From vanities and toys!",
+          "Then shall we with fresh courage go",
+          "To reach eternal joys."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Banal na Espiritu, Ang puso kong sugatan,",
-          "Ay Iyong pasayahin, At pighati'y lunasan."
+          "Awake our souls to joyful songs;",
+          "Let pure devotions rise;",
+          "Till praise employs our thankful tongues,",
+          "And doubt forever dies."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Oh, Espiritung Banal, Puso ko'y panahanan,",
-          "Bawa't sala'y ibuwal, Lubos Mong pagharian."
+          "Father, we would no longer live",
+          "At this poor, dying rate;",
+          "To Thee our thankful love we give,",
+          "For Thine to us is great."
+        ]
+      },
+      {
+        "number": 5,
+        "lines": [
+          "Come, Holy Spirit, heavenly Dove,",
+          "With all Thy quickening powers;",
+          "Come, shed abroad a Savior's love,",
+          "And that shall kindle ours."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/269%20%E2%80%93%20Come%2C%20Holy%20Spirit.mp3"
   },
   {
     "title": "Holy Spirit, Faithful Guide",
@@ -3524,7 +3547,8 @@
           "Whisper softly, \"Wanderer, come! Follow Me, I'll guide thee home.\""
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/269%20%E2%80%93%20Come%2C%20Holy%20Spirit.mp3"
   },
   {
     "title": "Break Thou the Bread of Life",
@@ -3669,7 +3693,8 @@
         "Keep the commandments, the Ten Commandments,",
         "Look for the coming Saviour too."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/272%20%E2%80%93%20Give%20Me%20the%20Bible.mp3"
   },
   {
     "title": "Only Trust Him",
@@ -3966,7 +3991,8 @@
         "Patiently waiting, there standing I see,",
         "Jesus, my Shepherd divine."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/287%20%E2%80%93%20Softly%20and%20Tenderly.mp3"
   },
   {
     "title": "There is a Gate That Stands Ajar",
@@ -4410,7 +4436,8 @@
           "Nearer, my Savior, still nearer to Thee."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/301%20%E2%80%93%20Near%2C%20Still%20Nearer.mp3"
   },
   {
     "title": "Beneath the Cross of Jesus",
@@ -4849,43 +4876,34 @@
   },
   {
     "title": "Must Jesus Bear the Cross Alone?",
-    "pageNumber": 201,
+    "pageNumber": 200,
     "language": "english",
     "verses": [
       {
         "number": 1,
         "lines": [
-          "Upang malapit sa Diyos",
-          "Kailanga'y ilaw.",
-          "Na aakay sa akin sa",
-          "Kordero kong mahal."
+          "Must Jesus bear the cross alone,",
+          "And all the world go free?",
+          "No, there's a cross for every one,",
+          "And there's a cross for me."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Magbalik, O Kalapati,",
-          "Matamis na sugo;",
-          "Suklam ako sa mga salang",
-          "Sa 'Yo'y naglalayo."
+          "The consecrated cross I'll bear,",
+          "Till He shall set me free;",
+          "And then go home my crown to wear,",
+          "For there's a crown for me."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Oras ng kapayapaang",
-          "Minsa'y kinas'yahan!",
-          "Nguni't kahungkaga'y naiwan",
-          "Na di mapupunan."
-        ]
-      },
-      {
-        "number": 4,
-        "lines": [
-          "Anumang diyos-diyusang",
-          "Pinakamahal,",
-          "Tulungan Mong mawasak ko",
-          "Sa trono mong mahal."
+          "Upon the crystal pavement, down",
+          "At Jesus' pierced feet,",
+          "With joy I'll cast my golden crown,",
+          "And His dear name repeat."
         ]
       }
     ],
@@ -5239,7 +5257,8 @@
         "Helpless we come to Thee,",
         "Hear while we pray."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/331%20%E2%80%93%20O%20Jesus%2C%20I%20Have%20Promised.mp3"
   },
   {
     "title": "Come, Thou Fount of Every Blessing",
@@ -5590,7 +5609,8 @@
         "Blessed thought, salvation free,",
         "By a look at Calvary."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/341%20%E2%80%93%20To%20God%20Be%20the%20Glory.mp3"
   },
   {
     "title": "Just Over The Mountains",
@@ -5750,43 +5770,34 @@
   },
   {
     "title": "We Give This Child to You",
-    "pageNumber": 237,
+    "pageNumber": 236,
     "language": "english",
     "verses": [
       {
         "number": 1,
         "lines": [
-          "Pagpalain nawa",
-          "Ang talig pag-ibig",
-          "At sa ati'y managanang,",
-          "Gaya rin sa langit."
+          "We give this child to You,",
+          "Our precious gift of love.",
+          "Help us to lead each step aright",
+          "With guidance from above."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Sa trono ng Ama",
-          "Tayo'y lumalapit.",
-          "Na may iisang pag-asa't.",
-          "Isang mithi't isip."
+          "O bless each child of Yours,",
+          "And grant when they are grown,",
+          "They will have learned to love Your way,",
+          "And choose it for their own."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Tayo'y damay-damay.",
-          "Kung mayrong hilahil.",
-          "At sa kapighatian man.",
-          "Ay tulung-tulong din."
-        ]
-      },
-      {
-        "number": 4,
-        "lines": [
-          "Kung nagkakalayo,",
-          "Tayo'y nalulungkot.",
-          "Subali't ang ating puso'y",
-          "Laging magkatipon."
+          "We give ourselves to You,",
+          "And may Your Spirit fill",
+          "Our hearts and home, that all we do",
+          "Be subject to Your will."
         ]
       }
     ],
@@ -5985,7 +5996,8 @@
         "Publish glad tidings, Tidings of peace,",
         "Tidings of Jesus, Redemption and release."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/365%20%E2%80%93%20O%20Zion%2C%20Haste.mp3"
   },
   {
     "title": "Bringing in the Sheaves",
@@ -6484,7 +6496,8 @@
         "Welcome, welcome, ever welcome,",
         "Blessed Sabbath day."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/388%20%E2%80%93%20Don%E2%80%99t%20Forget%20the%20Sabbath.mp3"
   },
   {
     "title": "Welcome, Welcome, Day of Rest",
@@ -6532,46 +6545,47 @@
   },
   {
     "title": "Another Six Days' Work Is Done",
-    "pageNumber": 269,
+    "pageNumber": 268,
     "language": "english",
     "verses": [
       {
         "number": 1,
         "lines": [
-          "Maluwalhating araw,",
-          "Tanging kagalang-galang,",
-          "Ipinagpahingalay",
-          "Ng Diyos nating lumalang!"
+          "Another six days' work is done,",
+          "Another Sabbath is begun;",
+          "Return, my soul, enjoy thy rest,",
+          "Improve the day that God has blessed."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Araw na binasbasan",
-          "At pinapaging banal;",
-          "Kung ito nga'y igalang",
-          "Tayo'y mangabubuhay."
+          "Come, bless the Lord, whose love assigns",
+          "So sweet a rest to weary minds;",
+          "A blessed antepast is given,",
+          "On this day more than all the seven."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Araw na lubhang banal",
-          "Pagpuri sa lumalang,",
-          "Samabahi't dalanginan",
-          "Ang nagbigay ng buhay."
+          "O that our thoughts and thanks may rise",
+          "As grateful incense to the skies!",
+          "And draw from Christ that sweet repose",
+          "Which none but He who feels it knows."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Batiin na may galak",
-          "Araw ng kabanalan.",
-          "Pagpapala ang taglay",
-          "Sa puso'y may paggalang."
+          "This heavenly calm within the breast,",
+          "Is the best pledge of glorious rest,",
+          "Which for the Church of God remains,",
+          "The end of cares, the end of pains."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/391%20%E2%80%93%20Welcome%2C%20Welcome%2C%20Day%20of%20Rest.mp3"
   },
   {
     "title": "Welcome, delightful morn",
@@ -7328,7 +7342,8 @@
         "Count your blessings, name them one by one;",
         "Count your many blessings, see what God hath done."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/470%20%E2%80%93%20There%27s%20Sunshine%20in%20My%20Soul%20Today.mp3"
   },
   {
     "title": "O Happy Day that Fixed My Choice",
@@ -8031,7 +8046,8 @@
         "Blessed hour of prayer, Blessed hour of prayer,",
         "What a balm for the weary! O how sweet to be there!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/501%20%E2%80%93%20Tis%20the%20Blessed%20Hour%20of%20Prayer.mp3"
   },
   {
     "title": "O Jesus, Thou hast promised",
@@ -8085,7 +8101,8 @@
         "Jesus, come and bless us,",
         "Be Thou ever near."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/501%20%E2%80%93%20Tis%20the%20Blessed%20Hour%20of%20Prayer.mp3"
   },
   {
     "title": "A Mighty Fortress",
@@ -8339,7 +8356,6 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/512%20%E2%80%93%20Just%20When%20I%20Need%20Him%20Most.mp3",
     "refrain": {
       "lines": [
         "Just when I need Him most,",
@@ -8347,7 +8363,8 @@
         "Jesus is near to comfort and cheer,",
         "Just when I need Him most."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/512%20%E2%80%93%20Just%20When%20I%20Need%20Him%20Most.mp3"
   },
   {
     "title": "The Lord Is My Light",
@@ -8651,7 +8668,8 @@
         "Jesus, Jesus, precious Jesus!",
         "O for grace to trust Him more!"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/524%20%E2%80%93%20Tis%20So%20Sweet%20to%20Trust%20in%20Jesus.mp3"
   },
   {
     "title": "Standing on the Promises",
@@ -9028,7 +9046,8 @@
         "Ev'ry hour, ev'ry hour,",
         "Savior, keep me ev'ry hour."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/534%20%E2%80%93%20Will%20Your%20Anchor%20Hold.mp3"
   },
   {
     "title": "He Leadeth Me",
@@ -9302,7 +9321,8 @@
         "O, wait, meekly wait, and murmur not,",
         "O, wait, O, wait, O, wait, and murmur not."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/554%20%E2%80%93%20O%20Let%20Me%20Walk%20With%20Thee.mp3"
   },
   {
     "title": "Lord, I Care Not for Riches",
@@ -9698,7 +9718,8 @@
         "When I wake with the blest in the mansions of rest,",
         "Will there be any stars in my crown?"
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/582%20%E2%80%93%20Working%2C%20O%20Christ%2C%20With%20Thee.mp3"
   },
   {
     "title": "Brightly Beams Our Father's Mercy",
@@ -9902,7 +9923,8 @@
         "No matter how, if only sin",
         "Die out in me, die out in me."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/590%20%E2%80%93%20Trust%20and%20Obey.mp3"
   },
   {
     "title": "Closer to Thee, My Father Draw Me",
@@ -10056,7 +10078,8 @@
           "And ever with Jesus abide."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/602%20%E2%80%93%20O%20Brother%2C%20Be%20Faithful.mp3"
   },
   {
     "title": "Look for the Waymarks",
@@ -10098,7 +10121,8 @@
         "Look for the waymarks, the great prophetic waymarks;",
         "The journey's almost o'er."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/596%20%E2%80%93%20Look%20for%20the%20Waymarks.mp3"
   },
   {
     "title": "Watch, Ye Saints",
@@ -10287,7 +10311,8 @@
         "And I shall see Him face to face,",
         "And tell the story—Saved by grace."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/604%20%E2%80%93%20We%20Know%20Not%20the%20Hour.mp3"
   },
   {
     "title": "Stand Like the Brave",
@@ -10740,7 +10765,8 @@
         "He is willing to aid you,",
         "He will carry you through."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/626%20%E2%80%93%20In%20a%20Little%20While%20We%27re%20Going%20Home.mp3"
   },
   {
     "title": "When We All Get to Heaven",
@@ -10829,7 +10855,8 @@
           "Then, obedient to His word, Freely, freely give."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/633%20%E2%80%93%20When%20We%20All%20Get%20to%20Heaven.mp3"
   },
   {
     "title": "I Would Be True",
@@ -11003,7 +11030,8 @@
         "Though dark thy way, still sing and praise,",
         "Sometime, sometime, we'll understand."
       ]
-    }
+    },
+    "link": "https://sdahymnals.com/Hymnal/mp3/656%20%E2%80%93%20O%20Perfect%20Love.mp3"
   },
   {
     "title": "Come, Ye Thankful People",
@@ -11102,7 +11130,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/668%20%E2%80%93%20O%20Thou%20Who%20Hearest.mp3"
   },
   {
-    "title": "The Lord Bless You and Keep You",
+    "title": "The Lord Bless You",
     "pageNumber": 459,
     "language": "english",
     "verses": [
@@ -11117,8 +11145,7 @@
           "The Lord be gracious, gracious unto you. Amen."
         ]
       }
-    ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/669%20%E2%80%93%20The%20Lord%20Bless%20You%20and%20Keep%20You.mp3"
+    ]
   },
   {
     "title": "As We Come to You in Prayer",
@@ -11138,7 +11165,8 @@
           "Join us now as we come to You in prayer."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/669%20%E2%80%93%20The%20Lord%20Bless%20You%20and%20Keep%20You.mp3"
   },
   {
     "title": "Hear Our Prayer, O Lord",
@@ -11160,14 +11188,16 @@
   },
   {
     "title": "Praise God, From Whom All Blessings",
-    "pageNumber": 465,
+    "pageNumber": 464,
     "language": "english",
     "verses": [
       {
         "number": 1,
         "lines": [
-          "Dinggin, Pangino'n, Ang panalangin;",
-          "Ang kapayapaan, Igawad sa 'min. Amen."
+          "Praise God, from whom all blessings flow;",
+          "Praise Him all creatures here below;",
+          "Praise Him above, ye heavenly host;",
+          "Praise Father, Son, and Holy Ghost."
         ]
       }
     ],
@@ -11254,7 +11284,8 @@
           "Hosanna evermore."
         ]
       }
-    ]
+    ],
+    "link": "https://sdahymnals.com/Hymnal/mp3/687%20%E2%80%93%20The%20Lord%20Is%20in%20His%20Holy%20Temple.mp3"
   },
   {
     "title": "By His Spirit",

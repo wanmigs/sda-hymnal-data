@@ -32,7 +32,8 @@
         ]
       }
     ],
-    "refrain": null
+    "refrain": null,
+    "link": "https://sdahymnals.com/Hymnal/mp3/224%20%E2%80%93%20Seek%20Ye%20First%20the%20Kingdom.mp3"
   },
   {
     "pageNumber": 2,
@@ -63,7 +64,10 @@
       }
     ],
     "refrain": {
-      "lines": ["Thy Word is a lamp unto my feet", "And a light unto my path."]
+      "lines": [
+        "Thy Word is a lamp unto my feet",
+        "And a light unto my path."
+      ]
     }
   },
   {

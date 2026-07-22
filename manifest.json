@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
   "appVersion": "1.0.3",
-  "contentVersion": "50f32fcd17df0681",
-  "generatedAt": "2026-07-22T02:58:04Z",
+  "contentVersion": "c2e1fc171e63e363",
+  "generatedAt": "2026-07-22T03:21:22Z",
   "collections": [
     {
       "id": "english",
@@ -10,8 +10,8 @@
       "title": "English Hymns",
       "description": "English hymns (app schema: verses, optional refrain).",
       "schema": "app",
-      "sha256": "89b36e17142ef9de0fc10f22c1a105e749a1e56de82238bae53b72c68021e581",
-      "sizeBytes": 331755,
+      "sha256": "7903961eb406d1b6bd0661f118d47341c0bf25309a911b5f3ecaa30381226198",
+      "sizeBytes": 335725,
       "count": 237
     },
     {
@@ -20,8 +20,8 @@
       "title": "Tagalog Hymns",
       "description": "Tagalog hymns (app schema).",
       "schema": "app",
-      "sha256": "8246b0357090bbdd20fab373aa940169a55a55bf28e9a67d12e9eb2feaf41754",
-      "sizeBytes": 280285,
+      "sha256": "a1efa1d0f7ba3ab861a3646a7364505d621ecfc1ad88ff06d2996697e8c82f76",
+      "sizeBytes": 282590,
       "count": 237
     },
     {
@@ -30,8 +30,8 @@
       "title": "Cebuano Hymns",
       "description": "Cebuano hymns (app schema).",
       "schema": "app",
-      "sha256": "5a35787b2e3fb4ddb190a8124d1fae62aa668c6209adcb7b210ea41d76b1f369",
-      "sizeBytes": 263118,
+      "sha256": "d2fe581ad1291ab661d5c10bd524b685067e3034be72b12c9788d8b0b21df889",
+      "sizeBytes": 266683,
       "count": 237
     },
     {
@@ -40,8 +40,8 @@
       "title": "SDA Hymnal",
       "description": "SDA hymnal entries (stanza-based schema).",
       "schema": "sdahymnal",
-      "sha256": "451cc845414fc54f6e3585bcc9ba6bc4f88498f31c8713317d2d34f056efe8d4",
-      "sizeBytes": 543721,
+      "sha256": "eaaddaebb80a3ce207e0a1e8845ff98ad50ca864909a11fe9b7e7f58e36bc9d7",
+      "sizeBytes": 544587,
       "count": 237,
       "rootKey": "english_hymns"
     },
@@ -51,8 +51,8 @@
       "title": "Scripture Songs",
       "description": "Scripture-based songs (app schema).",
       "schema": "app",
-      "sha256": "4f7f0cedaf721f2d6fabd98d7a2303206e8990ac6eac1cfb0a7cfebbf245ceda",
-      "sizeBytes": 2177,
+      "sha256": "a18ff4675773f820ac8cd49a210af371b4ecf2941f69499ac40a97d1449be196",
+      "sizeBytes": 2306,
       "count": 3
     },
     {
@@ -86,8 +86,8 @@
       "title": "Adventist Youth Songs",
       "description": "Adventist Youth (AY) songs (app schema).",
       "schema": "app",
-      "sha256": "2cf97a3c340dba642c914b7dad33e2da3826d991e28ef9cf1af75a39ae7c70a6",
-      "sizeBytes": 8323,
+      "sha256": "77397e5c357de1f1dd3479301f04e261ae7241670a43538a5c6e3f3c3166f0b3",
+      "sizeBytes": 8630,
       "count": 10
     },
     {
