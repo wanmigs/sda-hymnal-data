@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
   "appVersion": "1.0.6",
-  "contentVersion": "34c187b82f7bfd8a",
-  "generatedAt": "2026-07-30T09:20:18Z",
+  "contentVersion": "051d8bca8e4052a8",
+  "generatedAt": "2026-07-30T09:35:26Z",
   "collections": [
     {
       "id": "english",
@@ -10,8 +10,8 @@
       "title": "English Hymns",
       "description": "English hymns (app schema: verses, optional refrain).",
       "schema": "app",
-      "sha256": "fc01b33784f35bf1cab56a124fca3dc54cf0249069bb548d702fc53010683c03",
-      "sizeBytes": 339539,
+      "sha256": "358154633a0a1f84416c01e37b60aeafd251722ddb866cd2fdbca55cc117cf05",
+      "sizeBytes": 339698,
       "count": 237
     },
     {
@@ -20,8 +20,8 @@
       "title": "Tagalog Hymns",
       "description": "Tagalog hymns (app schema).",
       "schema": "app",
-      "sha256": "c6415b37e6434af4a1cb68f54fe8586a9294abc3b53f55a974df4a18d5e4a777",
-      "sizeBytes": 286077,
+      "sha256": "529059e941ed8a050a3f99494b78060ac44d08e2a1319d7f033d834429c4dbeb",
+      "sizeBytes": 286269,
       "count": 237
     },
     {

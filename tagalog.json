@@ -207,7 +207,10 @@
       }
     ],
     "refrain": {
-      "lines": ["Matuwa, Matuwa,", "Matuwa at umawit."]
+      "lines": [
+        "Matuwa, Matuwa,",
+        "Matuwa at umawit."
+      ]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
@@ -1312,7 +1315,10 @@
       }
     ],
     "refrain": {
-      "lines": ["Noel, Noel, Noel, Noel", "Sumilang Hari ng Israel."]
+      "lines": [
+        "Noel, Noel, Noel, Noel",
+        "Sumilang Hari ng Israel."
+      ]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
@@ -1361,7 +1367,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/120%20%E2%80%93%20There%27s%20a%20Song%20in%20the%20Air.mp3"
   },
   {
-    "title": "Dinggin at Umawit mga Angel sa Langit",
+    "title": "Dinggin at Umaawit mga Anghel sa Langit",
     "pageNumber": 62,
     "language": "tagalog",
     "verses": [
@@ -1392,7 +1398,9 @@
       }
     ],
     "refrain": {
-      "lines": ["\"Luwalhati sa sumilang, Hari ng daigdigan.\""]
+      "lines": [
+        "\"Luwalhati sa sumilang, Hari ng daigdigan.\""
+      ]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/122%20%E2%80%93%20Hark%21%20the%20Herald%20Angels%20Sing.mp3"
   },
@@ -1511,7 +1519,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/132%20%E2%80%93%20O%20Come%2C%20All%20Ye%20Faithful.mp3"
   },
   {
-    "title": "O Munting Bayang Betlehem",
+    "title": "O Munting Bayang Bethlehem",
     "pageNumber": 70,
     "language": "tagalog",
     "verses": [
@@ -1783,15 +1791,6 @@
           "Dudulog ako't sa Kanya'y hihingin,",
           "Ang sala ko'y patawarin."
         ]
-      },
-      {
-        "number": 5,
-        "lines": [
-          "Dadalhin ang krus at ako'y susunod,",
-          "Sa tinuntong daan ni Jesus,",
-          "At ang paglilingkod ng puso ko't loob,",
-          "Aking gagawin nang lubos."
-        ]
       }
     ],
     "refrain": {
@@ -1799,7 +1798,12 @@
         "Pinahirapan, hinampas inuyam,",
         "Pinakuan sa paa't kamay,",
         "Nguni't ang masaklap, mahapdi sa lahat,",
-        "Ay ang nasa pusong sugat."
+        "Ay ang nasa pusong sugat.",
+        "",
+        "Dadalhin ang krus at ako'y susunod,",
+        "Sa tinuntong daan ni Jesus,",
+        "At ang paglilingkod ng puso ko't loob,",
+        "Aking gagawin nang lubos."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/4yurmp8zqtq76wi40v695/SDAH-079-There-Came-From-the-Skies-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=tbovr6wwh4btqsp0m72aj62fl&st=qy2kwehf&dl=1"
@@ -2233,7 +2237,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/202%20%E2%80%93%20Hail%20Him%20the%20King%20of%20Glory.mp3"
   },
   {
-    "title": "Pag Mukhaan Mong Makita",
+    "title": "Pag Mukhaan Kong Nakita",
     "pageNumber": 100,
     "language": "tagalog",
     "verses": [
@@ -2285,7 +2289,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/206%20%E2%80%93%20Face%20to%20Face.mp3"
   },
   {
-    "title": "Maaari na sa Umaga",
+    "title": "Maaari na sa Umagang",
     "pageNumber": 102,
     "language": "tagalog",
     "verses": [
@@ -2369,7 +2373,10 @@
       }
     ],
     "refrain": {
-      "lines": ["S'ya'y darating, S'ya'y darating,", "Jesus muling darating!"]
+      "lines": [
+        "S'ya'y darating, S'ya'y darating,",
+        "Jesus muling darating!"
+      ]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
   },
@@ -2512,7 +2519,7 @@
     }
   },
   {
-    "title": "Sa Kasalan Aanyayahan",
+    "title": "Sa Kasalanan Aanyayahan",
     "pageNumber": 112,
     "language": "tagalog",
     "verses": [
@@ -2685,7 +2692,7 @@
     "link": "https://www.dropbox.com/scl/fi/0ymr2zt2krz92hjgbykzr/SDAH-115-In-the-Glad-Time-of-the-Harvest-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=gpxbs0jlgyutvkso2ncrtcegc&st=e9d3tzi5&dl=1"
   },
   {
-    "title": "Mga Tanda'y Natupad ng Lahat",
+    "title": "Mga Tanda'y Natupad Nang Lahat",
     "pageNumber": 118,
     "language": "tagalog",
     "verses": [
@@ -2789,7 +2796,7 @@
     "link": "https://www.dropbox.com/scl/fi/q7bk17ww95692gjhi03a5/SDAH-119-The-Coming-King-is-at-the-Door.mp3?rlkey=xuiyohq5mttcnlk6resj18k52&st=6r42zxy4&dl=1"
   },
   {
-    "title": "Halamanang Pinagyaman",
+    "title": "Halamang Pinagyaman",
     "pageNumber": 122,
     "language": "tagalog",
     "verses": [
@@ -3156,12 +3163,15 @@
       }
     ],
     "refrain": {
-      "lines": ["Ipahayag ang kadakilaan Niya,", "Sa awit ay galak na isaysay!"]
+      "lines": [
+        "Ipahayag ang kadakilaan Niya,",
+        "Sa awit ay galak na isaysay!"
+      ]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/249%20%E2%80%93%20Praise%20Him%21%20Praise%20Him%21.mp3"
   },
   {
-    "title": "Tanging Ang Ngalang Jesus",
+    "title": "Tanging ang Ngalan ni Jesus",
     "pageNumber": 138,
     "language": "tagalog",
     "verses": [
@@ -3783,45 +3793,45 @@
       {
         "number": 1,
         "lines": [
-          "Liwanag ay lumalabas",
+          "Liwanag ay lumalabas ",
           "Sa pintong nakabukas.",
-          "Doon sa krus namamalas",
+          "Doon sa krus namamalas ",
           "Pag-ibig ng nagligtas."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Ang pinto'y bukas sa lahat",
+          "Ang pinto'y bukas sa lahat ",
           "Na rito'y humahanap;",
-          "Mayaman man at mahirap",
+          "Mayaman man at mahirap ",
           "Tinatanggap na lahat."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Masok samantalang bukas,",
+          "Masok samantalang bukas, ",
           "Putong ay matatanggap.",
-          "Alintanahin ang hirap",
+          "Alintanahin ang hirap ",
           "Na dulot ni Satanas."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Sa pasanin maiibsan",
+          "Sa pasanin maiibsan ",
           "Ipapalit ay buhay.",
-          "Kasayahang walang hanggan",
+          "Kasayahang walang hanggan ",
           "Ang laging makakamtan."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Manatili kayang bukas",
+        "Manatili kayang bukas ",
         "Ang pinto ng awa't habag?",
-        "Sa 'kin, sa 'kin",
+        "Sa 'kin, sa 'kin ",
         "Magpahanggang wakas?"
       ]
     },
@@ -4057,42 +4067,42 @@
       {
         "number": 1,
         "lines": [
-          "Akong napalayo sa Diyos Ay nagbabalik;",
+          "Akong napalayo sa Diyos Ay nagbabalik; ",
           "Sa sama'y tumatalikod, At nagbabalik."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Akong sa sala'y nagtagal, Mahal kong Ama,",
+          "Akong sa sala'y nagtagal, Mahal kong Ama, ",
           "Ngayo'y nagsisising tunay, Nagbabalik na."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Nililisan ko na ngayon Ang aking sala,",
+          "Nililisan ko na ngayon Ang aking sala, ",
           "At sa Iyo, Panginoo'y Nagbabalik na."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Ang kamatayan ni Cristo'y S'ya kong pag-asa,",
+          "Ang kamatayan ni Cristo'y S'ya kong pag-asa, ",
           "At ngayon sa kandili Mo'y Nagbabalik na."
         ]
       },
       {
         "number": 5,
         "lines": [
-          "Sa dugo Niyang natigis Dadalhin ko na",
+          "Sa dugo Niyang natigis Dadalhin ko na ",
           "Ang kasalanan ko't dungis, At babalik na."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Ako'y nagbabalik, di na aalis;",
+        "Ako'y nagbabalik, di na aalis; ",
         "Buksan ang Iyong dibdib Sa nagbabalik!"
       ]
     },
@@ -5059,7 +5069,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/335%20%E2%80%93%20What%20a%20Wonderful%20Savior.mp3"
   },
   {
-    "title": "May Bukal sa Dugong Buhay",
+    "title": "May Bukal ng Dugong Buhay",
     "pageNumber": 222,
     "language": "tagalog",
     "verses": [
@@ -5657,7 +5667,10 @@
       }
     ],
     "refrain": {
-      "lines": ["Ang balita ay ipahayag,", "Balita tungkol kay Jesus na liyag."]
+      "lines": [
+        "Ang balita ay ipahayag,",
+        "Balita tungkol kay Jesus na liyag."
+      ]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/365%20%E2%80%93%20O%20Zion%2C%20Haste.mp3"
   },
@@ -6528,7 +6541,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/435%20%E2%80%93%20The%20Glory%20Song.mp3"
   },
   {
-    "title": "Ako'y May Kaibigan sa Akin ay Mahal",
+    "title": "Ako’y May Kaibigang sa Akin ay Mahal",
     "pageNumber": 286,
     "language": "tagalog",
     "verses": [
@@ -7227,7 +7240,10 @@
     "verses": [
       {
         "number": 1,
-        "lines": ["Kailangan Kita, O Jesus ko!", "Walang makikita na gaya Mo!"]
+        "lines": [
+          "Kailangan Kita, O Jesus ko!",
+          "Walang makikita na gaya Mo!"
+        ]
       },
       {
         "number": 2,
@@ -7262,7 +7278,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/483%20%E2%80%93%20I%20Need%20Thee%20Every%20Hour.mp3"
   },
   {
-    "title": "Samantalang sa Bulaklak",
+    "title": "Samantalang Bulaklak",
     "pageNumber": 316,
     "language": "tagalog",
     "verses": [
@@ -7452,7 +7468,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/495%20%E2%80%93%20Near%20to%20the%20Heart%20of%20God.mp3"
   },
   {
-    "title": "Oh! Cristong Kaibig-ibig",
+    "title": "Oh! Kristong Kaibig-ibig",
     "pageNumber": 324,
     "language": "tagalog",
     "verses": [
@@ -7694,7 +7710,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/506%20%E2%80%93%20A%20Mighty%20Fortress.mp3"
   },
   {
-    "title": "Akong Namatay na Kasama Siya",
+    "title": "Akong Namatay na Kasama Niya",
     "pageNumber": 334,
     "language": "tagalog",
     "verses": [
@@ -7895,7 +7911,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/512%20%E2%80%93%20Just%20When%20I%20Need%20Him%20Most.mp3"
   },
   {
-    "title": "Ang Panginoon Ay Aking Ilaw",
+    "title": "Ang Panginoon Ang Aking Ilaw",
     "pageNumber": 342,
     "language": "tagalog",
     "verses": [
@@ -8086,7 +8102,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/520%20%E2%80%93%20He%20Hideth%20My%20Soul.mp3"
   },
   {
-    "title": "Ang Pag-asa Ko'y Natatag",
+    "title": "Ang Pag-asa Ko ay Nakatatag",
     "pageNumber": 350,
     "language": "tagalog",
     "verses": [
@@ -8265,7 +8281,10 @@
       }
     ],
     "refrain": {
-      "lines": ["Ikaw ang aking kanlungan,", "Mapalad na batong aking taguan!"]
+      "lines": [
+        "Ikaw ang aking kanlungan,",
+        "Mapalad na batong aking taguan!"
+      ]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/525%20%E2%80%93%20Hiding%20in%20Thee.mp3"
   },
@@ -8322,7 +8341,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/528%20%E2%80%93%20A%20Shelter%20in%20the%20Time%20of%20Storm.mp3"
   },
   {
-    "title": "Sa Ilalim Ng Kanyang Pakpak",
+    "title": "Sa Ilalim ng Kanyang mga Pakpak",
     "pageNumber": 360,
     "language": "tagalog",
     "verses": [
@@ -8390,7 +8409,10 @@
       },
       {
         "number": 3,
-        "lines": ["Pasapitin Mo Panginoong Jesus,", "Araw ng mga tinubos."]
+        "lines": [
+          "Pasapitin Mo Panginoong Jesus,",
+          "Araw ng mga tinubos."
+        ]
       }
     ],
     "refrain": {
@@ -9044,7 +9066,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/569%20%E2%80%93%20Pass%20Me%20Not%2C%20O%20Gentle%20Savior.mp3"
   },
   {
-    "title": "Hindi Ako Kundi Si Cristo",
+    "title": "Hindi Ako, Kundi Si Kristo",
     "pageNumber": 392,
     "language": "tagalog",
     "verses": [

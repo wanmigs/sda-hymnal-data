@@ -217,7 +217,7 @@
       }
     ],
     "refrain": {
-      "lines": ["Rejoice! Rejoice!", "Rejoice, give thanks, and sing!"]
+      "lines": ["Rejoice! Rejoice!", " Rejoice, give thanks, and sing!"]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
@@ -1239,7 +1239,7 @@
       {
         "number": 1,
         "lines": [
-          "This is my Father's world,",
+          "This is my Father's world, ",
           "And to my listening ears,",
           "All nature sings, and round me rings",
           "The music of the spheres.",
@@ -1286,45 +1286,45 @@
       {
         "number": 1,
         "lines": [
-          "Be not dismayed whate'er betide,",
-          "God will take care of you;",
-          "Beneath His wings of love abide,",
+          "Be not dismayed whate'er betide, ",
+          "God will take care of you; ",
+          "Beneath His wings of love abide, ",
           "God will take care of you."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Through days of toil when your heart doth fail,",
-          "God will take care of you;",
-          "When dangers fierce your path assail,",
+          "Through days of toil when your heart doth fail, ",
+          "God will take care of you; ",
+          "When dangers fierce your path assail, ",
           "God will take care of you."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "All you may need He will provide,",
-          "God will take care of you;",
-          "Nothing you ask will be denied,",
+          "All you may need He will provide, ",
+          "God will take care of you; ",
+          "Nothing you ask will be denied, ",
           "God will take care of you."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "No matter what may be the test,",
+          "No matter what may be the test, ",
           "God will take care of you;",
-          "Lean, weary one, upon His breast,",
+          "Lean, weary one, upon His breast, ",
           "God will take care of you."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "God will take care of you,",
-        "Through every day, o'er all the way;",
-        "He will take care of you,",
+        "God will take care of you, ",
+        "Through every day, o'er all the way; ",
+        "He will take care of you, ",
         "God will take care of you."
       ]
     },
@@ -1356,7 +1356,7 @@
       {
         "number": 3,
         "lines": [
-          "And by the light of that same star,",
+          "And by the light of that same star, ",
           "Three wise men came from country far;",
           "To seek for a king was their intent,",
           "And to follow the star wherever it went."
@@ -1382,7 +1382,7 @@
       }
     ],
     "refrain": {
-      "lines": ["Noel, Noel, Noel, Noel,", "Born is the King of Israel."]
+      "lines": ["Noel, Noel, Noel, Noel, ", "Born is the King of Israel."]
     },
     "link": "https://sdahymnals.com/Hymnal/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
@@ -1783,7 +1783,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/152%20%E2%80%93%20Tell%20Me%20the%20Story%20of%20Jesus.mp3"
   },
   {
-    "title": "The Lilly of the Valley",
+    "title": "The Lily of the Valley",
     "pageNumber": 75,
     "language": "english",
     "verses": [
@@ -1913,15 +1913,6 @@
           "I'll go to His feet and repent of my sin,",
           "Be willing to suffer the pain."
         ]
-      },
-      {
-        "number": 5,
-        "lines": [
-          "I'll take up my cross, I will walk by His side,",
-          "For the pathway of duty I see;",
-          "I will follow my Lord and abide in His heart,",
-          "The heart that was broken for me."
-        ]
       }
     ],
     "refrain": {
@@ -1929,6 +1920,11 @@
         "They crowned Him with thorns, He was beaten with stripes,",
         "He was smitten and nailed to the tree;",
         "But the pain in His heart was the hardest to bear,",
+        "The heart that was broken for me.",
+        "",
+        "I'll take up my cross, I will walk by His side,",
+        "For the pathway of duty I see;",
+        "I will follow my Lord and abide in His heart,",
         "The heart that was broken for me."
       ]
     },
@@ -2252,7 +2248,7 @@
       {
         "number": 1,
         "lines": [
-          "\"There shall be showers of blessing;\"",
+          "\"There shall be showers of blessing;\" ",
           "This is the promise of love;",
           "There shall be seasons refreshing,",
           "Sent from the Savior above."
@@ -2399,7 +2395,7 @@
         "lines": [
           "Only faintly now I see Him,",
           "With the darkening veil between,",
-          "But a blessed day is coming,",
+          "But a blessed day is coming, ",
           "When His glory shall be seen."
         ]
       },
@@ -2408,7 +2404,7 @@
         "lines": [
           "What rejoicing in His presence,",
           "When are banished grief and pain;",
-          "When the crooked ways are straightened,",
+          "When the crooked ways are straightened, ",
           "And the dark things shall be plain!"
         ]
       },
@@ -3731,7 +3727,7 @@
       {
         "number": 4,
         "lines": [
-          "Come, then, and join this holy band,",
+          "Come, then, and join this holy band, ",
           "And on to glory go,",
           "To dwell in that celestial land,",
           "Where joys immortal flow."
@@ -3774,7 +3770,7 @@
           "I left for earthly night,",
           "For wanderings sad and lone;",
           "I left, I left it all for thee,",
-          "Hast thou left aught for Me?",
+          "Hast thou left aught for Me? ",
           "I left, I left it all for thee,",
           "Hast thou left aught for Me?"
         ]
@@ -4270,7 +4266,7 @@
       {
         "number": 2,
         "lines": [
-          "O the height of Jesus' love!",
+          "O the height of Jesus' love! ",
           "Higher than the heaven above,",
           "Deeper than the deepest sea,",
           "Lasting as eternity;",
@@ -4300,7 +4296,7 @@
       {
         "number": 1,
         "lines": [
-          "I've wandered far away from God,",
+          "I've wandered far away from God, ",
           "Now I'm coming home;",
           "The paths of sin too long I've trod;",
           "Lord, I'm coming home."
@@ -4309,7 +4305,7 @@
       {
         "number": 2,
         "lines": [
-          "I've wasted many precious years,",
+          "I've wasted many precious years, ",
           "Now I'm coming home;",
           "I now repent with bitter tears;",
           "Lord, I'm coming home."
@@ -4345,9 +4341,9 @@
     ],
     "refrain": {
       "lines": [
-        "Coming home, coming home",
+        "Coming home, coming home ",
         "Nevermore to roam;",
-        "Open wide Thine arms of love;",
+        "Open wide Thine arms of love; ",
         "Lord, I'm coming home."
       ]
     },
@@ -5068,7 +5064,7 @@
       {
         "number": 2,
         "lines": [
-          "Take the world, but give me Jesus,",
+          "Take the world, but give me Jesus, ",
           "Sweetest comfort of my soul;",
           "With my Savior watching o'er me,",
           "I can sing, though billows roll."
@@ -5184,7 +5180,7 @@
         "lines": [
           "O let me feel Thee near me;",
           "The world is ever near!",
-          "I see the sights that dazzle,",
+          "I see the sights that dazzle, ",
           "The tempting sounds I hear;",
           "My foes are ever near me,",
           "Around me and within;",
@@ -6509,7 +6505,7 @@
       {
         "number": 1,
         "lines": [
-          "Welcome, welcome, day of rest,",
+          "Welcome, welcome, day of rest, ",
           "To the world in kindness given;",
           "Welcome to this humble breast,",
           "As the beaming light from heaven."
@@ -7251,45 +7247,45 @@
       {
         "number": 1,
         "lines": [
-          "There's sunshine in my soul today,",
+          "There's sunshine in my soul today, ",
           "More glorious and bright",
-          "Than glows in any earthly sky,",
+          "Than glows in any earthly sky, ",
           "For Jesus is my light."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "There's music in my soul today,",
+          "There's music in my soul today, ",
           "A carol to my King,",
-          "And Jesus, listening, can hear",
+          "And Jesus, listening, can hear ",
           "The songs I cannot sing."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "There's springtime in my soul today,",
+          "There's springtime in my soul today, ",
           "For when the Lord is near,",
-          "The dove of peace sings in my heart,",
+          "The dove of peace sings in my heart, ",
           "The flowers of grace appear."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "There's gladness in my soul today,",
+          "There's gladness in my soul today, ",
           "And hope, and praise, and love,",
-          "For blessings which He gives me now,",
+          "For blessings which He gives me now, ",
           "For joys \"laid up\" above."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "O there's sunshine, blessed sunshine,",
+        "O there's sunshine, blessed sunshine, ",
         "When the peaceful, happy moments roll;",
-        "When Jesus shows His smiling face",
+        "When Jesus shows His smiling face ",
         "There is sunshine in the soul."
       ]
     },
@@ -8054,7 +8050,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/501%20%E2%80%93%20Tis%20the%20Blessed%20Hour%20of%20Prayer.mp3"
   },
   {
-    "title": "O Jesus, Thou hast promised",
+    "title": "Jesus, Thou Hast Promised",
     "pageNumber": 329,
     "language": "english",
     "verses": [
@@ -8395,7 +8391,7 @@
       {
         "number": 3,
         "lines": [
-          "The Lord is my light, the Lord is my strength;",
+          "The Lord is my light, the Lord is my strength; ",
           "I know in His might I'll conquer at length;",
           "My weakness in mercy He covers with power,",
           "And, walking by faith, He upholds me each hour."
@@ -8475,7 +8471,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/516%20%E2%80%93%20All%20the%20Way.mp3"
   },
   {
-    "title": "5My Faith Looks Up to Thee",
+    "title": "My Faith Looks Up to Thee",
     "pageNumber": 345,
     "language": "english",
     "verses": [
@@ -10048,7 +10044,7 @@
         "number": 2,
         "lines": [
           "O brother, be faithful! the city of gold,",
-          "Prepared for the good and the blest,",
+          "Prepared for the good and the blest, ",
           "Is waiting its portals of pearl to unfold,",
           "And welcome thee into thy rest.",
           "Then, brother, prove faithful! not long shall we stay",
@@ -10139,14 +10135,14 @@
         "lines": [
           "Watch, ye saints, with eyelids waking;",
           "Lo! the powers of heaven are shaking;",
-          "Keep your lamps all trimmed and burning,",
+          "Keep your lamps all trimmed and burning, ",
           "Ready for your Lord's returning."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Lo! the promise of your Savior,",
+          "Lo! the promise of your Savior, ",
           "Pardoned sin and purchased favor,",
           "Blood-washed robes and crowns of glory;",
           "Haste to tell redemption's story."
@@ -10906,9 +10902,9 @@
       {
         "number": 1,
         "lines": [
-          "There is beauty all around, When there's love at home;",
-          "There is joy in every sound, When there's love at home.",
-          "Peace and plenty here abide, Smiling fair on every side;",
+          "There is beauty all around, When there's love at home; ",
+          "There is joy in every sound, When there's love at home. ",
+          "Peace and plenty here abide, Smiling fair on every side; ",
           "Time doth softly, sweetly glide, When there's love at home."
         ]
       },
@@ -10968,7 +10964,7 @@
         "lines": [
           "Grant them the joy which brightens earthly sorrow;",
           "Grant them the peace which calms all earthly strife,",
-          "Add to life's day the glorious unknown morrow",
+          "Add to life's day the glorious unknown morrow ",
           "That dawns upon eternal love and life."
         ]
       }
@@ -11207,7 +11203,7 @@
     "link": "https://sdahymnals.com/Hymnal/mp3/694%20%E2%80%93%20Praise%20God%2C%20From%20Whom%20All%20Blessings.mp3"
   },
   {
-    "title": "Dismiss Us, Lord With Blessing",
+    "title": "Dismiss Us, Lord, With Blessings",
     "pageNumber": 467,
     "language": "english",
     "verses": [
