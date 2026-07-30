@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
   "appVersion": "1.0.6",
-  "contentVersion": "b4bc9eea6ea30da4",
-  "generatedAt": "2026-07-22T06:40:12Z",
+  "contentVersion": "34c187b82f7bfd8a",
+  "generatedAt": "2026-07-30T09:20:18Z",
   "collections": [
     {
       "id": "english",
@@ -10,8 +10,8 @@
       "title": "English Hymns",
       "description": "English hymns (app schema: verses, optional refrain).",
       "schema": "app",
-      "sha256": "67bec9bfe9397e82e69bc1aa6160b30f4e0d6ccc23fda890646a9c6d93ef3765",
-      "sizeBytes": 341815,
+      "sha256": "fc01b33784f35bf1cab56a124fca3dc54cf0249069bb548d702fc53010683c03",
+      "sizeBytes": 339539,
       "count": 237
     },
     {
@@ -20,8 +20,8 @@
       "title": "Tagalog Hymns",
       "description": "Tagalog hymns (app schema).",
       "schema": "app",
-      "sha256": "a5fd58e66b8249e563a31cf6fbf6c0b317fb42f958feed0972f56b39b4e31bf3",
-      "sizeBytes": 288353,
+      "sha256": "c6415b37e6434af4a1cb68f54fe8586a9294abc3b53f55a974df4a18d5e4a777",
+      "sizeBytes": 286077,
       "count": 237
     },
     {
@@ -30,8 +30,8 @@
       "title": "Cebuano Hymns",
       "description": "Cebuano hymns (app schema).",
       "schema": "app",
-      "sha256": "60c75c4dbc87d50e6d4c1a1c2e07070c317dded2808b5222a1d5e0aa745f958e",
-      "sizeBytes": 271802,
+      "sha256": "18dfaef098362aa3e03e0a1624abb0d0f6df669a009b3bf1ff489d1dbd790598",
+      "sizeBytes": 269526,
       "count": 237
     },
     {
