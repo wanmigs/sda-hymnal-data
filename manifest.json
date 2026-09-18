@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
   "appVersion": "1.0.7",
-  "contentVersion": "49f094d24b2b2fb8",
-  "generatedAt": "2026-09-18T09:02:11Z",
+  "contentVersion": "20f3a32b71e89d14",
+  "generatedAt": "2026-09-18T09:06:37Z",
   "collections": [
     {
       "id": "english",
@@ -96,8 +96,8 @@
       "title": "Special Songs",
       "description": "Special and supplemental songs (app schema).",
       "schema": "app",
-      "sha256": "79a6f43c55f7afea2f7f5e6812ee15f7d4400d9b49e260c447ae6daef3b32d8f",
-      "sizeBytes": 654464,
+      "sha256": "e27a57f166e13fe66ca8efc51808341c467c081102a253e680caf776640079c2",
+      "sizeBytes": 654589,
       "count": 382
     },
     {
