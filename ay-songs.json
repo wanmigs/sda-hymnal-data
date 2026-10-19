@@ -101,7 +101,7 @@
         "'Til night shall vanish in eternal day."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/272%20%E2%80%93%20Give%20Me%20the%20Bible.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/272%20%E2%80%93%20Give%20Me%20the%20Bible.mp3"
   },
   {
     "pageNumber": 3,
@@ -128,7 +128,11 @@
     "verses": [
       {
         "number": 1,
-        "lines": ["The Advent Message", "to all the world", "in my generation."]
+        "lines": [
+          "The Advent Message",
+          "to all the world",
+          "in my generation."
+        ]
       }
     ],
     "refrain": null
@@ -140,7 +144,10 @@
     "verses": [
       {
         "number": 1,
-        "lines": ["The love of Christ", "constrains us."]
+        "lines": [
+          "The love of Christ",
+          "constrains us."
+        ]
       }
     ],
     "refrain": null
@@ -206,7 +213,7 @@
         "With the cross of Jesus going on before."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/612%20%E2%80%93%20Onward%2C%20Christian%20Soldiers%21.mp3"
+    "link": "https://media.gccsatx.com/Onward-Christian-Soldiers-L.mp3"
   },
   {
     "pageNumber": 8,
@@ -287,7 +294,7 @@
       }
     ],
     "refrain": null,
-    "link": "https://sdahymnals.com/Hymnal/mp3/580%20%E2%80%93%20This%20Little%20Light%20of%20Mine.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/580%20%E2%80%93%20This%20Little%20Light%20of%20Mine.mp3"
   },
   {
     "pageNumber": 10,

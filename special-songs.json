@@ -2255,9 +2255,7 @@
       },
       {
         "number": 6,
-        "lines": [
-          "It's not our home"
-        ]
+        "lines": ["It's not our home"]
       },
       {
         "number": 7,
@@ -11959,10 +11957,7 @@
       },
       {
         "number": 5,
-        "lines": [
-          "I trust you Lord",
-          "My life is in your hands"
-        ]
+        "lines": ["I trust you Lord", "My life is in your hands"]
       }
     ],
     "refrain": {
@@ -13959,10 +13954,7 @@
       },
       {
         "number": 4,
-        "lines": [
-          "Let us Reach",
-          "One Nation with One Voice."
-        ]
+        "lines": ["Let us Reach", "One Nation with One Voice."]
       }
     ],
     "refrain": {
@@ -17302,17 +17294,11 @@
       },
       {
         "number": 4,
-        "lines": [
-          "So I surrender all to you.",
-          "I surrender all."
-        ]
+        "lines": ["So I surrender all to you.", "I surrender all."]
       }
     ],
     "refrain": {
-      "lines": [
-        "So I surrender all to You",
-        "I surrender all"
-      ]
+      "lines": ["So I surrender all to You", "I surrender all"]
     },
     "link": "https://media.gccsatx.com/Surrender-All-.mp3"
   },

@@ -41,7 +41,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/006%20%E2%80%93%20O%20Worship%20the%20Lord.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/006%20%E2%80%93%20O%20Worship%20the%20Lord.mp3"
   },
   {
     "title": "Ang Panginoon sa Siyon",
@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/007%20%E2%80%93%20The%20Lord%20in%20Zion%20Reigneth.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/007%20%E2%80%93%20The%20Lord%20in%20Zion%20Reigneth.mp3"
   },
   {
     "title": "Tayo'y Nagtitipon",
@@ -123,7 +123,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/008%20%E2%80%93%20We%20Gather%20Together.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/008%20%E2%80%93%20We%20Gather%20Together.mp3"
   },
   {
     "title": "Lumalang Ko't Hari",
@@ -163,7 +163,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/015%20%E2%80%93%20My%20Maker%20and%20My%20King.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/015%20%E2%80%93%20My%20Maker%20and%20My%20King.mp3"
   },
   {
     "title": "Kayong Malilinis, Matuwa at Umawit",
@@ -207,9 +207,12 @@
       }
     ],
     "refrain": {
-      "lines": ["Matuwa, Matuwa,", "Matuwa at umawit."]
+      "lines": [
+        "Matuwa, Matuwa,",
+        "Matuwa at umawit."
+      ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
   {
     "title": "Umawit sa Kagalakan",
@@ -264,7 +267,7 @@
         "Pagdiriwang."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/034%20%E2%80%93%20Wake%20the%20Song.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/034%20%E2%80%93%20Wake%20the%20Song.mp3"
   },
   {
     "title": "Ang Pangalang Anong Tamis",
@@ -403,7 +406,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/039%20%E2%80%93%20Lord%2C%20in%20the%20Morning.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/039%20%E2%80%93%20Lord%2C%20in%20the%20Morning.mp3"
   },
   {
     "title": "Napakasaya't Kay-inam",
@@ -491,7 +494,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/050%20%E2%80%93%20Abide%20With%20Me.mp3"
+    "link": "https://media.gccsatx.com/Abide-With-Me-P.mp3"
   },
   {
     "title": "Lumulubog ang Araw",
@@ -543,7 +546,7 @@
         "Diyos na banal!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/051%20%E2%80%93%20Day%20Is%20Dying%20in%20the%20West.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/051%20%E2%80%93%20Day%20Is%20Dying%20in%20the%20West.mp3"
   },
   {
     "title": "Kami'y Basbasan ng Pala",
@@ -573,7 +576,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/064%20%E2%80%93%20Lord%2C%20Dismiss%20Us%20With%20Thy%20Blessing.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/064%20%E2%80%93%20Lord%2C%20Dismiss%20Us%20With%20Thy%20Blessing.mp3"
   },
   {
     "title": "Ikaw Nawa'y Pakaakbayan",
@@ -625,7 +628,7 @@
         "Ay samahan ka nawa ng Diyos!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/065%20%E2%80%93%20God%20Be%20With%20You.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/065%20%E2%80%93%20God%20Be%20With%20You.mp3"
   },
   {
     "title": "O Diyos na Marangal",
@@ -669,7 +672,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/071%20%E2%80%93%20Come%20Thou%20Almighty%20King.mp3"
+    "link": "https://media.gccsatx.com/Come-Thou-Almighty-King-88.mp3"
   },
   {
     "title": "Banal, Banal, Banal",
@@ -713,7 +716,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/073%20%E2%80%93%20Holy%20Holy%20Holy.mp3"
+    "link": "https://media.gccsatx.com/Holy-Holy-Holy-.mp3"
   },
   {
     "title": "Pag Sumilang na ang Pag-ibig",
@@ -813,7 +816,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/076%20%E2%80%93%20O%20Love%20That%20Wilt%20Not%20Let%20Me%20Go.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/076%20%E2%80%93%20O%20Love%20That%20Wilt%20Not%20Let%20Me%20Go.mp3"
   },
   {
     "title": "Tulad sa Ama kung Tumingin",
@@ -1095,7 +1098,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/082%20%E2%80%93%20Before%20Jehovah%27s%20Awful%20Throne.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/082%20%E2%80%93%20Before%20Jehovah%27s%20Awful%20Throne.mp3"
   },
   {
     "title": "Hari'y Sambahin",
@@ -1139,7 +1142,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/083%20%E2%80%93%20O%20Worship%20the%20King.mp3"
+    "link": "https://media.gccsatx.com/OWorshipTheKing3.mp3"
   },
   {
     "title": "Inaawit Ko ang Lakas",
@@ -1174,7 +1177,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/088%20%E2%80%93%20I%20Sing%20the%20Mighty%20Power%20of%20God.mp3"
+    "link": "https://media.gccsatx.com/I-sing-The-Mighty-Power-of-God-99.mp3"
   },
   {
     "title": "Ito'y Sanlibutan ng Ama",
@@ -1261,7 +1264,7 @@
         "Diyos ang 'yong kanlungan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/099%20%E2%80%93%20God%20Will%20Take%20Care%20of%20You.mp3"
+    "link": "https://www.dropbox.com/scl/fi/txxbihytnw02hx7zkbc4c/God-Will-Take-Care-of-You-SDA-Hymnal-The-Hymns-Channel.mp3?rlkey=80nog7z8r339ctmw66gvp837u&st=vdk90l6p&dl=1"
   },
   {
     "title": "Ang Unang Noel",
@@ -1315,9 +1318,12 @@
       }
     ],
     "refrain": {
-      "lines": ["Noel, Noel, Noel, Noel", "Sumilang Hari ng Israel."]
+      "lines": [
+        "Noel, Noel, Noel, Noel",
+        "Sumilang Hari ng Israel."
+      ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
   {
     "title": "May Awit sa Hangin",
@@ -1361,7 +1367,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/120%20%E2%80%93%20There%27s%20a%20Song%20in%20the%20Air.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/120%20%E2%80%93%20There%27s%20a%20Song%20in%20the%20Air.mp3"
   },
   {
     "title": "Dinggin at Umaawit mga Anghel sa Langit",
@@ -1395,9 +1401,11 @@
       }
     ],
     "refrain": {
-      "lines": ["\"Luwalhati sa sumilang, Hari ng daigdigan.\""]
+      "lines": [
+        "\"Luwalhati sa sumilang, Hari ng daigdigan.\""
+      ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/122%20%E2%80%93%20Hark%21%20the%20Herald%20Angels%20Sing.mp3"
+    "link": "https://media.gccsatx.com/Hark-The-Harold-L.mp3"
   },
   {
     "title": "Galak sa B'ong Sanlibutan",
@@ -1437,7 +1445,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/125%20%E2%80%93%20Joy%20to%20the%20World.mp3"
+    "link": "https://media.gccsatx.com/Joy-to-The-World-L.mp3"
   },
   {
     "title": "Hatinggabi Nang Marinig",
@@ -1472,7 +1480,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/130%20%E2%80%93%20It%20Came%20Upon%20the%20Midnight%20Clear.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/130%20%E2%80%93%20It%20Came%20Upon%20the%20Midnight%20Clear.mp3"
   },
   {
     "title": "Kayong mga Tapat, Kayo'y Pumarito",
@@ -1511,7 +1519,7 @@
         "Si Kristong Panginoo'y sambahin!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/132%20%E2%80%93%20O%20Come%2C%20All%20Ye%20Faithful.mp3"
+    "link": "https://media.gccsatx.com/O-Come-All-Ye-Faithful-.mp3"
   },
   {
     "title": "O Munting Bayang Bethlehem",
@@ -1555,7 +1563,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/135%20%E2%80%93%20O%20Little%20Town%20of%20Bethlehem.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/135%20%E2%80%93%20O%20Little%20Town%20of%20Bethlehem.mp3"
   },
   {
     "title": "Tahimik ang Gabi",
@@ -1599,7 +1607,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/143%20%E2%80%93%20Silent%20Night%2C%20Holy%20Night.mp3"
+    "link": "https://media.gccsatx.com/Silent-Night-.mp3"
   },
   {
     "title": "Isalaysay Mo sa akin Kasaysayan ni Jesus",
@@ -1654,7 +1662,7 @@
         "Ang buhay Niyang puspos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/152%20%E2%80%93%20Tell%20Me%20the%20Story%20of%20Jesus.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/152%20%E2%80%93%20Tell%20Me%20the%20Story%20of%20Jesus.mp3"
   },
   {
     "title": "Bulaklak sa Parang",
@@ -1845,7 +1853,7 @@
         "Ng isang putong na makinang."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/159%20%E2%80%93%20The%20Old%20Rugged%20Cross.mp3"
+    "link": "https://media.gccsatx.com/The-Old-Rugged-Cross-.mp3"
   },
   {
     "title": "Si Cristo ay Nabuhay",
@@ -1889,7 +1897,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/166%20%E2%80%93%20Christ%20the%20Lord%20Is%20Risen%20Today.mp3"
+    "link": "https://media.gccsatx.com/Christ-The-Lord-is-Risen-Today-LL.mp3"
   },
   {
     "title": "Kay Jesus na Pag ibig",
@@ -1932,7 +1940,7 @@
         "Sa pag-ibig sa akin."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/183%20%E2%80%93%20I%20Will%20Sing%20of%20Jesus%27%20Love.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/183%20%E2%80%93%20I%20Will%20Sing%20of%20Jesus%27%20Love.mp3"
   },
   {
     "title": "Si Jesus ang Aking Bantay",
@@ -1988,7 +1996,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/185%20%E2%80%93%20Jesus%20Is%20All%20the%20World%20to%20Me.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/185%20%E2%80%93%20Jesus%20Is%20All%20the%20World%20to%20Me.mp3"
   },
   {
     "title": "Isang Bagong Kaibigan",
@@ -2032,7 +2040,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/186%20%E2%80%93%20I%27ve%20Found%20a%20Friend.mp3"
+    "link": "https://media.gccsatx.com/IveFound-a-friend.mp3"
   },
   {
     "title": "Pag-ibig ng Diyos",
@@ -2092,7 +2100,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/191%20%E2%80%93%20Love%20Divine.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/191%20%E2%80%93%20Love%20Divine.mp3"
   },
   {
     "title": "May Ulan ng Pagpapala",
@@ -2144,7 +2152,7 @@
         "Nguni't ang hingi'y ulan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/195%20%E2%80%93%20Showers%20of%20Blessing.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/195%20%E2%80%93%20Showers%20of%20Blessing.mp3"
   },
   {
     "title": "Saysayin Mo sa Akin",
@@ -2187,7 +2195,7 @@
         "At Kanyang pag-giliw."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/196%20%E2%80%93%20Tell%20Me%20the%20Old%2C%20Old%20Story.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/196%20%E2%80%93%20Tell%20Me%20the%20Old%2C%20Old%20Story.mp3"
   },
   {
     "title": "Saysayin Mo sa Lahat ng Bansa",
@@ -2230,7 +2238,7 @@
         "Ang kasaysayan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/202%20%E2%80%93%20Hail%20Him%20the%20King%20of%20Glory.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/202%20%E2%80%93%20Hail%20Him%20the%20King%20of%20Glory.mp3"
   },
   {
     "title": "Pag Mukhaan Kong Nakita",
@@ -2282,7 +2290,7 @@
         "Ng nagligtas sa sala."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/206%20%E2%80%93%20Face%20to%20Face.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/206%20%E2%80%93%20Face%20to%20Face.mp3"
   },
   {
     "title": "Maaari na sa Umagang",
@@ -2324,7 +2332,7 @@
         "Aleluya! Amen, Aleluya! Amen."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/207%20%E2%80%93%20It%20May%20Be%20at%20Morn.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/207%20%E2%80%93%20It%20May%20Be%20at%20Morn.mp3"
   },
   {
     "title": "Hipan ang Trumpeta",
@@ -2369,9 +2377,12 @@
       }
     ],
     "refrain": {
-      "lines": ["S'ya'y darating, S'ya'y darating,", "Jesus muling darating!"]
+      "lines": [
+        "S'ya'y darating, S'ya'y darating,",
+        "Jesus muling darating!"
+      ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
   },
   {
     "title": "Kung ang Trumpeta ng Diyos",
@@ -2414,7 +2425,7 @@
         "Ako'y kasama ng mangaliligtas!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/216%20%E2%80%93%20When%20the%20Roll%20Is%20Called%20Up%20Yonder.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/216%20%E2%80%93%20When%20the%20Roll%20Is%20Called%20Up%20Yonder.mp3"
   },
   {
     "title": "Pagdating N'ya",
@@ -2457,7 +2468,7 @@
         "Hiyas ng putong N'ya."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/218%20%E2%80%93%20When%20He%20Cometh.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/218%20%E2%80%93%20When%20He%20Cometh.mp3"
   },
   {
     "title": "Ang Oras ng Pagdating Niya",
@@ -2984,7 +2995,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/229%20%E2%80%93%20All%20Hail%20the%20Power%20of%20Jesus%27%20Name.mp3"
+    "link": "https://media.gccsatx.com/All-Hail-the-Power-of-Jesus-Name-DD.mp3"
   },
   {
     "title": "Iniibig Kita",
@@ -3028,7 +3039,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/236%20%E2%80%93%20I%20Love%20Thee.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/236%20%E2%80%93%20I%20Love%20Thee.mp3"
   },
   {
     "title": "Magandang Jesus",
@@ -3072,7 +3083,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/240%20%E2%80%93%20Fairest%20Lord%20Jesus.mp3"
+    "link": "https://media.gccsatx.com/Fairest-Lord-Jesus-L.mp3"
   },
   {
     "title": "Sadyang Karapat-dapat ang Korderong Pinatay",
@@ -3115,7 +3126,7 @@
         "Sa Kanya!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/246%20%E2%80%93%20Worthy%2C%20Worthy%20Is%20the%20Lamb.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/246%20%E2%80%93%20Worthy%2C%20Worthy%20Is%20the%20Lamb.mp3"
   },
   {
     "title": "L'walhatiin si Jesus ",
@@ -3157,9 +3168,12 @@
       }
     ],
     "refrain": {
-      "lines": ["Ipahayag ang kadakilaan Niya,", "Sa awit ay galak na isaysay!"]
+      "lines": [
+        "Ipahayag ang kadakilaan Niya,",
+        "Sa awit ay galak na isaysay!"
+      ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/249%20%E2%80%93%20Praise%20Him%21%20Praise%20Him%21.mp3"
+    "link": "https://media.gccsatx.com/Praise-Him-Praise-Him-LP.mp3"
   },
   {
     "title": "Tanging ang Ngalan ni Jesus",
@@ -3218,7 +3232,7 @@
         "Anong tamis ang tanging ngalan ni Jesus."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/253%20%E2%80%93%20There%27s%20No%20Other%20Name%20Like%20Jesus.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/253%20%E2%80%93%20There%27s%20No%20Other%20Name%20Like%20Jesus.mp3"
   },
   {
     "title": "Tirhan, Espiritung Banal",
@@ -3270,7 +3284,7 @@
         "Ng Espiritung Banal."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/260%20%E2%80%93%20Hover%20O%27er%20Me%2C%20Holy%20Spirit.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/260%20%E2%80%93%20Hover%20O%27er%20Me%2C%20Holy%20Spirit.mp3"
   },
   {
     "title": "Banal na Espiritu, Ilaw ng Kabanalan",
@@ -3306,7 +3320,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/268%20%E2%80%93%20Holy%20Spirit%2C%20Light%20Divine.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/268%20%E2%80%93%20Holy%20Spirit%2C%20Light%20Divine.mp3"
   },
   {
     "title": "O Banal Na Espiritu",
@@ -3359,7 +3373,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/269%20%E2%80%93%20Come%2C%20Holy%20Spirit.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/269%20%E2%80%93%20Come%2C%20Holy%20Spirit.mp3"
   },
   {
     "title": "Oh! Espiritung Banal",
@@ -3438,7 +3452,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/271%20%E2%80%93%20Break%20Thou%20the%20Bread%20of%20Life.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/271%20%E2%80%93%20Break%20Thou%20the%20Bread%20of%20Life.mp3"
   },
   {
     "title": "Ako ay Bigyan ng Banal na Aklat",
@@ -3481,7 +3495,7 @@
         "Patnubay hanggang Siya'y mahayag."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/272%20%E2%80%93%20Give%20Me%20the%20Bible.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/272%20%E2%80%93%20Give%20Me%20the%20Bible.mp3"
   },
   {
     "title": "Ano ang Sabi ng Kasulatan",
@@ -3566,7 +3580,7 @@
         "Ililigtas ka ngayon na, ililigtas ka."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/279%20%E2%80%93%20Only%20Trust%20Him.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/279%20%E2%80%93%20Only%20Trust%20Him.mp3"
   },
   {
     "title": "Buhay Ko'y Nabigay",
@@ -3601,7 +3615,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/281%20%E2%80%93%20I%20Gave%20My%20Life%20for%20Thee.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/281%20%E2%80%93%20I%20Gave%20My%20Life%20for%20Thee.mp3"
   },
   {
     "title": "Tawag Mo'y Narinig",
@@ -3653,7 +3667,7 @@
         "Ako ay linisin."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/282%20%E2%80%93%20I%20Hear%20Thy%20Welcome%20Voice.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/282%20%E2%80%93%20I%20Hear%20Thy%20Welcome%20Voice.mp3"
   },
   {
     "title": "Sa Aki'y Muling Awitin",
@@ -3691,7 +3705,7 @@
         "O kay ganda, kay iinam, salita ng buhay!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/286%20%E2%80%93%20Wonderful%20Words%20of%20Life.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/286%20%E2%80%93%20Wonderful%20Words%20of%20Life.mp3"
   },
   {
     "title": "Magiliw na si Jesus Tumatawag",
@@ -3734,7 +3748,7 @@
         "Sa nagkasalang lahat."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/287%20%E2%80%93%20Softly%20and%20Tenderly.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/287%20%E2%80%93%20Softly%20and%20Tenderly.mp3"
   },
   {
     "title": "Tumatawag si Jesus",
@@ -4010,7 +4024,7 @@
         "Sa dugo Niyang pantubos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/294%20%E2%80%93%20Power%20in%20the%20Blood.mp3"
+    "link": "https://media.gccsatx.com/There-is-Power-in-the-Blood-2.mp3"
   },
   {
     "title": "Akong Makasalanan",
@@ -4051,7 +4065,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/295%20%E2%80%93%20Chief%20of%20Sinners.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/295%20%E2%80%93%20Chief%20of%20Sinners.mp3"
   },
   {
     "title": "Akong Napalayo Sa Diyos",
@@ -4100,7 +4114,7 @@
         "Buksan ang Iyong dibdib Sa nagbabalik!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/296%20%E2%80%93%20Lord%2C%20I%27m%20Coming%20Home.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/296%20%E2%80%93%20Lord%2C%20I%27m%20Coming%20Home.mp3"
   },
   {
     "title": "Ikaw ang Batong Buhay",
@@ -4132,7 +4146,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/300%20%E2%80%93%20Rock%20of%20Ages.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/300%20%E2%80%93%20Rock%20of%20Ages.mp3"
   },
   {
     "title": "Ilapit Mo Ako",
@@ -4180,7 +4194,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/301%20%E2%80%93%20Near%2C%20Still%20Nearer.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/301%20%E2%80%93%20Near%2C%20Still%20Nearer.mp3"
   },
   {
     "title": "Galak Akong Titindig sa Paanan ng Krus",
@@ -4215,7 +4229,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/303%20%E2%80%93%20Beneath%20the%20Cross%20of%20Jesus.mp3"
+    "link": "https://media.gccsatx.com/Beneath-the-Cross-of-Jesus-Hymn-4-.mp3"
   },
   {
     "title": "Ang Pananampalataya ng Ating mga Magulang",
@@ -4256,7 +4270,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/304%20%E2%80%93%20Faith%20of%20Our%20Fathers.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/304%20%E2%80%93%20Faith%20of%20Our%20Fathers.mp3"
   },
   {
     "title": "Ako'y sa Iyo, Pangino'ng Mahal",
@@ -4299,7 +4313,7 @@
         "Sa dugo Mong nabuhos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/306%20%E2%80%93%20Draw%20Me%20Nearer.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/306%20%E2%80%93%20Draw%20Me%20Nearer.mp3"
   },
   {
     "title": "Lalapit Ako sa Krus",
@@ -4351,7 +4365,7 @@
         "Sa kay Jesus kong mutya."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/307%20%E2%80%93%20I%20Am%20Coming%20to%20the%20Cross.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/307%20%E2%80%93%20I%20Am%20Coming%20to%20the%20Cross.mp3"
   },
   {
     "title": "Nasa Kong Maging Iyong Tunay",
@@ -4394,7 +4408,7 @@
         "Buo kong paglilingkod."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/308%20%E2%80%93%20Wholly%20Thine.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/308%20%E2%80%93%20Wholly%20Thine.mp3"
   },
   {
     "title": "Lahat ay Aking Ihahandog",
@@ -4444,7 +4458,7 @@
         "Sa Iyo'y lahat ay aking inihahandog."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/309%20%E2%80%93%20I%20Surrender%20All.mp3"
+    "link": "https://media.gccsatx.com/I-Surrender-All-L.mp3"
   },
   {
     "title": "Ako'y Ilapit sa Krus",
@@ -4496,7 +4510,7 @@
         "Makapagpahinga."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/312%20%E2%80%93%20Near%20the%20Cross.mp3"
+    "link": "https://media.gccsatx.com/Jesus-Keep-Me-Near-The-Cross-L.mp3"
   },
   {
     "title": "Aba Akong Di Gasino",
@@ -4558,7 +4572,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/313%20%E2%80%93%20Just%20as%20I%20Am.mp3"
+    "link": "https://media.gccsatx.com/Just-As-I-Am-L.mp3"
   },
   {
     "title": "Upang Malapit sa Diyos",
@@ -4602,7 +4616,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/315%20%E2%80%93%20O%20for%20a%20Closer%20Walk%21.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/315%20%E2%80%93%20O%20for%20a%20Closer%20Walk%21.mp3"
   },
   {
     "title": "Sasarilinin Ba Niya?",
@@ -4637,7 +4651,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/328%20%E2%80%93%20Must%20Jesus%20Bear%20the%20Cross%20Alone.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/328%20%E2%80%93%20Must%20Jesus%20Bear%20the%20Cross%20Alone.mp3"
   },
   {
     "title": "Buhay Mo'y Isaakin",
@@ -4683,7 +4697,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/316%20%E2%80%93%20Live%20Out%20Thy%20Life%20Within%20Me.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/316%20%E2%80%93%20Live%20Out%20Thy%20Life%20Within%20Me.mp3"
   },
   {
     "title": "Nais Ko, Poong Jesus, Maging Ganap",
@@ -4733,7 +4747,7 @@
         "At pagmanahin ng buhay at galak!."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/318%20%E2%80%93%20Whiter%20Than%20Snow.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/318%20%E2%80%93%20Whiter%20Than%20Snow.mp3"
   },
   {
     "title": "Jesus, Mahal Kita",
@@ -4777,7 +4791,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/321%20%E2%80%93%20My%20Jesus%2C%20I%20Love%20Thee.mp3"
+    "link": "https://media.gccsatx.com/My-Jesus-I-Love-Thee-L.mp3"
   },
   {
     "title": "Ang Lahat sa 'kiy Kunin Na",
@@ -4829,7 +4843,7 @@
         "Pagka't sa langit buhat."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/329%20%E2%80%93%20Take%20the%20World%2C%20but%20Give%20Me%20Jesus.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/329%20%E2%80%93%20Take%20the%20World%2C%20but%20Give%20Me%20Jesus.mp3"
   },
   {
     "title": "Ang Buhay Ko'y Tanggapin",
@@ -4887,7 +4901,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/330%20%E2%80%93%20Take%20My%20Life%20and%20Let%20It%20Be.mp3"
+    "link": "https://media.gccsatx.com/Take-My-Life-LP.mp3"
   },
   {
     "title": "Jesus, Nangako Ako",
@@ -4922,7 +4936,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/331%20%E2%80%93%20O%20Jesus%2C%20I%20Have%20Promised.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/331%20%E2%80%93%20O%20Jesus%2C%20I%20Have%20Promised.mp3"
   },
   {
     "title": "Kami'y Lumalapit",
@@ -5010,7 +5024,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/334%20%E2%80%93%20Come%2C%20Thou%20Fount%20of%20Every%20Blessing.mp3"
+    "link": "https://media.gccsatx.com/Come-Thou-Fount-L.mp3"
   },
   {
     "title": "Panginoon Naming Jesus",
@@ -5061,7 +5075,7 @@
         "Buhay ang kaloob!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/335%20%E2%80%93%20What%20a%20Wonderful%20Savior.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/335%20%E2%80%93%20What%20a%20Wonderful%20Savior.mp3"
   },
   {
     "title": "May Bukal ng Dugong Buhay",
@@ -5123,7 +5137,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/336%20%E2%80%93%20There%20Is%20a%20Fountain.mp3"
+    "link": "https://media.gccsatx.com/There-Is-A-Fountain-.mp3"
   },
   {
     "title": "Sa Pamamagitan ng Dugo ng Kordero",
@@ -5165,7 +5179,7 @@
         "Natubos na't Ako ay anak na ng Diyos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/337%20%E2%80%93%20Redeemed%21.mp3"
+    "link": "https://media.gccsatx.com/Redeemed-.mp3"
   },
   {
     "title": "Dinggin Mo ang Pahayag",
@@ -5209,7 +5223,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/340%20%E2%80%93%20Jesus%20Saves.mp3"
+    "link": "https://media.gccsatx.com/Jesus-Saves-L.mp3"
   },
   {
     "title": "Ang Kal'walhatian sa Diyos Ibigay",
@@ -5252,7 +5266,7 @@
         "At ang l'walhati sa Kanya'y ibigay."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/341%20%E2%80%93%20To%20God%20Be%20the%20Glory.mp3"
+    "link": "https://media.gccsatx.com/To-God-Be-The-Glory-32223-11.39-AM.mp3"
   },
   {
     "title": "May Buhay Sa Isang Tanaw Lamang",
@@ -5393,7 +5407,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/348%20%E2%80%93%20The%20Church%20Has%20One%20Foundation.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/348%20%E2%80%93%20The%20Church%20Has%20One%20Foundation.mp3"
   },
   {
     "title": "Pagpalain Nawa",
@@ -5437,7 +5451,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/350%20%E2%80%93%20Blest%20Be%20the%20Tie%20That%20Binds.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/350%20%E2%80%93%20Blest%20Be%20the%20Tie%20That%20Binds.mp3"
   },
   {
     "title": "Bata'y Aming Alay",
@@ -5472,7 +5486,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/379%20%E2%80%93%20We%20Give%20This%20Child%20to%20You.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/379%20%E2%80%93%20We%20Give%20This%20Child%20to%20You.mp3"
   },
   {
     "title": "Hinog na ang mga Uhay",
@@ -5515,7 +5529,7 @@
         "Di namin magampanan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/358%20%E2%80%93%20Far%20and%20Near%20the%20Fields%20Are%20Teeming.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/358%20%E2%80%93%20Far%20and%20Near%20the%20Fields%20Are%20Teeming.mp3"
   },
   {
     "title": "Dinggin! Ang Tawag ni Jesus",
@@ -5575,7 +5589,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/359%20%E2%80%93%20Hark%21%20the%20Voice%20of%20Jesus%20Calling.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/359%20%E2%80%93%20Hark%21%20the%20Voice%20of%20Jesus%20Calling.mp3"
   },
   {
     "title": "Tinig Niya ay Pakinggan",
@@ -5618,7 +5632,7 @@
         "Sa kay Jesus na mahal."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/361%20%E2%80%93%20Hark%21%20%27Tis%20the%20Shepherd%27s%20Voice%20I%20Hear.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/361%20%E2%80%93%20Hark%21%20%27Tis%20the%20Shepherd%27s%20Voice%20I%20Hear.mp3"
   },
   {
     "title": "Magmadali, O Siyon",
@@ -5663,9 +5677,12 @@
       }
     ],
     "refrain": {
-      "lines": ["Ang balita ay ipahayag,", "Balita tungkol kay Jesus na liyag."]
+      "lines": [
+        "Ang balita ay ipahayag,",
+        "Balita tungkol kay Jesus na liyag."
+      ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/365%20%E2%80%93%20O%20Zion%2C%20Haste.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/365%20%E2%80%93%20O%20Zion%2C%20Haste.mp3"
   },
   {
     "title": "Ihasik Ang Binhi",
@@ -5708,7 +5725,7 @@
         "Ang pinagpaguran kung makita na."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/369%20%E2%80%93%20Bringing%20in%20the%20Sheaves.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/369%20%E2%80%93%20Bringing%20in%20the%20Sheaves.mp3"
   },
   {
     "title": "Mga Manggagapas ay Nasaan?",
@@ -5751,7 +5768,7 @@
         "Ng bungang ani ng Pangino'n."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/366%20%E2%80%93%20O%20Where%20Are%20the%20Reapers.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/366%20%E2%80%93%20O%20Where%20Are%20the%20Reapers.mp3"
   },
   {
     "title": "Ibigin ang Kapwa",
@@ -5793,7 +5810,7 @@
         "Sa Diyos na may habag nang maligtas!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/367%20%E2%80%93%20Rescue%20the%20Perishing.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/367%20%E2%80%93%20Rescue%20the%20Perishing.mp3"
   },
   {
     "title": "Bantay, Hipan ang Trumpeta",
@@ -5845,7 +5862,7 @@
         "Nang lumaya ang bihag."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/368%20%E2%80%93%20Watchman%2C%20Blow%20the%20Gospel%20Trumpet.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/368%20%E2%80%93%20Watchman%2C%20Blow%20the%20Gospel%20Trumpet.mp3"
   },
   {
     "title": "Itaas Siya",
@@ -5913,7 +5930,7 @@
         "Ito ang Kanyang utos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/371%20%E2%80%93%20Lift%20Him%20Up.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/371%20%E2%80%93%20Lift%20Him%20Up.mp3"
   },
   {
     "title": "Samantalang Maaga",
@@ -5948,7 +5965,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/375%20%E2%80%93%20Work%2C%20for%20the%20Night%20Is%20Coming.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/375%20%E2%80%93%20Work%2C%20for%20the%20Night%20Is%20Coming.mp3"
   },
   {
     "title": "Araw ng Kapahingahan",
@@ -5983,7 +6000,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/382%20%E2%80%93%20O%20Day%20of%20Rest%20and%20Gladness.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/382%20%E2%80%93%20O%20Day%20of%20Rest%20and%20Gladness.mp3"
   },
   {
     "title": "Sa Kabanalan ng Banal na Araw",
@@ -6027,7 +6044,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/394%20%E2%80%93%20Far%20From%20All%20Care.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/394%20%E2%80%93%20Far%20From%20All%20Care.mp3"
   },
   {
     "title": "At sa Ibang Sanlinggo",
@@ -6071,7 +6088,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/384%20%E2%80%93%20Safely%20Through%20Another%20Week.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/384%20%E2%80%93%20Safely%20Through%20Another%20Week.mp3"
   },
   {
     "title": "H'wag Kalimutan ang Sabado",
@@ -6112,7 +6129,7 @@
         "Magalak kang tinatanggap, Sabado ng Diyos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/388%20%E2%80%93%20Don%E2%80%99t%20Forget%20the%20Sabbath.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/388%20%E2%80%93%20Don%E2%80%99t%20Forget%20the%20Sabbath.mp3"
   },
   {
     "title": "Maluwalhating Araw",
@@ -6156,7 +6173,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/391%20%E2%80%93%20Welcome%2C%20Welcome%2C%20Day%20of%20Rest.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/391%20%E2%80%93%20Welcome%2C%20Welcome%2C%20Day%20of%20Rest.mp3"
   },
   {
     "title": "Sanlinggo na Nama'y Nanaw",
@@ -6299,7 +6316,7 @@
         "Sa bayan ng Panginoon!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/422%20%E2%80%93%20Marching%20to%20Zion.mp3"
+    "link": "https://media.gccsatx.com/Were-Marching-to-Zion-5.mp3"
   },
   {
     "title": "Sa Bagong Jerusalem",
@@ -6351,7 +6368,7 @@
         "Kasalo sa aliw."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/427%20%E2%80%93%20No%20Night%20There.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/427%20%E2%80%93%20No%20Night%20There.mp3"
   },
   {
     "title": "Hari'y Mamasdan",
@@ -6394,7 +6411,7 @@
         "Hari ay mamamasdan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/426%20%E2%80%93%20I%20Shall%20See%20the%20King.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/426%20%E2%80%93%20I%20Shall%20See%20the%20King.mp3"
   },
   {
     "title": "May Isang Lupaing Mainam",
@@ -6437,7 +6454,7 @@
         "Doon tayo mangagpipisan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/428%20%E2%80%93%20Sweet%20By%20and%20By.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/428%20%E2%80%93%20Sweet%20By%20and%20By.mp3"
   },
   {
     "title": "Tayo ay Magtitipon",
@@ -6489,7 +6506,7 @@
         "Sa pagpupuri sa Diyos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/432%20%E2%80%93%20Shall%20We%20Gather%20at%20the%20River.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/432%20%E2%80%93%20Shall%20We%20Gather%20at%20the%20River.mp3"
   },
   {
     "title": "Kung Tapos na ang mga Pagsubok",
@@ -6532,7 +6549,7 @@
         "Kal'walhatian kong walang-hangga!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/435%20%E2%80%93%20The%20Glory%20Song.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/435%20%E2%80%93%20The%20Glory%20Song.mp3"
   },
   {
     "title": "Ako’y May Kaibigang sa Akin ay Mahal",
@@ -6576,7 +6593,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/456%20%E2%80%93%20My%20Lord%20and%20I.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/456%20%E2%80%93%20My%20Lord%20and%20I.mp3"
   },
   {
     "title": "Galak Akong Magsaysay",
@@ -6626,7 +6643,7 @@
         "Ni Jesus na marangal, tumubos sa tanan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/457%20%E2%80%93%20I%20Love%20to%20Tell%20the%20Story.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/457%20%E2%80%93%20I%20Love%20to%20Tell%20the%20Story.mp3"
   },
   {
     "title": "Kapanatagan na Mapalad",
@@ -6669,7 +6686,7 @@
         "Habang may buhay akong angkin."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/462%20%E2%80%93%20Blessed%20Assurance%2C%20Jesus%20is%20Mine%21.mp3"
+    "link": "https://media.gccsatx.com/Blessed-Assurance-LLPP.mp3"
   },
   {
     "title": "Sa Kaibuturan ng Puso Ko't Isip",
@@ -6721,7 +6738,7 @@
         "Sa puso ko ay tumahan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/466%20%E2%80%93%20Wonderful%20Peace.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/466%20%E2%80%93%20Wonderful%20Peace.mp3"
   },
   {
     "title": "Ang Aking Ama'y Napakayaman",
@@ -6771,7 +6788,7 @@
         "Kasama ni Jesus, ako'y anak-Hari!."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/468%20%E2%80%93%20A%20Child%20of%20the%20King.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/468%20%E2%80%93%20A%20Child%20of%20the%20King.mp3"
   },
   {
     "title": "Ang Aking Galak",
@@ -6814,7 +6831,7 @@
         "Sa Kanyang bisig na malakas."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/469%20%E2%80%93%20Leaning%20on%20the%20Everlasting%20Arms.mp3"
+    "link": "https://media.gccsatx.com/Leaning-on-the-Everlasting-Arms-L.mp3"
   },
   {
     "title": "Sa Puso Ko ay may Awit",
@@ -6866,7 +6883,7 @@
         "Ay akin araw-araw."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/470%20%E2%80%93%20There%27s%20Sunshine%20in%20My%20Soul%20Today.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/470%20%E2%80%93%20There%27s%20Sunshine%20in%20My%20Soul%20Today.mp3"
   },
   {
     "title": "Kung Sa Buhay Mo'y Mayron Kang Ligalig",
@@ -7126,7 +7143,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/473%20%E2%80%93%20Nearer%20My%20God%2C%20to%20Thee.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/473%20%E2%80%93%20Nearer%20My%20God%2C%20to%20Thee.mp3"
   },
   {
     "title": "Pangalang Jesus Ingatan",
@@ -7179,7 +7196,7 @@
         "Tuwa ng sangkalangitan!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/474%20%E2%80%93%20Take%20the%20Name%20of%20Jesus%20With%20You.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/474%20%E2%80%93%20Take%20the%20Name%20of%20Jesus%20With%20You.mp3"
   },
   {
     "title": "Ang Oras ng Panalangin",
@@ -7226,7 +7243,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/478%20%E2%80%93%20Sweet%20Hour%20of%20Prayer.mp3"
+    "link": "https://media.gccsatx.com/Sweet-Hour-of-Prayer-.mp3"
   },
   {
     "title": "Kailangan Kita, O Jesus Ko!",
@@ -7235,7 +7252,10 @@
     "verses": [
       {
         "number": 1,
-        "lines": ["Kailangan Kita, O Jesus ko!", "Walang makikita na gaya Mo!"]
+        "lines": [
+          "Kailangan Kita, O Jesus ko!",
+          "Walang makikita na gaya Mo!"
+        ]
       },
       {
         "number": 2,
@@ -7267,7 +7287,7 @@
         "Ako ngayon!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/483%20%E2%80%93%20I%20Need%20Thee%20Every%20Hour.mp3"
+    "link": "https://media.gccsatx.com/I-Need-Thee-F.mp3"
   },
   {
     "title": "Samantalang Bulaklak",
@@ -7310,7 +7330,7 @@
         "Kasama ng Diyos Anak!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/487%20%E2%80%93%20In%20the%20Garden.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/487%20%E2%80%93%20In%20the%20Garden.mp3"
   },
   {
     "title": "Jesus na Kaibigan",
@@ -7370,7 +7390,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/489%20%E2%80%93%20Jesus%2C%20Lover%20of%20My%20Soul.mp3"
+    "link": "https://media.gccsatx.com/Jesus-Lover-Of-My-Soul-L.mp3"
   },
   {
     "title": "Nais Nating si Jesus ay Makita",
@@ -7414,7 +7434,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/494%20%E2%80%93%20We%20Would%20See%20Jesus.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/494%20%E2%80%93%20We%20Would%20See%20Jesus.mp3"
   },
   {
     "title": "May Isang Dakong Payapa",
@@ -7457,7 +7477,7 @@
         "Na malapit sa Diyos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/495%20%E2%80%93%20Near%20to%20the%20Heart%20of%20God.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/495%20%E2%80%93%20Near%20to%20the%20Heart%20of%20God.mp3"
   },
   {
     "title": "Oh! Kristong Kaibig-ibig",
@@ -7504,7 +7524,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/499%20%E2%80%93%20What%20a%20Friend%20We%20Have%20in%20Jesus.mp3"
+    "link": "https://media.gccsatx.com/What-A-Friend-We-Have-in-Jesus-.mp3"
   },
   {
     "title": "Laging Dumalangin Sa Panginoon",
@@ -7548,7 +7568,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/500%20%E2%80%93%20Take%20Time%20to%20Be%20Holy.mp3"
+    "link": "https://media.gccsatx.com/Take-Time-to-Be-HolyL.mp3"
   },
   {
     "title": "Sa Mapalad Na Oras ng Pananalangin",
@@ -7598,7 +7618,7 @@
         "Panlunas ka sa pagod, hirap at hilahil."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/501%20%E2%80%93%20Tis%20the%20Blessed%20Hour%20of%20Prayer.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/501%20%E2%80%93%20Tis%20the%20Blessed%20Hour%20of%20Prayer.mp3"
   },
   {
     "title": "Ang Iyong Pangako",
@@ -7700,7 +7720,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/506%20%E2%80%93%20A%20Mighty%20Fortress.mp3"
+    "link": "https://media.gccsatx.com/A-Mighty-Fortress-Is-Our-God-L.mp3"
   },
   {
     "title": "Akong Namatay na Kasama Niya",
@@ -7752,7 +7772,7 @@
         "Kalwalhatiang tinatangkilik."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/507%20%E2%80%93%20Moment%20by%20Moment.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/507%20%E2%80%93%20Moment%20by%20Moment.mp3"
   },
   {
     "title": "Kahit Saanman Ako Ay Sasama",
@@ -7793,7 +7813,7 @@
         "Kaylanman at si Jesus ang kasama!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/508%20%E2%80%93%20Anywhere%20With%20Jesus.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/508%20%E2%80%93%20Anywhere%20With%20Jesus.mp3"
   },
   {
     "title": "Gaano Nga Ang Katibayan Kaya?",
@@ -7850,7 +7870,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/509%20%E2%80%93%20How%20Firm%20a%20Foundation.mp3"
+    "link": "https://media.gccsatx.com/How-Firm-a-foundation5.mp3"
   },
   {
     "title": "Sa Panahong S'ya'y Kailangan",
@@ -7901,7 +7921,7 @@
         "Pag S'ya'y kailangan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/512%20%E2%80%93%20Just%20When%20I%20Need%20Him%20Most.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/512%20%E2%80%93%20Just%20When%20I%20Need%20Him%20Most.mp3"
   },
   {
     "title": "Ang Panginoon Ang Aking Ilaw",
@@ -7953,7 +7973,7 @@
         "T'wina ako'y pinapatnubayan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/515%20%E2%80%93%20The%20Lord%20Is%20My%20Light.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/515%20%E2%80%93%20The%20Lord%20Is%20My%20Light.mp3"
   },
   {
     "title": "Ako'y Pinangungunahan",
@@ -8006,7 +8026,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/516%20%E2%80%93%20All%20the%20Way.mp3"
+    "link": "https://media.gccsatx.com/All-the-Way-My-Savior-Leads-Me-LL.mp3"
   },
   {
     "title": "Ang Pag-asa'y Ikaw",
@@ -8039,7 +8059,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/517%20%E2%80%93%20My%20Faith%20Looks%20Up%20to%20Thee.mp3"
+    "link": "https://media.gccsatx.com/My-Faith-Looks-Up-to-Thee-.mp3"
   },
   {
     "title": "Kahanga-hangang Tagapagligtas",
@@ -8092,7 +8112,7 @@
         "Sa pag-ibig Niyang tunay."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/520%20%E2%80%93%20He%20Hideth%20My%20Soul.mp3"
+    "link": "https://media.gccsatx.com/HeHidethMySoul2.mp3"
   },
   {
     "title": "Ang Pag-asa Ko ay Nakatatag",
@@ -8143,7 +8163,7 @@
         "Di gaya ng buhanginan!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/522%20%E2%80%93%20My%20Hope%20Is%20Built%20on%20Nothing%20Less.mp3"
+    "link": "https://media.gccsatx.com/The-Solid-Rock-.mp3"
   },
   {
     "title": "Anong Tamis Ng Magtapat",
@@ -8195,7 +8215,7 @@
         "Ng lihim ko ma't hayag!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/524%20%E2%80%93%20Tis%20So%20Sweet%20to%20Trust%20in%20Jesus.mp3"
+    "link": "https://media.gccsatx.com/Tis-So-Sweet-To-Trust-in-Jesus-L.mp3"
   },
   {
     "title": "Magtiwala Sa Pangako Ni Cristo",
@@ -8238,7 +8258,7 @@
         "Ako'y tiwala sa pangako N'ya."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/518%20%E2%80%93%20Standing%20on%20the%20Promises.mp3"
+    "link": "https://media.gccsatx.com/Standing-on-The-Promises-8.mp3"
   },
   {
     "title": "Muog Kang Mataas",
@@ -8274,9 +8294,12 @@
       }
     ],
     "refrain": {
-      "lines": ["Ikaw ang aking kanlungan,", "Mapalad na batong aking taguan!"]
+      "lines": [
+        "Ikaw ang aking kanlungan,",
+        "Mapalad na batong aking taguan!"
+      ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/525%20%E2%80%93%20Hiding%20in%20Thee.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/525%20%E2%80%93%20Hiding%20in%20Thee.mp3"
   },
   {
     "title": "Si Jesus Ang Bato Natin",
@@ -8328,7 +8351,7 @@
         "Sadyang kanlungan sa bagyo."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/528%20%E2%80%93%20A%20Shelter%20in%20the%20Time%20of%20Storm.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/528%20%E2%80%93%20A%20Shelter%20in%20the%20Time%20of%20Storm.mp3"
   },
   {
     "title": "Sa Ilalim ng Kanyang mga Pakpak",
@@ -8371,7 +8394,7 @@
         "Sa aki'y mag-iingat."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/529%20%E2%80%93%20Under%20His%20Wings.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/529%20%E2%80%93%20Under%20His%20Wings.mp3"
   },
   {
     "title": "Ang Kapayapaan Man Ay Malubos",
@@ -8399,7 +8422,10 @@
       },
       {
         "number": 3,
-        "lines": ["Pasapitin Mo Panginoong Jesus,", "Araw ng mga tinubos."]
+        "lines": [
+          "Pasapitin Mo Panginoong Jesus,",
+          "Araw ng mga tinubos."
+        ]
       }
     ],
     "refrain": {
@@ -8408,7 +8434,7 @@
         "Panatag din ang aking loob."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/530%20%E2%80%93%20It%20Is%20Well%20With%20My%20Soul.mp3"
+    "link": "https://media.gccsatx.com/It-is-Well-With-My-Soul-Piano-PP.mp3"
   },
   {
     "title": "Sa Batong Buhay Na si Jesus",
@@ -8451,7 +8477,7 @@
         "Sa Batong si Cristo."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/531%20%E2%80%93%20We%27ll%20Build%20on%20the%20Rock.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/531%20%E2%80%93%20We%27ll%20Build%20on%20the%20Rock.mp3"
   },
   {
     "title": "Ang Pugalan Mo Baga'y Matibay",
@@ -8512,7 +8538,7 @@
         "Pag-ibig ng Diyos ang kinatamnan!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/534%20%E2%80%93%20Will%20Your%20Anchor%20Hold.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/534%20%E2%80%93%20Will%20Your%20Anchor%20Hold.mp3"
   },
   {
     "title": "Kailangan Kita, Jesus! Ako'y Mahina't Bulag",
@@ -8615,7 +8641,7 @@
         "Sa salita Mong ma-irog!"
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/537%20%E2%80%93%20He%20Leadeth%20Me.mp3"
+    "link": "https://media.gccsatx.com/He-Leadeth-Me-G.mp3"
   },
   {
     "title": "Ang Aking Tagapagligtas Maagang Hahanapin",
@@ -8658,7 +8684,7 @@
         "Kaya't mahal kong lubos."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/539%20%E2%80%93%20I%20Will%20Early%20Seek%20the%20Savior.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/539%20%E2%80%93%20I%20Will%20Early%20Seek%20the%20Savior.mp3"
   },
   {
     "title": "Pastor Kang Aming Patnugot",
@@ -8705,7 +8731,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/545%20%E2%80%93%20Savior%2C%20Like%20a%20Shepherd.mp3"
+    "link": "https://media.gccsatx.com/Savior-Like-a-Shepherd-Lead-Us-L.mp3"
   },
   {
     "title": "Sa Dagat na Malawak",
@@ -8746,7 +8772,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/551%20%E2%80%93%20Jesus%2C%20Savior%2C%20Pilot%20Me.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/551%20%E2%80%93%20Jesus%2C%20Savior%2C%20Pilot%20Me.mp3"
   },
   {
     "title": "O Diyos Ko Ako'y Akbayan",
@@ -8787,7 +8813,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/554%20%E2%80%93%20O%20Let%20Me%20Walk%20With%20Thee.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/554%20%E2%80%93%20O%20Let%20Me%20Walk%20With%20Thee.mp3"
   },
   {
     "title": "May Tahanang Walang Maliw",
@@ -9010,7 +9036,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/567%20%E2%80%93%20Have%20Thine%20Own%20Way%2C%20Lord.mp3"
+    "link": "https://media.gccsatx.com/Have-Thine-own-Way-.mp3"
   },
   {
     "title": "H'wag Mo po Akong Limutin",
@@ -9052,7 +9078,7 @@
         "Kung iba'y tinatawagan, H'wag akong iwan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/569%20%E2%80%93%20Pass%20Me%20Not%2C%20O%20Gentle%20Savior.mp3"
+    "link": "https://media.gccsatx.com/Pass-Me-Not-.mp3"
   },
   {
     "title": "Hindi Ako, Kundi Si Kristo",
@@ -9096,7 +9122,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/570%20%E2%80%93%20Not%20I%2C%20But%20Christ.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/570%20%E2%80%93%20Not%20I%2C%20But%20Christ.mp3"
   },
   {
     "title": "Sa Puso Ni Jesus",
@@ -9140,7 +9166,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/577%20%E2%80%93%20In%20the%20Heart%20of%20Jesus.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/577%20%E2%80%93%20In%20the%20Heart%20of%20Jesus.mp3"
   },
   {
     "title": "Jesus, Ipagsama Mong Gumawa",
@@ -9184,7 +9210,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/582%20%E2%80%93%20Working%2C%20O%20Christ%2C%20With%20Thee.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/582%20%E2%80%93%20Working%2C%20O%20Christ%2C%20With%20Thee.mp3"
   },
   {
     "title": "Ngayo'y Iniisip Ang Magandang Lugar",
@@ -9372,7 +9398,7 @@
         "Na daan sa ligaya kundi pagtalima."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/590%20%E2%80%93%20Trust%20and%20Obey.mp3"
+    "link": "https://media.gccsatx.com/Trust-and-Obey-L.mp3"
   },
   {
     "title": "Isa Ngang Pusong Malinis",
@@ -9519,7 +9545,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/594%20%E2%80%93%20Heir%20of%20the%20Kingdom.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/594%20%E2%80%93%20Heir%20of%20the%20Kingdom.mp3"
   },
   {
     "title": "O Kapatid Ko, Ikaw ay Magtapat",
@@ -9579,7 +9605,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/602%20%E2%80%93%20O%20Brother%2C%20Be%20Faithful.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/602%20%E2%80%93%20O%20Brother%2C%20Be%20Faithful.mp3"
   },
   {
     "title": "Mga Tanda sa Daan ay Masdan",
@@ -9622,7 +9648,7 @@
         "Mga tanda'y masdan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/596%20%E2%80%93%20Look%20for%20the%20Waymarks.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/596%20%E2%80%93%20Look%20for%20the%20Waymarks.mp3"
   },
   {
     "title": "Mangagpuyat mga Banal",
@@ -9683,7 +9709,7 @@
         "Ang maghahari sa 'tin."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/598%20%E2%80%93%20Watch%2C%20Ye%20Saints.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/598%20%E2%80%93%20Watch%2C%20Ye%20Saints.mp3"
   },
   {
     "title": "Nangako Siya sa mga Tapat",
@@ -9726,7 +9752,7 @@
         "Magtibay nga kayo't Ako'y hintayin.\""
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/600%20%E2%80%93%20Hold%20Fast%20Till%20I%20Come.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/600%20%E2%80%93%20Hold%20Fast%20Till%20I%20Come.mp3"
   },
   {
     "title": "Ang mga Tanda'y Nagsasabing Malapit",
@@ -9769,7 +9795,7 @@
         "Oras ay dibatid."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/604%20%E2%80%93%20We%20Know%20Not%20the%20Hour.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/604%20%E2%80%93%20We%20Know%20Not%20the%20Hour.mp3"
   },
   {
     "title": "Tinig Ko Ay May Pagpanaw",
@@ -9857,7 +9883,7 @@
         "Sa tulong ng Diyos pananagumpayan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/610%20%E2%80%93%20Stand%20Like%20the%20Brave.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/610%20%E2%80%93%20Stand%20Like%20the%20Brave.mp3"
   },
   {
     "title": "Oh! Krist'yanong Kawal Hayo sa Laban",
@@ -9907,7 +9933,7 @@
         "Krus ni Jesus ang ating sinusundan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/612%20%E2%80%93%20Onward%2C%20Christian%20Soldiers%21.mp3"
+    "link": "https://media.gccsatx.com/Onward-Christian-Soldiers-L.mp3"
   },
   {
     "title": "Sulong sa Laban",
@@ -9950,7 +9976,7 @@
         "Si Kristo ang ating Kapitan."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/614%20%E2%80%93%20Sound%20the%20Battle%20Cry.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/614%20%E2%80%93%20Sound%20the%20Battle%20Cry.mp3"
   },
   {
     "title": "Tayo Ngayo'y Nabubuhay",
@@ -10010,7 +10036,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/617%20%E2%80%93%20We%20Are%20Living%2C%20We%20Are%20Dwelling.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/617%20%E2%80%93%20We%20Are%20Living%2C%20We%20Are%20Dwelling.mp3"
   },
   {
     "title": "Manindigan Kay Jesus",
@@ -10054,7 +10080,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/618%20%E2%80%93%20Stand%20Up%21%20Stand%20Up%20for%20Jesus%21.mp3"
+    "link": "https://media.gccsatx.com/Stand-up-Stand-Up-for-Jesus-L.mp3"
   },
   {
     "title": "Susundan Kita",
@@ -10115,7 +10141,7 @@
         "Susundan Kita, Jesus."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/623%20%E2%80%93%20I%20Will%20Follow%20Thee.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/623%20%E2%80%93%20I%20Will%20Follow%20Thee.mp3"
   },
   {
     "title": "Tuloy Kong Sinasalunga",
@@ -10167,7 +10193,7 @@
         "Sa pagsalunga sa landas."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/625%20%E2%80%93%20Higher%20Ground.mp3"
+    "link": "https://media.gccsatx.com/HigherGround2.mp3"
   },
   {
     "title": "Sandali Na Lang Uuwi Na",
@@ -10219,7 +10245,7 @@
         "Sandali na lang uuwina."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/626%20%E2%80%93%20In%20a%20Little%20While%20We%27re%20Going%20Home.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/626%20%E2%80%93%20In%20a%20Little%20While%20We%27re%20Going%20Home.mp3"
   },
   {
     "title": "Huwag Kang Padaig sa mga Tukso",
@@ -10311,7 +10337,7 @@
         "Sa harap ni Jesus aawitin ang tagumpay."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/633%20%E2%80%93%20When%20We%20All%20Get%20to%20Heaven.mp3"
+    "link": "https://media.gccsatx.com/When-We-All-Get-To-Heaven2-.mp3"
   },
   {
     "title": "Nais Mong Pala'y Kamtin Mo",
@@ -10426,7 +10452,7 @@
         "Kung may pag-ibig."
       ]
     },
-    "link": "https://sdahymnals.com/Hymnal/mp3/652%20%E2%80%93%20Love%20at%20Home.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/652%20%E2%80%93%20Love%20at%20Home.mp3"
   },
   {
     "title": "Sakdal Na Pag-ibig",
@@ -10461,7 +10487,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/656%20%E2%80%93%20O%20Perfect%20Love.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/656%20%E2%80%93%20O%20Perfect%20Love.mp3"
   },
   {
     "title": "Di na Lubhang Magtatagal",
@@ -10566,7 +10592,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/557%20%E2%80%93%20Come%2C%20Ye%20Thankful%20People.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/557%20%E2%80%93%20Come%2C%20Ye%20Thankful%20People.mp3"
   },
   {
     "title": "Sa Panginoon Ilagay",
@@ -10587,7 +10613,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/666%20%E2%80%93%20Cast%20Thy%20Burden%20Upon%20the%20Lord.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/666%20%E2%80%93%20Cast%20Thy%20Burden%20Upon%20the%20Lord.mp3"
   },
   {
     "title": "Ikaw Na Dumirinig ng Hibik",
@@ -10604,7 +10630,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/668%20%E2%80%93%20O%20Thou%20Who%20Hearest.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/668%20%E2%80%93%20O%20Thou%20Who%20Hearest.mp3"
   },
   {
     "title": "Kayo Nawa'y Ingatan at Pagpalain ng Panginoon",
@@ -10623,7 +10649,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/669%20%E2%80%93%20The%20Lord%20Bless%20You%20and%20Keep%20You.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/669%20%E2%80%93%20The%20Lord%20Bless%20You%20and%20Keep%20You.mp3"
   },
   {
     "title": "Kami'y Lumalapit sa Iyo",
@@ -10643,7 +10669,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/671%20%E2%80%93%20Now%2C%20Dear%20Lord%2C%20As%20We%20Pray.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/671%20%E2%80%93%20Now%2C%20Dear%20Lord%2C%20As%20We%20Pray.mp3"
   },
   {
     "title": "Dinggin, Pangino'n, ang Panalangin",
@@ -10658,7 +10684,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/684%20%E2%80%93%20Hear%20Our%20Prayer%2C%20O%20Lord.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/684%20%E2%80%93%20Hear%20Our%20Prayer%2C%20O%20Lord.mp3"
   },
   {
     "title": "Ang Ama Ay Papurihan",
@@ -10675,7 +10701,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/694%20%E2%80%93%20Praise%20God%2C%20From%20Whom%20All%20Blessings.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/694%20%E2%80%93%20Praise%20God%2C%20From%20Whom%20All%20Blessings.mp3"
   },
   {
     "title": "Panginoon, 'Yong Pagpalain",
@@ -10693,7 +10719,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/690%20%E2%80%93%20Dismiss%20Us%2C%20Lord%20With%20Blessing.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/690%20%E2%80%93%20Dismiss%20Us%2C%20Lord%20With%20Blessing.mp3"
   },
   {
     "title": "Ang Panginoo'y Nasa Templo",
@@ -10712,7 +10738,7 @@
         ]
       }
     ],
-    "link": "https://sdahymnals.com/Hymnal/mp3/687%20%E2%80%93%20The%20Lord%20Is%20in%20His%20Holy%20Temple.mp3"
+    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/687%20%E2%80%93%20The%20Lord%20Is%20in%20His%20Holy%20Temple.mp3"
   },
   {
     "title": "S'ya'y Mamamalas",
