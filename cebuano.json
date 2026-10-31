@@ -7,25 +7,37 @@
       {
         "number": 1,
         "lines": [
-          "Sibahon nato ug lud-han ang Ginoong Dios; Sa pagkatahum sa kabalaan, Maghapa ka sa mahal Niya nga sabakan, Tungod sa Iyang kahimayaan."
+          "Simbahon nato ug lud-han ang Ginoong Dios;",
+          "Sa pagkatahum sa kabalaan,",
+          "Maghapa ka sa mahal Niya nga sabakan,",
+          "Tungod sa Iyang kahimayaan."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Dad-a  and tanan sa Iyang mga tiilan; Ang mga mabug-at nimung lulan Kay ikaw gayud Niya pagalipayon Ug sa imong pag-ampo tubagon."
+          "Dad-a ang tanan sa Iyang mga tiilan;",
+          "Ang mga mabug-at nimung lulan",
+          "Kay ikaw gayud Niya pagalipayon",
+          "Ug sa imong pag-ampo tubagon."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Ayaw kahadlok pagsulod sa halaran; Sa kalumo ikaw Iya naman; Dili mo pagtagdon ang imong kahimtang; Tanan itugyan Kaniya lamang."
+          "Ayaw kahadlok pagsulod sa halaran;",
+          "Sa kalumo ikaw Iya naman;",
+          "Dili mo pagtagdon ang imong kahimtang;",
+          "Tanan itugyan Kaniya lamang."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Kung kining tanan dad-on sa atubangan; Uban ang pagsalig ug paglaum; Sa walay duha-duha Iyang dawaton; Tungod sa ngalan nga malahalon"
+          "Kung kining tanan dad-on sa atubangan;",
+          "Uban ang pagsalig ug paglaum;",
+          "Sa walay duha-duha Iyang dawaton;",
+          "Tungod sa ngalan nga malahalon"
         ]
       }
     ],
@@ -64,7 +76,7 @@
         ]
       }
     ],
-    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/007%20%E2%80%93%20The%20Lord%20in%20Zion%20Reigneth.mp3"
+    "link": "https://www.dropbox.com/scl/fi/447mvva07neehxwt6wv8y/007-The-Lord-in-Zion-Reigneth-SDA-Hymnal-The-Hymns-Channel.mp3?rlkey=hqcxkzoowygz939kx6tsn3eu4&st=2at1mhwd&dl=1"
   },
   {
     "title": "Nagtigum Kita",
@@ -74,19 +86,28 @@
       {
         "number": 1,
         "lines": [
-          "Nagtipon pagpangayo sa panalangin, Gikan sa Ginoo nga maluloy-on; Nagbadlong, nagpaila sa kabubut-on Nya, Dayegon ta Siya, Di ta Nya Kalimtan."
+          "Nagtipon pagpangayo sa panalangin,",
+          "Gikan sa Ginoo nga maluloy-on;",
+          "Nagbadlong, nagpaila sa kabubut-on Nya,",
+          "Dayegon ta Siya, Di ta Nya Kalimtan."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Si Cristo sa kiliran nag-giya nato, Nagmando, nag-amoma sa katawhan; Sukad sa sinugdan nagmadaugon, Dios ko nagabantay, Sya higugmaon."
+          "Si Cristo sa kiliran nag-giya nato,",
+          "Nagmando, nag-amoma sa katawhan;",
+          "Sukad sa sinugdan nagmadaugon,",
+          "Dios ko nagabantay, Sya higugmaon."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Gituboy ta ang Pangulong madaugon, Mag-ampo nga maglaban Sya gihapon; I-iway kami sa mga kalisdanan, Ang Imong ngalan daygon, Dios nga gamhanan."
+          "Gituboy ta ang Pangulong madaugon,",
+          "Mag-ampo nga maglaban Sya gihapon;",
+          "I-iway kami sa mga kalisdanan,",
+          "Ang Imong ngalan daygon, Dios nga gamhanan."
         ]
       }
     ],
@@ -184,10 +205,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Maglipay! Maglipay!",
-        "Maglipay ug mag-awit!"
-      ]
+      "lines": ["Maglipay! Maglipay!", "Maglipay ug mag-awit!"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
@@ -209,8 +227,8 @@
         "number": 2,
         "lines": [
           "Uban sa awit saguton ang masadya nga adlaw,",
-          "Ug ang mga pasalamat sa makusong ihugyaw.",
-          "Ang jhimaya Nya awiton, kalangitan padungga",
+          "Ug ang mga pasalamat sa makusog ihugyaw.",
+          "Ang himaya Nya awiton, kalangitan padungga",
           "Sa karaan nga sugilon sa hamili Nyang gugma."
         ]
       },
@@ -219,7 +237,7 @@
         "lines": [
           "Sa tanan nga panalangin nga kanunayng madawat",
           "Napuno ang kasingkasing sa mga pasalamat",
-          "Dayegon ang Manluluwas sa dugo Nyang nantubos,",
+          "Dayegon ang Manluluwas sa dugo Nyang nagtubos,",
           "Buhia, O Espiritu, dada mo tupad sa Dios."
         ]
       }
@@ -355,7 +373,7 @@
       {
         "number": 3,
         "lines": [
-          "Mga matarung nahugugma",
+          "Mga matarung nahigugma",
           "Sa Imong ngalan",
           "Makita nila nga Ikaw",
           "Sa saad motuman"
@@ -390,7 +408,7 @@
       {
         "number": 2,
         "lines": [
-          "Panalagini ang tawo",
+          "Panalangini ang tawo",
           "Nga makaabut sa templo",
           "Makita nila didto",
           "Ang kalumo ug kaaghup Mo"
@@ -452,7 +470,7 @@
       {
         "number": 4,
         "lines": [
-          "Dili na gayud mahadlok sko",
+          "Dili na gayud mahadlok ako",
           "Uban sa Imong kusganong bukton,",
           "Kay kinsay makadaug kanako,",
           "Kon Ikaw mouban pagpadayon."
@@ -581,11 +599,11 @@
     "refrain": {
       "lines": [
         "Hangtud magkinitanay",
-        "Hangtud sa magkinitanay pahulya",
+        "Hangtud sa magkinitanay pahulay",
         "Sa langitnong puloyan",
-        "Kita sa wanay katapusan",
+        "Kita sa walay katapusan",
         "Unya magpahulay",
-        "Kita sa wanay katapusan."
+        "Kita sa walay katapusan."
       ]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/065%20%E2%80%93%20God%20Be%20With%20You.mp3"
@@ -768,7 +786,7 @@
           "Ang krus sa ulo ko nag-isa",
           "Kanimo sako magpabilin",
           "Abug lamang ang kadungganan",
-          "Unya bulak mangalimyon kinabuhaing dayon."
+          "Unya bulak mangalimyon kinabuhing dayon."
         ]
       }
     ],
@@ -826,25 +844,34 @@
       {
         "number": 1,
         "lines": [
-          "Si Jesus nagpangita, Nawa' ko sa sala, Sa grasya",
-          "gihatud ko Ngadto man Kaniya; Di masukod kaluoy,",
-          "lawom pa kay sa dagat, Ug taas pa sa langit, Dayegon ta Siya."
+          "Si Jesus nagpangita,",
+          "Nawa' ko sa sala, Sa grasya",
+          "gihatud ko Ngadto man Kaniya;",
+          "Di masukod kaluoy,",
+          "lawom pa kay sa dagat,",
+          "Ug taas pa sa langit, Dayegon ta Siya."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Nagbaktas sa Judea, Nga dugay na karon, Katawhan",
-          "naglibut N'ya Grasya ang dawaton; Naglipay sa nasub-an,",
-          "Buta gihayagan, Si Jesus sa gihapon; Sa sala tang-tangan."
+          "Nagbaktas sa Judea,",
+          "Nga dugay na karon, Katawhan",
+          "naglibut N'ya Grasya ang dawaton;",
+          "Naglipay sa nasub-an,",
+          "Buta gihayagan, Si Jesus sa gihapon;",
+          "Sa sala tang-tangan."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Tungod sa dakung gugma Si Jesus miantus, Pagpas-an",
-          "way bagumbol Sa krus sa Calbaryo; balaan sa himaya",
-          "Tingog ipata-as, Hangtud langit ug yuta; Sa Gugma way puas;"
+          "Tungod sa dakung gugma",
+          "Si Jesus miantus, Pagpas-an",
+          "way bagumbol Sa krus sa",
+          "Calbaryo; balaan sa himaya",
+          "Tingog ipata-as, Hangtud langit ug yuta;",
+          "Sa Gugma way puas;"
         ]
       }
     ],
@@ -878,7 +905,7 @@
         "lines": [
           "Ginatugyan ko karon, ang kasingkasing ko,",
           "Sa Iyang buluhaton sa buhi pa ako;",
-          "Dios nong gugma ug hingpit akong ginadayeg",
+          "Diosnong gugma ug hingpit akong ginadayeg",
           "Sa buhat makigambit Ug mosalig."
         ]
       },
@@ -887,16 +914,13 @@
         "lines": [
           "Kalag nga may kalisud, dangop ko kang Jesus,",
           "Abyan S'ya nga matuod, kanimo nagtubos;",
-          "Sia ang imong Ginoo takus makaluwas,",
+          "Siya ang imong Ginoo takus makaluwas,",
           "Dangop ka O kalag ko, mahigawas."
         ]
       }
     ],
     "refrain": {
-      "lines": [
-        "Dios nong gugma! Ang nagluwas;",
-        "Ang gugma nagluwas."
-      ]
+      "lines": ["Dios nong gugma! Ang nagluwas;", "Ang gugma nagluwas."]
     },
     "link": "https://www.dropbox.com/scl/fi/hdl74obmg6ikk4okkorq9/SDAH-041-I-Was-Sinking-Deep-in-Sin-Love-Lifted-Me-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=30o3czs0bxu319phr0pwioxc4&st=mluh02e0&dl=1"
   },
@@ -1037,7 +1061,7 @@
         "lines": [
           "Sa awit magpasalamat kita",
           "Atong tingog ipalanog",
-          "Ug ang yuta sa iyang dadhan nga tingog",
+          "Ug ang yuta sa iyang daghan nga tingog",
           "Mapuno sa pagdayeg N'ya."
         ]
       },
@@ -1171,7 +1195,7 @@
         ]
       }
     ],
-    "link": "https://www.dropbox.com/scl/fi/idpi8haw7vhkqqddd6trh/092-This-Is-My-Father-s-World-SDA-Hymnal-The-Hymns-Channel.mp3?rlkey=ifhafvylpfzvtflp1z71ekch9&st=ijwq9pk0&dl=1"
+    "link": "https://media.gccsatx.com/This-Is-My-Fathers-World-220.mp3"
   },
   {
     "title": "Bantayan Kasa Dios",
@@ -1277,10 +1301,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Noel, Noel, Noel, Noel,",
-        "Natawo ang Hari sa Israel."
-      ]
+      "lines": ["Noel, Noel, Noel, Noel,", "Natawo ang Hari sa Israel."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
@@ -1292,7 +1313,7 @@
       {
         "number": 1,
         "lines": [
-          "Sa hangin may honi bintoon nagsidlak",
+          "Sa hangin may honi bitoon nagsidlak",
           "Inahan nagampo may batang nagkilak",
           "Ang bitoon nagsidlak uban nag-awit",
           "Alang sa batang giduyan sa Betlehem."
@@ -1418,7 +1439,7 @@
       {
         "number": 1,
         "lines": [
-          "Usa ka tungang gaibi may usa ka awit",
+          "Usa ka tungang gabii may usa ka awit",
           "Gikan sa mga manolunda nga may alpang bulawan",
           "Kalinaw ug pakigdait gikan sa langitnong Hari",
           "Malinawon ang kalibutan sa anghel namati."
@@ -1592,7 +1613,7 @@
         "lines": [
           "Miadto sa kamingawan ug nagpuasa Siya",
           "Hilabihan ang pagtintal ug nagmadaugon pa",
-          "Saysayi ko sa kagulol nga Iyang ginaantus",
+          "Saysayi ko sa kaguol nga Iyang ginaantus",
           "Gisalikway ug gisakit way pinuyanan ug kabus"
         ]
       },
@@ -1686,7 +1707,7 @@
         "number": 3,
         "lines": [
           "Mohawid ug monunot kang Jesus ako",
-          "Magsunod dayud Kaniya man",
+          "Magsunod gayud Kaniya man",
           "Sa ngabil ug kasingkasing ambahan ko",
           "Siya nga akong dalangpanan."
         ]
@@ -1709,31 +1730,51 @@
       {
         "number": 1,
         "lines": [
-          "May nanaog kaniadto sa langit, Ang Dios nga mahigugmaon; Wala pagilha, gibi-ay bi-ay S'ya, Kining Gasa nga langitnon."
+          "May nanaog kaniadto sa langit,",
+          "Ang Dios nga mahigugmaon;",
+          "Wala pagilha, gibi-ay bi-ay S'ya,",
+          "Kining Gasa nga langitnon."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Mianhi Siya sa mga Iya man, Niadtong nanghisalaag, Wala patalinghugi ang ilang abyan, Gidumtan ug gisalikway."
+          "Mianhi Siya sa mga Iya man,",
+          "Niadtong nanghisalaag,",
+          "Wala patalinghugi ang ilang abyan,",
+          "Gidumtan ug gisalikway."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Ang mga langgam ug mga milo man, Adunay ma-nga puloy-an; Apan Siya walay kaurarayan, Bisan Iyang kahig-daan,"
+          "Ang mga langgam ug mga milo man,",
+          "Adunay ma-nga puloy-an;",
+          "Apan Siya walay kaurarayan,",
+          "Bisan Iyang kahig-daan,"
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Dili makasikway ako Kaniya, Manluluwas ko man Siya; Moadto ako sa Iyang tiilan, Ug andam sa pag-antus man,"
+          "Dili makasikway ako Kaniya,",
+          "Manluluwas ko man Siya;",
+          "Moadto ako sa Iyang tiilan,",
+          "Ug andam sa pag-antus man,"
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Gipurongan S'ya ug mga tunokon, Gihampak ug gilansang sa krus (sa kahoy) Apan ang kasakit nga malisud dad-on, Iya lamang gi-antus."
+        "Gipurongan",
+        "S'ya ug mga tunokon,",
+        "Gihampak ug",
+        "gilansang sa",
+        "krus (sa kahoy)",
+        "Apan ang kasakit",
+        "nga malisud dad-on,",
+        "Iya lamang",
+        "gi-antus."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/4yurmp8zqtq76wi40v695/SDAH-079-There-Came-From-the-Skies-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=tbovr6wwh4btqsp0m72aj62fl&st=qy2kwehf&dl=1"
@@ -1876,7 +1917,7 @@
       {
         "number": 1,
         "lines": [
-          "Si Jesus sa kalibutan kanabuhing dayon",
+          "Si Jesus sa kalibutan kinabuhing dayon",
           "Siya ang ako nga kusog tungod kay gamhanan",
           "Kon masubo moadto ko walay lain nga Ginoo",
           "Kon masubo kalipay ko abyan ko."
@@ -2112,7 +2153,7 @@
           "Humangad o mga anak sa Dios",
           "Singgit magawit",
           "Bulahan ang naghulat nagtukaw",
-          "Pagsubang sa adla"
+          "Pagsubang sa adlaw"
         ]
       }
     ],
@@ -2263,10 +2304,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Mobalik S'ya, mobalik S'ya,",
-        "Si Jesus mobalik na."
-      ]
+      "lines": ["Mobalik S'ya, mobalik S'ya,", "Si Jesus mobalik na."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
   },
@@ -2281,7 +2319,7 @@
           "Kon tingugon ang trumpeta ang panahon tikup na",
           "Ug sa buntag mahayag gayud Siya",
           "Tigumon ang mga linuwas sa laing baybayon",
-          "Kon tawgon ang ngalan dito ko dayon"
+          "Kon tawgon ang ngalan didto ko dayon"
         ]
       },
       {
@@ -2289,7 +2327,7 @@
         "lines": [
           "Ang mga patay kang Cristo pagbanhawon paguna",
           "Ug ang himaya ipakita Niya",
-          "tigugmon ang mga linuwas ug pagabayawon",
+          "tigumon ang mga linuwas ug pagabayawon",
           "Kon tawgon ang ngalan didto ko dayon"
         ]
       },
@@ -2308,7 +2346,7 @@
         "Kon pagatawgon ang ngalan",
         "Kon pagatawgon ang ngalan",
         "Kon pagatawgon ang ngalan",
-        "Kon tawgon ang ngalan dito ko daayon"
+        "Kon tawgon ang ngalan didto ko dayon"
       ]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/216%20%E2%80%93%20When%20the%20Roll%20Is%20Called%20Up%20Yonder.mp3"
@@ -2382,7 +2420,8 @@
       {
         "number": 3,
         "lines": [
-          "Oh Jesus nga Mmakagagahum! Ikaw gimahal man nako",
+          "Oh Jesus nga Mmakagagahum!",
+          "Ikaw gimahal man nako",
           "Tungod sa bulahang paglaum nga makakita Kanimo",
           "Ikaw ako man nga sugaton maghuhukom nga matarung",
           "Mokalagiw ang katawohan sa mahal Mong atubangan."
@@ -2390,10 +2429,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ako naghulat, ako nagbantay",
-        "Ako naghulat sa yuta makalilipay"
-      ]
+      "lines": ["Ako naghulat, ako nagbantay Ako naghulat sa yuta makalilipay"]
     },
     "link": "https://www.dropbox.com/scl/fi/tr1hsk1fy2kx8mo5wa3om/SDAH-109-We-Know-Not-the-Time-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=vl2sln4to1yw4dh4v4sbunxzw&st=6svszhz0&dl=1"
   },
@@ -2466,7 +2502,7 @@
       {
         "number": 2,
         "lines": [
-          "Maglipay ang mga mamtarung",
+          "Maglipay ang mga matarung",
           "Balusan Niya ang tanan",
           "Mahadlok ang mga dautan",
           "Kay ni Jesus man silotan"
@@ -2505,7 +2541,7 @@
         "Ang mga langitnong manolunda",
         "Magahatud sa Hari nila",
         "Ug koronahan sa himaya",
-        "Oagdawat sa lungsod Niya"
+        "Pagdawat sa lungsod Niya"
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/bh2v78mvs4asbe3vux6ai/SDAH-113-When-Jesus-Shall-Gather-the-Nations-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=yhtwbgaaif01e6gzi0wbm7cxp&st=6fon4xwc&dl=1"
@@ -2518,25 +2554,53 @@
       {
         "number": 1,
         "lines": [
-          "Sa masadya nga pag-ani Sa daku nga milenyo, Sa paglingkod na sa Hari Uban sa Iyang setro, Maghukon sa kalibutan, Sa mga katawohan, Maayong balus ihatag Sa tanang mga Iya."
+          "Sa masadya nga pag-ani",
+          "Sa daku nga milenyo,",
+          "Sa paglingkod na sa Hari",
+          "Uban sa Iyang setro,",
+          "Maghukon sa kalibutan,",
+          "Sa mga katawohan,",
+          "Maayong balus ihatag",
+          "Sa tanang mga Iya."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Kalipay sa katawohan, Nga ilang ginahandum, Dili na lamang madugay Madawat na ang ganti; Niadtong matinuho-on, Ug nga mahigug-maon, Makasulod sa pultahan Ang tanang mga Iya."
+          "Kalipay sa katawohan,",
+          "Nga ilang ginahandum,",
+          "Dili na lamang madugay",
+          "Madawat na ang ganti;",
+          "Niadtong matinuho-on,",
+          "Ug nga mahigugmaon,",
+          "Makasulod sa pultahan",
+          "Ang tanang mga Iya."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Hilabihan nilang budlay, Uban sa mga luha, Karon ila nang biyaan Ang mabug-at nga lulan; Wala na gayud panghupaw, Ang luwas koronahan, Ug pagapanalanginan Ang tanang mga Iya."
+          "Hilabihan nilang budlay,",
+          "Uban sa mga luha,",
+          "Karon ila nang biyaan",
+          "Ang mabug-at nga lulan;",
+          "Wala na gayud panghupaw,",
+          "Ang luwas koronahan,",
+          "Ug pagapanalanginan",
+          "Ang tanang mga Iya."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Magkini-anay man kita, Sa adlaw sa Ginoo, Dili na lamang madugay Moabut paglaum mo; Unya dawaton ka Niya, Sa Iyang gingharian, O daw unsa ang kasadya Uban sa Manlalaban"
+          "Magkini-anay man kita,",
+          "Sa adlaw sa Ginoo,",
+          "Dili na lamang madugay",
+          "Moabut paglaum mo;",
+          "Unya dawaton ka Niya,",
+          "Sa Iyang gingharian,",
+          "O daw unsa ang kasadya",
+          "Uban sa Manlalaban"
         ]
       }
     ],
@@ -2552,7 +2616,7 @@
         "lines": [
           "O, ang tibuok nga kayutaan",
           "Nakakita sa mga ilhanan",
-          "Sa duol nga pagbalik ni Hesus",
+          "Sa duol nga pagbalik ni Jesus",
           "Bulahan nga paglaum dad-on man sa Dios"
         ]
       },
@@ -2584,31 +2648,46 @@
       {
         "number": 1,
         "lines": [
-          "Ang Hari naa sa pulta, Ang nagtubos sa sala ta Moanhi sa ikaduha, Nga sa matarung ra."
+          "Ang Hari naa sa pulta,",
+          "Ang nagtubos sa sala ta",
+          "Moanhi sa ikaduha,",
+          "Nga sa matarung ra."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Ang mga timaan, Sa madali nangatuman Aron sa dili madugay, Kita mopahulay."
+          "Ang mga timaan,",
+          "Sa madali nangatuman",
+          "Aron sa dili madugay,",
+          "Kita mopahulay."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Di na makita sa yuta, Kalipay ug kalinaw pa Aron sa dili madugay, Kita mopahulay."
+          "Di na makita sa yuta,",
+          "Kalipay ug kalinaw pa",
+          "Aron sa dili madugay,",
+          "Kita mopahulay."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Unya sa bag-o nga yuta, Mag-puyo nga dayon kita Ug ato nga padawaton, Ang himayang dayon."
+          "Unya sa bag-o nga yuta,",
+          "Mag-puyo nga dayon kita",
+          "Ug ato nga padawaton,",
+          "Ang himayang dayon."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Na-a sa pultahan, Ang Ginoong Manluluwas ta, Sa pagkuha, sa pagkuha, Sa tanan nga balaan."
+        "Na-a sa pultahan,",
+        "Ang Ginoong Manluluwas ta,",
+        "Sa pagkuha, sa pagkuha,",
+        "Sa tanan nga balaan."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/q7bk17ww95692gjhi03a5/SDAH-119-The-Coming-King-is-at-the-Door.mp3?rlkey=xuiyohq5mttcnlk6resj18k52&st=6r42zxy4&dl=1"
@@ -2691,8 +2770,8 @@
       {
         "number": 4,
         "lines": [
-          "Si Jesus andam kanunya",
-          "Sa paghatag og kalipa",
+          "Si Jesus andam kanunay",
+          "Sa paghatag og kalipay",
           "Ug Siya ra ang gamhanan",
           "Pagluwas sa katawohan"
         ]
@@ -2754,7 +2833,7 @@
       {
         "number": 5,
         "lines": [
-          "Si Cirsto maoy halangdon",
+          "Si Cristo maoy halangdon",
           "Ug angay nga pagdayegon",
           "Sa manolunda pangulo",
           "Ug magtutudlo"
@@ -2976,10 +3055,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Dayegon ta gayud Siya ug tinuod",
-        "Kay Siya maayo ug matuod."
-      ]
+      "lines": ["Dayegon ta gayud Siya ug tinuod", "Kay Siya maayo ug matuod."]
     },
     "link": "https://media.gccsatx.com/Praise-Him-Praise-Him-LP.mp3"
   },
@@ -3002,7 +3078,7 @@
         "lines": [
           "Matamis ang ngalang Jesus",
           "Kung mabug-at ang dughan",
-          "Matamis ang ngalang Jeus",
+          "Matamis ang ngalang Jesus",
           "Kung kalipay ako man"
         ]
       },
@@ -3079,7 +3155,7 @@
       {
         "number": 4,
         "lines": [
-          "Luwasa akon'g lipaya",
+          "Luwasa akong lipaya",
           "Sa Imo nga sabakan",
           "Ki'ng kasingkasing ulaya",
           "Sa dugo Mong balaan."
@@ -3131,7 +3207,7 @@
       {
         "number": 4,
         "lines": [
-          "Luwasa akon'g lipaya",
+          "Luwasa akong lipaya",
           "Sa Imo nga sabakan",
           "Ki'ng kasingkasing ulaya",
           "Sa dugo Mong balaan."
@@ -3288,7 +3364,7 @@
       {
         "number": 1,
         "lines": [
-          "Ambi ang Biblia akoang kinahanglan",
+          "Ambi ang Biblia akong kinahanglan",
           "Maoy kahayag sa dalan nako",
           "Sa kangitngit ni ining kalibutan",
           "Kang Jesus magtultol man kanako"
@@ -3331,25 +3407,37 @@
       {
         "number": 1,
         "lines": [
-          "Unsay giingon sa Kasulatan? Ang pagtulon-an sa tawo, Makapasala-ag sa makadaghan, Unsa bay Pulong sa Dios ko?"
+          "Unsay giingon sa Kasulatan?",
+          "Ang pagtulon-an sa tawo,",
+          "Makapasala-ag sa makadaghan,",
+          "Unsa bay Pulong sa Dios ko?"
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Ang mga sugong way katapusan, Diotay ra ang mga buhat; Apan dunay ubang nanagtuman, Nagtudlo sa ikaupat."
+          "Ang mga sugong way katapusan,",
+          "Diotay ra ang mga buhat;",
+          "Apan dunay ubang nanagtuman,",
+          "Nagtudlo sa ikaupat."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Unsay tubag mo sa pangutana: Kung ikaw nagabantay ba Sa tanan nga mga kasugoan Ni Jehova nga balaan."
+          "Unsay tubag mo sa pangutana:",
+          "Kung ikaw nagabantay ba",
+          "Sa tanan nga mga kasugoan Ni",
+          "Jehova nga balaan."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Unsay giingon sa Bibliya? Diotay ra ang makasay-say man, Ang napulo ka sugo sundon ta Aron kita mabulahan."
+        "Unsay giingon sa Bibliya?",
+        "Diotay ra ang makasay-say man,",
+        "Ang napulo ka sugo sundon ta",
+        "Aron kita mabulahan."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/bp2rebqqutwhzzrzwmomy/SDAH-151-What-Says-the-Bible-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=owzfm6760ookggb68xqfmi99w&st=hl4amzg9&dl=1"
@@ -3466,10 +3554,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Karon Ginoo mandoi ako",
-        "Sa dugo sa Calbaryo hugasi man ako"
-      ]
+      "lines": ["Karon Ginoo mandoi ako", "Sa dugo sa Calbaryo hugasi man ako"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/282%20%E2%80%93%20I%20Hear%20Thy%20Welcome%20Voice.mp3"
   },
@@ -3506,7 +3591,7 @@
     "refrain": {
       "lines": [
         "Matahum nga maga pulong",
-        "Pulong sa kianbuhi",
+        "Pulong sa kinabuhi",
         "Kahibulongan nga pulong",
         "Pulong sa atong Dios."
       ]
@@ -3574,7 +3659,7 @@
         "number": 2,
         "lines": [
           "Mahigugmaong Pastor nga nagatugyan man",
-          "Sa iyabg kanabuhi nga lukat sa tanan",
+          "Sa iyang kinabuhi nga lukat sa tanan",
           "Umadto karon dayon ug panalanginan",
           "Sumulod sa ganghaan sa kapahulayan"
         ]
@@ -3607,31 +3692,44 @@
       {
         "number": 1,
         "lines": [
-          "Sa binuksan nga ganghaan Ang silaw nagasidlak; Ginapahayag ang gugma sa akong Manlulukat."
+          "Sa binuksan nga ganghaan",
+          "Ang silaw nagasidlak;",
+          "Ginapahayag ang gugma sa akong",
+          "Manlulukat."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Ang ganghaan nga binuksan Alang sa katawohan, Nga nangitag kaluwasan kabus kon adunahan."
+          "Ang ganghaan nga binuksan",
+          "Alang sa katawohan,",
+          "Nga nangitag kaluwasan",
+          "kabus kon adunahan."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Padayon sa imong dalan Ang kaaway modagan; Dawata ang purong-purong nga maoy handumanan."
+          "Padayon sa imong dalan",
+          "Ang kaaway modagan;",
+          "Dawata ang purong-purong",
+          "nga maoy handumanan."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Sa duol sa katampihan Didto may kabuhian, Ang kinabuhi nga dayon sa magmatinumanon."
+          "Sa duol sa katampihan",
+          "Didto may kabuhian,",
+          "Ang kinabuhi nga dayon",
+          "sa magmatinumanon."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "O pagkamahigugmaon Ni Jesus nga maluloy-on, Jesus, Jesus pasudla man ako."
+        "O pagkamahigugmaon Ni Jesus nga maluloy-on,",
+        "Jesus, Jesus pasudla man ako."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/vori3b6ov63m2np1cbk23/SDAH-165-There-Is-a-Gate-That-Stands-Ajar-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=bh3hhh62jtt7pg46rh9cj72tt&st=2k7jg9oq&dl=1"
@@ -3644,25 +3742,57 @@
       {
         "number": 1,
         "lines": [
-          "Adunay buot nga mosulod Sa dili madugay, Aron sa himaya motilaw, ako ba lang kun ikaw ba? Ang magpahimulos paglakaw Sa mga dalan nga bulawan, Nga giandam sa Ginoo ko; Kanako man ug kanimo."
+          "Adunay buot nga mosulod",
+          "Sa dili madugay,",
+          "Aron sa himaya motilaw,",
+          "ako ba lang kun ikaw ba?",
+          "Ang magpahimulos paglakaw",
+          "Sa mga dalan",
+          "nga bulawan,",
+          "Nga giandam sa",
+          "Ginoo ko;",
+          "Kanako man ug kanimo."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Dunay uban nga malipayon Sa dili madugay, Pagbutang sa Iyang gipas-an;  ako ba lang kun ikaw ba? Ang nagadawat sa korona, Magmatinumanon ka lamang, Ug unya kanato ihatag; Kanako man ug kanimo."
+          "Dunay uban nga malipayon",
+          "Sa dili madugay,",
+          "Pagbutang sa",
+          "Iyang gipas-an;",
+          "ako ba lang kun ikaw ba?",
+          "Ang nagadawat sa korona,",
+          "Magmatinumanon",
+          "ka lamang,",
+          "Ug unya kanato ihatag;",
+          "Kanako man ug kanimo."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Dunay uban nagatawag Sa dili madugay, Sa pultahan nga ginasirhan;  ako ba lang kun ikaw ba? Nga gipamulongan ni Cristo, Wala mo maila kon kinsa, Ang nagsangpit nga wa' tubaga;  ako ba lang kun ikaw ba?"
+          "Dunay uban nagatawag",
+          "Sa dili madugay,",
+          "Sa pultahan nga ginasirhan;",
+          "ako ba lang kun ikaw ba?",
+          "Nga gipamulongan ni Cristo,",
+          "Wala mo maila kon kinsa,",
+          "Ang nagsangpit nga wa' tubaga;",
+          "ako ba lang kun ikaw ba?"
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Dunay uban nga nag-awit Sa dili madugay, Ug managtipon sa pagdayeg;  ako ba lang kun ikaw ba? Ang magasugat sa Ginoo, Minahal ug ang hinigugma, Nianang adlawa magbulag; Andam ka ba ug kamo man?"
+          "Dunay uban nga nag-awit",
+          "Sa dili madugay,",
+          "Ug managtipon sa pagdayeg;",
+          "ako ba lang kun ikaw ba?",
+          "Ang magasugat sa Ginoo,",
+          "Minahal ug ang hinigugma,",
+          "Nianang adlawa magbulag;",
+          "Andam ka ba ug kamo man?"
         ]
       }
     ],
@@ -3919,7 +4049,7 @@
       {
         "number": 3,
         "lines": [
-          "Kon ang panaw mamtapus sa kinabuhing pitos",
+          "Kon ang panaw matapus sa kinabuhing pitos",
           "Si Jesus ang paglaum ug ang dunay kagahum",
           "Unya tabangi kami O ginoo mandoi"
         ]
@@ -4321,8 +4451,12 @@
           "Ako makasasala man",
           "Tungod sa paglapas nako",
           "Sa kasugoang balaan",
-          "Ni Cristong Manunubos ko",
-          "6",
+          "Ni Cristong Manunubos ko"
+        ]
+      },
+      {
+        "number": 6,
+        "lines": [
           "Higugmaon ko man karon",
           "Si Jesus nga maloloyon",
           "Kay ang tanan ko nga sala",
@@ -4496,7 +4630,7 @@
       {
         "number": 1,
         "lines": [
-          "Ginoong Jesus Ikaw gihiigugma ko",
+          "Ginoong Jesus Ikaw gihigugma ko",
           "Tanang kadautan gitalikdan ko",
           "Maluloyong Manunubos ug Manluluwas ko",
           "Ikaw higugmaon I Jesus karon"
@@ -4710,10 +4844,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ginoo, kalag namo bantayi",
-        "Kami sa gihapon panalipdi"
-      ]
+      "lines": ["Ginoo, kalag namo bantayi", "Kami sa gihapon panalipdi"]
     },
     "link": "https://www.dropbox.com/scl/fi/atjpnw6dc6cfns0a4vp9n/SDAH-215-Father-We-Come-to-Thee-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=iq334qjrzwct1okxanvakog6b&st=5wwc0tbe&dl=1"
   },
@@ -4812,7 +4943,7 @@
         "number": 2,
         "lines": [
           "Ang himamtyon nga kawatan nagamalipayon",
-          "sa pagtanaw sa tuburan sa iyang panahaon",
+          "sa pagtanaw sa tuburan sa iyang panahon",
           "Ug unya ako man ingon man kaniya",
           "Mahugasan sa sala ko ingon man kaniya"
         ]
@@ -4841,8 +4972,12 @@
           "Ako Ginoo nagtuo nga giandaman Mo",
           "Sa matahum puloyan nga way kagulanan",
           "Bisan dili takus ako, sa himaya",
-          "Gipalit Mo ako aron madawat sa grasya",
-          "6",
+          "Gipalit Mo ako aron madawat sa grasya"
+        ]
+      },
+      {
+        "number": 6,
+        "lines": [
           "Matamis nga alawiton sa mga balaan",
           "Alang kang Cristong gamhanan ug mapaubsanon",
           "Ako mopadayon sa Dios ta pagsangpit",
@@ -4860,7 +4995,8 @@
       {
         "number": 1,
         "lines": [
-          "Naluwas! akong isugilon! Naluwas tungod sa dugo",
+          "Naluwas! akong isugilon!",
+          "Naluwas tungod sa dugo",
           "Naluwas tungod sa kaluoy ako Iya na kanunay"
         ]
       },
@@ -4881,8 +5017,7 @@
     ],
     "refrain": {
       "lines": [
-        "Luwas, luwas, sa dugo lang sa Cordero",
-        "Luwas, luwas, kahangturan, Iya ako."
+        "Luwas, luwas, sa dugo lang sa Cordero Luwas, luwas, kahangturan, Iya ako."
       ]
     },
     "link": "https://media.gccsatx.com/Redeemed-.mp3"
@@ -5063,7 +5198,7 @@
       "lines": [
         "Nagkaduol ta sa pinuyanan!",
         "Tanawang katahum sa kalangitan",
-        "Ug ang himayang gikan sa ganghanan",
+        "Ug ang himayang gikan sa ganghaan",
         "Hapit na kitang mosulod sa langit",
         "Madungog manolundang nanagawit",
         "Duol nang puloyan!"
@@ -5196,7 +5331,7 @@
         "number": 2,
         "lines": [
           "Sayo sa buntag masulaw sila papanguhaon",
-          "Inigkasalop saa adlaw ila na nga tigumon"
+          "Inigkasalop sa adlaw ila na nga tigumon"
         ]
       },
       {
@@ -5362,7 +5497,7 @@
         "lines": [
           "Pagpugas sa buntag, pagpugas sa hapon",
           "Binhi sa kaluoy gikatagkatag",
-          "Pagnahon sa ani atong paabuton",
+          "Panahon sa ani atong paabuton",
           "Pagtigum sa uhay Kalipayng lonlon"
         ]
       },
@@ -5380,7 +5515,7 @@
         "lines": [
           "Pagpugas sa luhaalng sa agalon",
           "Way sapayan lang basta magpadayon",
-          "Tapus sa pagbakho tatagan sa ganti",
+          "Tapus sa pagbakho hatagan sa ganti",
           "Pagtigum sa uhay, Kalipayng buhi."
         ]
       }
@@ -5431,8 +5566,8 @@
     "refrain": {
       "lines": [
         "Hain na ba ang mangangani",
-        "Magdawat sa himaya ugmari",
-        "Ug tabanig kami pagtigum",
+        "Magdawat sa himaya ug umari",
+        "Ug tabangi kami pagtigum",
         "Sa mga tawo nga matarung"
       ]
     },
@@ -6171,7 +6306,7 @@
         "number": 1,
         "lines": [
           "Ako dunay higala nga labing bililhon",
-          "Maluloyong nahigugma ug matihumanon;",
+          "Maluloyong nahigugma ug matinumanon;",
           "Gusto akong magpaduol sa Iyang kiliran",
           "Busa kami kanunay magkauban."
         ]
@@ -6394,7 +6529,7 @@
     ],
     "refrain": {
       "lines": [
-        "Anak ko sa Harim Haring langitnon;",
+        "Anak ko sa Hari Haring langitnon;",
         "Ni Jesus gitubos, Anak ko sa Hari"
       ]
     },
@@ -6408,25 +6543,37 @@
       {
         "number": 1,
         "lines": [
-          "Ang pakiguban kon kana diosnon, saligan ang Iya nga bukton; Dakung bulahan, ug kalinawan, Kung ang buktong Jesus saligan."
+          "Ang pakiguban kon kana diosnon,",
+          "saligan ang Iya nga bukton;",
+          "Dakung bulahan, ug kalinawan,",
+          "Kung ang buktong Jesus saligan."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Kining paglakat ta matam-ison, Kung si Jesus ang saligan; Hayag kada-adlaw ang agian, Kung si Jesus mao ang dangpan."
+          "Kining paglakat ta matam-ison,",
+          "Kung si Jesus ang saligan;",
+          "Hayag kada-adlaw ang agian,",
+          "Kung si Jesus mao ang dangpan."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Unsay kalisud ug kahadlokan Kung ang Dios mao ang saligan; Kauban sa Ginoo kalinaw, Ug ngadto kang Jesus motan-aw."
+          "Unsay kalisud ug kahadlokan",
+          "Kung ang Dios mao ang saligan;",
+          "Kauban sa Ginoo kalinaw,",
+          "Ug ngadto kang Jesus motan-aw."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Salig sa Dios, Kay Siya ang kalig-onan, Salig salig, Sa buktong walay katapusan."
+        "Salig sa Dios,",
+        "Kay Siya ang kalig-onan,",
+        "Salig salig,",
+        "Sa buktong walay katapusan."
       ]
     },
     "link": "https://media.gccsatx.com/Leaning-on-the-Everlasting-Arms-L.mp3"
@@ -6491,31 +6638,46 @@
       {
         "number": 1,
         "lines": [
-          "Kong giuyog ka sa dakung pagsulay, ug giabut kabugnaw ug kalaay, Ang mga panalangin daghan ipha, Ang nabuhat sa Dios matingala ka."
+          "Kong giuyog ka sa dakung pagsulay,",
+          "ug giabut kabugnaw ug kalaay,",
+          "Ang mga panalangin daghan ipha,",
+          "Ang nabuhat sa Dios matingala ka."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Aduna ka bay gugma sa pagbuhat, Ang krus mong gidala kung daw mabug-at, Mga panalangin pagsubay-subay, Duha-duha mawala ug malipay."
+          "Aduna ka bay gugma sa pagbuhat,",
+          "Ang krus mong gidala kung daw mabug-at,",
+          "Mga panalangin pagsubay-subay,",
+          "Duha-duha mawala ug malipay."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Kon makita mong bahandi sa uban, Si Jesus nagsaad ikaw hatagan, Ang tanan maimo nga di-kabayran, Ang ganti sa langitnon nga puloy-anan."
+          "Kon makita mong bahandi sa uban,",
+          "Si Jesus nagsaad ikaw hatagan,",
+          "Ang tanan maimo nga di-kabayran,",
+          "Ang ganti sa langitnon nga puloy-anan."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Sa mga paglutos dagku ug gagmay, Di maluya si Jesus magabantay, Mga manolunda ikaw gunitan, Ug buligan ngadto sa kaluwasan."
+          "Sa mga paglutos dagku ug gagmay,",
+          "Di maluya si Jesus magabantay,",
+          "Mga manolunda ikaw gunitan,",
+          "Ug buligan ngadto sa kaluwasan."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Ang mga panalangin ipha; Tanan nganli ang kadausa, Aron ang mga binuhatan, Sa imong Ginoo mahinumduman"
+        "Ang mga panalangin ipha;",
+        "Tanan nganli ang kadausa,",
+        "Aron ang mga binuhatan,",
+        "Sa imong Ginoo mahinumduman"
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/1hsv951zn0ti7t3e18ocd/SDAH-299-When-Upon-Lifes-Billows.mp3?rlkey=4uq9y8h7ldpjhsc0nkfofvt43&st=cabdisfm&dl=1"
@@ -6639,25 +6801,39 @@
       {
         "number": 1,
         "lines": [
-          "May mangit-ngit ug masamok dapit, Dinhi niining kinabuhi, Duna sab ing mahayag dapit, Nga makita sa Mamamawi."
+          "May mangit-ngit ug masamok dapit,",
+          "Dinhi niining kinabuhi,",
+          "Duna sab ing mahayag dapit,",
+          "Nga makita sa Mamamawi."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Bisan ang bagyo makusog karon, Paglaglag sa atong paglaum, Apan tanan molabay lamang, Ang adlaw mo usab pagsilang."
+          "Bisan ang bagyo makusog karon,",
+          "Paglaglag sa atong paglaum,",
+          "Apan tanan molabay lamang,",
+          "Ang adlaw mo usab pagsilang."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Sa matag adlaw mag-awit kita, Labi na kung may kalisdanan, Ug kanunay natong saligan, Ang Ginoong Manlalaban ta."
+          "Sa matag adlaw mag-awit kita,",
+          "Labi na kung may kalisdanan,",
+          "Ug kanunay natong saligan,",
+          "Ang Ginoong Manlalaban ta."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Didto sa mahayag, Kanunay sa mahayag, Sa dapit sa kinabuhi, Makatabang kanimo, Sa paglakaw nga putli, Uban sa maluloy-ong Ginoo."
+        "Didto sa mahayag,",
+        "Kanunay sa mahayag,",
+        "Sa dapit sa kinabuhi,",
+        "Makatabang kanimo,",
+        "Sa paglakaw nga putli,",
+        "Uban sa maluloy-ong Ginoo."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/3hecbtsn4xssicsxwkigq/SDAH-305-Theres-a-Dark-and-Troubled-Side-SDA-HYMNAL-PHILIPPINE-EDITION.mp3?rlkey=rtqm8xgmegktdl9ebokkucykn&st=sygl6r2l&dl=1"
@@ -6697,7 +6873,7 @@
       {
         "number": 4,
         "lines": [
-          "Tabanig nga kami sa kalisud,",
+          "Tabangi nga kami sa kalisud,",
           "Nga among gipasan karon gayud,",
           "Sa dalang mapitos ayaw og biyai,",
           "sa langit tultoli Nimo kami."
@@ -6816,10 +6992,7 @@
       },
       {
         "number": 2,
-        "lines": [
-          "Pabilin kanako Ginoo ko,",
-          "Panulay mawala kon naa Ka."
-        ]
+        "lines": ["Pabilin kanako Ginoo ko,", "Panulay mawala kon naa Ka."]
       },
       {
         "number": 3,
@@ -6966,9 +7139,9 @@
       {
         "number": 4,
         "lines": [
-          "Jesus makiga, gikinahanglan ta",
-          "Kusong, kalipay, ug pagkaandam;",
-          "Jesus makita, namata, nabanhaw",
+          "Jesus makita, gikinahanglan ta",
+          "Kusog, kalipay, ug pagkaandam;",
+          "Jesus makita, namatay, nabanhaw",
           "Ug mobalik pagtapus ning tanan."
         ]
       }
@@ -7153,25 +7326,42 @@
       {
         "number": 1,
         "lines": [
-          "Ikaw nagassad Kong may duruha Nga managkatipon Ikaw atua, Pulong Mo tuhoan Karon nagluhod Kami Jesus gayud sa tininuod."
+          "Ikaw nagassad",
+          "Kong may duruha",
+          "Nga managkatipon",
+          "Ikaw atua,",
+          "Pulong Mo tuhoan",
+          "Karon nagluhod",
+          "Kami Jesus gayud sa tininuod."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Kaniadtong unang mga panahon Ikaw nagauban kanamong tanan, Umari ka karon Panalangini Ug sa Imong grasya kami hatagi."
+          "Kaniadtong unang mga panahon",
+          "Ikaw nagauban kanamong tanan,",
+          "Umari ka karon",
+          "Panalangini",
+          "Ug sa Imong grasya kami hatagi."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Magaawit kami kanimo Jesus Ug magapadayon man sa pagdayeg, Nagahangyo kami Nga paghayagan Ang amo nga dalan nga pagalaktan."
+          "Magaawit kami kanimo Jesus",
+          "Ug magapadayon man sa pagdayeg,",
+          "Nagahangyo kami",
+          "Nga paghayagan",
+          "Ang amo nga dalan nga pagalaktan."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Jesus umari Ka sa taliwala, Ug panalangini Kami nga buhi."
+        "Jesus umari",
+        "Ka sa taliwala,",
+        "Ug panalangini",
+        "Kami nga buhi."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/q4k5728qmptkmzxzfd9co/329-Jesus-Thou-hast-promised.mp3?rlkey=t4v3k4hauhyh1easkefbzfsb0&st=np9tkejw&dl=1"
@@ -7184,36 +7374,46 @@
       {
         "number": 1,
         "lines": [
-          "Maligon natong dalangpanan nga wala nay pagkapakyas",
-          "Kanunay natong katabang sa tanan nga kalisdanan",
-          "Kay ang kaaway ta kasakit nagdala Ug dakung gamhanan niining kalibutan dinhi walay nahisama"
+          "Maligon natong dalangpanan",
+          "nga wala nay pagkapakyas",
+          "Kanunay natong katabang",
+          "sa tanan nga kalisdanan",
+          "Kay ang kaaway ta kasakit nagdala",
+          "Ug dakung gamhanan niining kalibutan dinhi walay nahisama"
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Kon kusog ang saligan ta paninguha ta mapakyas",
+          "Kon kusog ang saligan",
+          "ta paninguha ta mapakyas",
           "Kon wala kitay katabang nga pinili sa Amahan;",
           "Kinsa kini siya? Kini si Cristo ra,",
-          "Ginoo ang ngalan walay pagkabalhin kadaugan iyang dala."
+          "Ginoo ang ngalan walay",
+          "pagkabalhin kadaugan iyang dala."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Bisan daghan nga panulay kanato ang magasamok;",
-          "Walay angay nga kahadlokan kay kita may kadaugan",
-          "Yawanong kapungot kili kahadlokan,",
-          "Kay dili madugay siya ang laglagon pinaagi sa pulong."
+          "Bisan daghan nga panulay",
+          "kanato ang magasamok;",
+          "Walay angay nga kahadlokan",
+          "kay kita may kadaugan",
+          "Yawanong kapungot dili kahadlokan,",
+          "Kay dili madugay siya ang",
+          "laglagon pinaagi sa pulong."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Pulong labaw sa yutanon panalipod nga dimapakyas;",
-          "Ang Espitiru ug gasa maato tungod Kaniya",
+          "Pulong labaw sa yutanon",
+          "panalipod nga dimapakyas;",
+          "Ang Espiritu ug gasa maato tungod Kaniya",
           "Kining kinabuhi ang tanan nga ato,",
-          "Bisan og mawatang ang Dios magpadayon gingharian way katapusan."
+          "Bisan og mawatang ang",
+          "Dios magpadayon gingharian way katapusan."
         ]
       }
     ],
@@ -7305,10 +7505,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Bisan asa Ikaw uban man ako;",
-        "Mokuyog ako Kanimo Ginoo"
-      ]
+      "lines": ["Bisan asa Ikaw uban man ako;", "Mokuyog ako Kanimo Ginoo"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/508%20%E2%80%93%20Anywhere%20With%20Jesus.mp3"
   },
@@ -7522,7 +7719,7 @@
         "number": 2,
         "lines": [
           "Magpanalangin ka sa akong pagtoo,",
-          "Jesu Cristo nagpakamata ka",
+          "Jesu Cristo nagpakamatay ka",
           "Didto sa Calbaryo busa dungga ako pagtuaw ko"
         ]
       },
@@ -7600,7 +7797,7 @@
           "Natukod ang paglaum ko",
           "Sa dugo ra sa Ginoo",
           "Way lain nga kasaligan",
-          "Kondi ang balanag ngalan."
+          "Kondi ang balaang ngalan."
         ]
       },
       {
@@ -7686,7 +7883,7 @@
       "lines": [
         "Jesus, Jesus saligan",
         "Ang ako nang hisulayan",
-        "Ang Imong kalimayaan",
+        "Ang Imong kahimayaan",
         "O Jesus nga balaan"
       ]
     },
@@ -7700,25 +7897,38 @@
       {
         "number": 1,
         "lines": [
-          "Nagsalig sa mga saad ni Cristo, Ug sa katuigan pag-awiton ko Ang himaya ug gahum sa akong Dios, Nagasalig sa saad ni Jesus,"
+          "Nagsalig sa mga saad ni Cristo,",
+          "Ug sa katuigan pag-awiton ko",
+          "Ang himaya ug gahum sa akong Dios,",
+          "Nagasalig sa saad ni Jesus,"
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Matuman ang mga saad ni Jesus, Bisan pan dag-um ug mga unos; Magpabilin ko sa Iya nga pulong, Kay ang saad N'ya dunay gahum."
+          "Matuman ang mga saad ni Jesus,",
+          "Bisan pa dag-um ug mga unos;",
+          "Magpabilin ko sa Iya nga pulong,",
+          "Kay ang saad N'ya dunay gahum."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Kadaku sa saad sa Iyang gugma, Nag-angkon kanato nga mga Iya; Magmadaugon Kita diha sa krus, Magsalig sa saad ni Jesus."
+          "Kadaku sa saad sa Iyang gugma,",
+          "Nag-angkon kanato nga mga Iya;",
+          "Magmadaugon Kita diha sa krus,",
+          "Magsalig sa saad ni Jesus."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Nagasalig sa, sa mga saad sa akong Mangnunubos; Nagasalig, Nagsalig ko sa saad ni Jesus."
+        "Nagasalig sa,",
+        "sa mga saad sa akong",
+        "Mangnunubos;",
+        "Nagasalig,",
+        "Nagsalig ko sa saad ni Jesus."
       ]
     },
     "link": "https://media.gccsatx.com/Standing-on-The-Promises-8.mp3"
@@ -7757,10 +7967,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ikaw ang tagoanan ko",
-        "Kay Ikaw ra man ang maligong Bato."
-      ]
+      "lines": ["Ikaw ang tagoanan ko", "Kay Ikaw ra man ang maligong Bato."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/525%20%E2%80%93%20Hiding%20in%20Thee.mp3"
   },
@@ -7801,7 +8008,7 @@
         "lines": [
           "O, Diosnong dalangpan namo,",
           "Ug minahal nga Ginoo;",
-          "Ikaw haduul nanunay",
+          "Ikaw haduul kanunay",
           "Sa pagbalus sa kaaway."
         ]
       }
@@ -7833,7 +8040,7 @@
       {
         "number": 2,
         "lines": [
-          "Sa ialalum sa Iyang manga pako",
+          "Sa ilalum sa Iyang manga pako",
           "Walay kahadlok, walay kalisang,",
           "Ug kon samaran ang kasingkasing ko,",
           "Modangop ako sa Mananabang"
@@ -7893,10 +8100,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Maayo sa kalag",
-        "Maayo alang sa kalag ko"
-      ]
+      "lines": ["Maayo sa kalag", "Maayo alang sa kalag ko"]
     },
     "link": "https://media.gccsatx.com/It-is-Well-With-My-Soul-Piano-PP.mp3"
   },
@@ -8010,31 +8214,46 @@
       {
         "number": 1,
         "lines": [
-          "Gikinahanglan Kanakao, Ginoong maluloy-on; Mandoi ako kanunay, Kanimo mosalig ko."
+          "Gikinahanglan Kanako,",
+          "Ginoong maluloy-on;",
+          "Mandoi ako kanunay,",
+          "Kanimo mosalig ko."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Ang Espiritung lmalumo, Ihatag Mo kanako; Maluyahon gayud ako, Kusog kinahanglan ko."
+          "Ang Espiritung malumo,",
+          "Ihatag Mo kanako;",
+          "Maluyahon gayud ako,",
+          "Kusog kinahanglan ko."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Maluwas kon giyahan Mo, Kay wala ko'y mahimo, Ubani ako kanunay, Ikaw ang kahayag ko."
+          "Maluwas kon giyahan Mo,",
+          "Kay wala ko'y mahimo,",
+          "Ubani ako kanunay,",
+          "Ikaw ang kahayag ko."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Bisan unsay kaugmaon, Kalipay, kun kasakit, Magpabilin ko Kanimo, Kaluwasan siguro."
+          "Bisan unsay kaugmaon,",
+          "Kalipay, kun kasakit,",
+          "Magpabilin ko Kanimo,",
+          "Kaluwasan siguro."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Ginoo, Matag takna, Ikaw gikinahanglan ko! Ginoo, matag takna, Panalidan Mo ako."
+        "Ginoo, Matag takna,",
+        "Ikaw gikinahanglan ko!",
+        "Ginoo, matag takna,",
+        "Panalipdan Mo ako."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/nzrsczhjzyd87u7oudjix/SDAH-367-Blessed-Lord-How-Much-I-Need-Thee.mp3?rlkey=fzod5bz8qyoz00akfgtzqj39l&st=01ejbalf&dl=1"
@@ -8368,25 +8587,37 @@
       {
         "number": 1,
         "lines": [
-          "Sumalig sa bukton ni Jesus; Kay Siya ang makatabang ra; Kon saligan ang Iyang gugma, Lipayon ka Niya."
+          "Sumalig sa bukton ni Jesus;",
+          "Kay Siya ang makatabang ra;",
+          "Kon saligan ang Iyang gugma,",
+          "Lipayon ka Niya."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Saligan ta si Jesu-Cristo Siya ray makapahayag man, Sa mangitngit nga agianan; Kon sundon ta Siya."
+          "Saligan ta si",
+          "Jesu-Cristo Siya ray makapahayag man,",
+          "Sa mangitngit nga agianan;",
+          "Kon sundon ta Siya."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Sumalig sa bukton ni Jesus; Siya ang nagdala sa tanan; Ang mga mabug-at nga lulan Himoong magaan."
+          "Sumalig sa bukton ni Jesus;",
+          "Siya ang nagdala sa tanan;",
+          "Ang mga mabug-at nga lulan",
+          "Himoong magaan."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Sumalig ka sa Iyang bukton, Lauman ta ang Iyang gugma; Tan-awon ta kanunay si Jesus, Saligan ta Siya."
+        "Sumalig ka sa Iyang bukton,",
+        "Lauman ta ang Iyang gugma;",
+        "Tan-awon ta kanunay si Jesus,",
+        "Saligan ta Siya."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/me4vnc0y2bdqlsvgb5tuf/SDAH-385-Just-Lean-Upon-the-Arms-of-Jesus.mp3?rlkey=7hnmq2j06k9bfbxdr75qdxqbh&st=zki81q3s&dl=1"
@@ -8408,7 +8639,7 @@
       {
         "number": 2,
         "lines": [
-          "Matuman ang kabunoton Mo!",
+          "Matuman ang kabuboton Mo!",
           "Usisaha kasingkasing ko;",
           "Putlia ako, hugasan Mo,",
           "Mapainubsanong nagyukbo."
@@ -8458,7 +8689,7 @@
         "number": 3,
         "lines": [
           "Ikaw ra ang maglilipay sa may kasakit,",
-          "Sa langitnon nga kalipay Kkami iambit"
+          "Sa langitnon nga kalipay Kami iambit"
         ]
       },
       {
@@ -8703,25 +8934,37 @@
       {
         "number": 1,
         "lines": [
-          "Kon may diotay ako nga pulong Magdan-ag sa kangit-ngit Kon may diotay ko nga awit Maglipay sa nasub-an."
+          "Kon may diotay ako nga pulong",
+          "Magdan-ag sa kangit-ngit",
+          "Kon may diotay ko nga awit",
+          "Maglipay sa nasub-an."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Kon may diotay nga gugma Mahimong matam-ison Ang kinabuhi sa uban Sa diotayng amoma."
+          "Kon may diotay nga gugma",
+          "Mahimong matam-ison",
+          "Ang kinabuhi sa uban",
+          "Sa diotayng amoma."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Kon may diotay kong pagpadasig Maghumpay sa nagbudlay Hatagi kog gugma'g kusog Panalangin ipahat."
+          "Kon may diotay kong pagpadasig",
+          "Maghumpay sa nagbudlay",
+          "Hatagi kog gugma'g kusog",
+          "Panalangin ipahat."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Ginoo, tabangi ako Pagsulti ug pag-awit, Sa mga Pulong kanunay Nga maghatag kalipay."
+        "Ginoo, tabangi ako",
+        "Pagsulti ug pag-awit,",
+        "Sa mga Pulong kanunay",
+        "Nga maghatag kalipay."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/kveo8onkk1uo8w7fwqi6w/SDAH-401-If-Any-Little-Word-of-Mine-SDA-Hymnal-Philippine-Edition.mp3?rlkey=g1p18m7lhpff4osvf6rixkfqq&st=agrup2zu&dl=1"
@@ -8793,31 +9036,46 @@
       {
         "number": 1,
         "lines": [
-          "Tabangi ako, O Ginoo, Sa paglakaw sa dalan Mo; Dili makasunod ako, Kon dili mahinloan Mo."
+          "Tabangi ako, O Ginoo,",
+          "Sa paglakaw sa dalan Mo;",
+          "Dili makasunod ako,",
+          "Kon dili mahinloan Mo."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Kun masayag, sugo Mo, Makalipay sa kalag ko; Apan ilisan Mo ako Sa maayo, Sa maayo."
+          "Kun masayag, sugo Mo,",
+          "Makalipay sa kalag ko;",
+          "Apan ilisan Mo ako Sa maayo,",
+          "Sa maayo."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Ikaw ra ang makahugas, Sa tanan kong kadautan; Makita ko ang linuwas Sa langitnong puloy-anan."
+          "Ikaw ra ang makahugas,",
+          "Sa tanan kong kadautan;",
+          "Makita ko ang linuwas",
+          "Sa langitnong puloy-anan."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Bantayi ako, O Ginoo, Sa dalan kong pagalaktan; Jesus, panalipdi ako Sa kaaway kong si Satan."
+          "Bantayi ako, O Ginoo,",
+          "Sa dalan kong pagalaktan;",
+          "Jesus, panalipdi ako",
+          "Sa kaaway kong si Satan."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Hugasi ako O Ginoo, Sa dugo man nga balaan, Putlia ang kinabuhi ko Sa tanan kong kadautan."
+        "Hugasi ako O Ginoo,",
+        "Sa dugo man nga balaan,",
+        "Putlia ang kinabuhi ko",
+        "Sa tanan kong kadautan."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/zy9arnnexc7ltswmfoz6h/SDAH-405-One-Thing-I-the-Lord-Desire-SDA-Hymnal-Philippine-Edition.mp3?rlkey=sunmlyv22hmvc6372vkkhagrz&st=8f3dwu4k&dl=1"
@@ -8862,7 +9120,8 @@
         "Kanimo ako dad-a;",
         "Nganha Kanimo ako dad-a",
         "Duol, nganha Kanimo dad-a",
-        "Gugma ang makadala, nganha Kanimo dad-a, nganha Kanimo dad-a"
+        "Gugma ang makadala, nganha",
+        "Kanimo dad-a, nganha Kanimo dad-a"
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/hyftgtup1mrpgqc3mxq33/SDAH-407-Closer-to-Thee-My-Father-Draw-Me-SDA-Hymnal-Philippine-Edition.mp3?rlkey=j8ekhk0xcmz2p6zkmksp41kd6&st=rhqyiwyn&dl=1"
@@ -8941,10 +9200,10 @@
       {
         "number": 2,
         "lines": [
-          "Igsoon, papdayon, ciudad bulawan",
+          "Igsoon, padayon, ciudad bulawan",
           "Giandam sa binulahan,",
           "Didto naghulat, pagabli sa pulta;",
-          "Kapabulayan ang sudlon;",
+          "Kapahulayan ang sudlon;",
           "Igsoon padayon, di ta magdugay",
           "Sa kalaay nato dinhi,",
           "Kagabhion sa kasubo wala na,",
@@ -9007,7 +9266,8 @@
         "lines": [
           "Puthawng tiil ug yutang kolonon,",
           "Huyang ug bulag, molabay dayon;",
-          "Unsay mosunod nga talanawon? Cristo mobalik, ug kahangturan."
+          "Unsay mosunod nga talanawon?",
+          "Cristo mobalik, ug kahangturan."
         ]
       }
     ],
@@ -9065,7 +9325,7 @@
     "refrain": {
       "lines": [
         "Karon nagakanaug ang ato nga Manunubos,",
-        "Tanawa ninyo si Jesusm Hari ug Mananaug."
+        "Tanawa ninyo si Jesus, Hari ug Mananaug."
       ]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/598%20%E2%80%93%20Watch%2C%20Ye%20Saints.mp3"
@@ -9164,25 +9424,36 @@
       {
         "number": 1,
         "lines": [
-          "Ang ako nga panahon man atua sa kamot sa Dios, Bisan mangit-ngit ang dalan Tultolan ako ni Jesus."
+          "Ang ako nga panahon man atua sa kamot sa Dios,",
+          "Bisan mangit-ngit ang dalan",
+          "Tultolan ako ni Jesus."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Sa gitagal nga panahon Ako sa Dios pagatawagon, Aron magapahulay na Hangtud sa pagbalik Niya."
+          "Sa gitagal nga panahon",
+          "Ako sa Dios pagatawagon,",
+          "Aron magapahulay na",
+          "Hangtud sa pagbalik Niya."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Kining balay nga yutan-on, Sa abog papauli-on, Apan sa bag-ong lawas ko Makita ko ang Ginoo."
+          "Kining balay nga yutan-on,",
+          "Sa abog papauli-on,",
+          "Apan sa bag-ong lawas ko",
+          "Makita ko ang Ginoo."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Makita ko ang Ginoo Sa iyang himayang daku, Sultihan ko ang katawhan Sa daku nga kaluwasan."
+        "Makita ko ang Ginoo",
+        "Sa iyang himayang daku,",
+        "Sultihan ko ang katawhan",
+        "Sa daku nga kaluwasan."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/9gfz7khwuuu0msz7m7ze6/421-Someday-the-silver-chord-will-break.mp3?rlkey=eihxe30u2muoewfr6e0otrmxw&st=qcnoex8l&dl=1"
@@ -9221,10 +9492,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Magatindog, nga maisog,",
-        "Atubanga ang kaaway gayud."
-      ]
+      "lines": ["Magatindog, nga maisog,", "Atubanga ang kaaway gayud."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/610%20%E2%80%93%20Stand%20Like%20the%20Brave.mp3"
   },
@@ -9271,10 +9539,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Mga Cristohanon magusa karon,",
-        "Aron sa kadaugan makabaton."
-      ]
+      "lines": ["Mga Cristohanon magusa karon,", "Aron sa kadaugan makabaton."]
     },
     "link": "https://media.gccsatx.com/Onward-Christian-Soldiers-L.mp3"
   },
@@ -9597,7 +9862,7 @@
         "number": 2,
         "lines": [
           "Dautang kauban Imong likayan,",
-          "Ang puong malaway imong isikway;",
+          "Ang pulong malaway imong isikway;",
           "Imong palandungon ang maloloyon",
           "Ug gamhanan nga Dios, si Cristo Jesus."
         ]
@@ -9674,19 +9939,31 @@
       {
         "number": 1,
         "lines": [
-          "May gugma ka ba kang Jesus? Hatag na karon; Gusto ka'ng mag-mauswagon? Hatag, hatag na; Dili mag-mainot ka, Sa paghatag sa buhat, Ug ikaw makasunod Hatag, hatag na."
+          "May gugma ka ba kang Jesus?",
+          "Hatag na karon; Gusto ka'ng mag-mauswagon?",
+          "Hatag, hatag na; Dili mag-mainot ka,",
+          "Sa paghatag sa buhat,",
+          "Ug ikaw makasunod Hatag, hatag na."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Sa Kinasing kasing karon, Hatag na dayon; Linkat ikaw sa dugo, Hatag, hatag na; Ihatag mo ang tanan, Ang hamili mong butang; Unya ikaw balusan, Hatag, hatag na."
+          "Sa Kinasing kasing karon,",
+          "Hatag na dayon; Linkat ikaw sa dugo,",
+          "Hatag, hatag na; Ihatag mo ang tanan,",
+          "Ang hamili mong butang;",
+          "Unya ikaw balusan, Hatag, hatag na."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Itanyag mo ang Balita; Hatag, hatag na; Aron gayud ikasabwag, Hatag, hatag na, Unya ikaw balusan Paganhi sa Ginoo; Magmatinumanon ka, Hatag, hatag na."
+          "Itanyag mo ang Balita;",
+          "Hatag, hatag na;",
+          "Aron gayud ikasabwag, Hatag, hatag na,",
+          "Unya ikaw balusan Paganhi sa Ginoo;",
+          "Magmatinumanon ka, Hatag, hatag na."
         ]
       }
     ],
@@ -9764,10 +10041,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Katahum, katahum,",
-        "Sa puloyang may gugma kay malinawon"
-      ]
+      "lines": ["Katahum, katahum,", "Sa puloyang may gugma kay malinawon"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/652%20%E2%80%93%20Love%20at%20Home.mp3"
   },
@@ -9814,37 +10088,55 @@
       {
         "number": 1,
         "lines": [
-          "Sa uban rang mga tuig Alang sa maayong yuta; Susihon tang mga luha, Makasabut ra unya."
+          "Sa uban rang mga tuig",
+          "Alang sa maayong yuta;",
+          "Susihon tang mga luha,",
+          "Makasabut ra unya."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Ato unyang pagbalikan Ang tanan nga gibiyaan, Sa langit atong masayran, masabtan nato ang tanan."
+          "Ato unyang pagbalikan",
+          "Ang tanan nga gibiyaan,",
+          "Sa langit atong masayran,",
+          "masabtan nato ang tanan."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Milibut ang daghang dag-um Sa ibabaw natong tanan; Mag-awit ug magpahiyum, Unya hisabtan nang daan."
+          "Milibut ang daghang dag-um",
+          "Sa ibabaw natong tanan;",
+          "Mag-awit ug magpahiyum,",
+          "Unya hisabtan nang daan."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Ang mga gipangandoy ko Ngano nga dili matuman Inigabut nato didto Tanan ato nga masabtan."
+          "Ang mga gipangandoy ko",
+          "Ngano nga dili matuman",
+          "Inigabut nato didto",
+          "Tanan ato nga masabtan."
         ]
       },
       {
         "number": 5,
         "lines": [
-          "Ang Dios nahibalo diay, Nagmando Siya kanunay; Walay luha man usahay, Tungod sa gugmang tiunay."
+          "Ang Dios nahibalo diay,",
+          "Nagmando Siya kanunay;",
+          "Walay luha man usahay,",
+          "Tungod sa gugmang tiunay."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Sumalig ka lamang sa Dios, Kay paga-gunitan ikaw; Mag-awit ug magadayeg kita, Makasabut ra unya."
+        "Sumalig ka lamang sa Dios,",
+        "Kay paga-gunitan ikaw;",
+        "Mag-awit ug magadayeg kita,",
+        "Makasabut ra unya."
       ]
     },
     "link": "https://www.dropbox.com/scl/fi/c0foylpumtr051kdrnxcs/SDAH-451-Not-Now-But-In-the-Coming-Years-SDA-Hymnal-Philippine-Edition.mp3?rlkey=3j0lwl8io8ls4vwt0ri9t326q&st=yu3wh3oa&dl=1"
@@ -9937,14 +10229,12 @@
       {
         "number": 1,
         "lines": [
-          "Amen, Amen, Amen, Amen,",
-          "Amen, Amen, Amen",
           "Ang Dios magapanalangin,",
-          "Ang Dios magdasig matagu sa ninyo;",
+          "Ang Dios magdasig matagusa ninyo;",
           "Maghatag og kalinaw,",
           "Ang Dios magdanag sa inyong kinabuhi,",
-          "Magmaloluy-on gayud,",
-          "Ang Dios magmaluloyon banunay.",
+          "Magmaloluy-on gayud kaninyo,",
+          "Ang Dios magmaluloyon kanunay.",
           "Amen, Amen, Amen, Amen,",
           "Amen, Amen, Amen"
         ]

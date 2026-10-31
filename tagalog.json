@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/007%20%E2%80%93%20The%20Lord%20in%20Zion%20Reigneth.mp3"
+    "link": "https://www.dropbox.com/scl/fi/447mvva07neehxwt6wv8y/007-The-Lord-in-Zion-Reigneth-SDA-Hymnal-The-Hymns-Channel.mp3?rlkey=hqcxkzoowygz939kx6tsn3eu4&st=2at1mhwd&dl=1"
   },
   {
     "title": "Tayo'y Nagtitipon",
@@ -207,10 +207,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Matuwa, Matuwa,",
-        "Matuwa at umawit."
-      ]
+      "lines": ["Matuwa, Matuwa,", "Matuwa at umawit."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
@@ -1212,7 +1209,7 @@
         ]
       }
     ],
-    "link": "https://www.dropbox.com/scl/fi/idpi8haw7vhkqqddd6trh/092-This-Is-My-Father-s-World-SDA-Hymnal-The-Hymns-Channel.mp3?rlkey=ifhafvylpfzvtflp1z71ekch9&st=ijwq9pk0&dl=1"
+    "link": "https://media.gccsatx.com/This-Is-My-Fathers-World-220.mp3"
   },
   {
     "title": "Diyos ang 'Yong Kanlungan",
@@ -1318,10 +1315,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Noel, Noel, Noel, Noel",
-        "Sumilang Hari ng Israel."
-      ]
+      "lines": ["Noel, Noel, Noel, Noel", "Sumilang Hari ng Israel."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
@@ -1401,9 +1395,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "\"Luwalhati sa sumilang, Hari ng daigdigan.\""
-      ]
+      "lines": ["\"Luwalhati sa sumilang, Hari ng daigdigan.\""]
     },
     "link": "https://media.gccsatx.com/Hark-The-Harold-L.mp3"
   },
@@ -2377,10 +2369,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "S'ya'y darating, S'ya'y darating,",
-        "Jesus muling darating!"
-      ]
+      "lines": ["S'ya'y darating, S'ya'y darating,", "Jesus muling darating!"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
   },
@@ -3129,7 +3118,7 @@
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/246%20%E2%80%93%20Worthy%2C%20Worthy%20Is%20the%20Lamb.mp3"
   },
   {
-    "title": "L'walhatiin si Jesus ",
+    "title": "L'walhatiin si Jesus",
     "pageNumber": 136,
     "language": "tagalog",
     "verses": [
@@ -3168,10 +3157,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ipahayag ang kadakilaan Niya,",
-        "Sa awit ay galak na isaysay!"
-      ]
+      "lines": ["Ipahayag ang kadakilaan Niya,", "Sa awit ay galak na isaysay!"]
     },
     "link": "https://media.gccsatx.com/Praise-Him-Praise-Him-LP.mp3"
   },
@@ -3411,7 +3397,7 @@
     "link": "https://www.dropbox.com/scl/fi/stmo4jeyik12504oonhp4/SDAH-145-Holy-Spirit-Faithful-Guide.mp3?rlkey=9sdfmzjdq7o5w48gnrl3l4ypf&st=wjqj2wj9&dl=1"
   },
   {
-    "title": "Tinapay ng Buhay ay Hatiin ",
+    "title": "Tinapay ng Buhay ay Hatiin",
     "pageNumber": 148,
     "language": "tagalog",
     "verses": [
@@ -3637,7 +3623,7 @@
           "Bagama't mahina,",
           "Marumi't salanta,",
           "Linisin Mo alipala't",
-          "Mag babagong kusa."
+          "Magbabagong kusa."
         ]
       },
       {
@@ -3801,45 +3787,45 @@
       {
         "number": 1,
         "lines": [
-          "Liwanag ay lumalabas ",
+          "Liwanag ay lumalabas",
           "Sa pintong nakabukas.",
-          "Doon sa krus namamalas ",
+          "Doon sa krus namamalas",
           "Pag-ibig ng nagligtas."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Ang pinto'y bukas sa lahat ",
+          "Ang pinto'y bukas sa lahat",
           "Na rito'y humahanap;",
-          "Mayaman man at mahirap ",
+          "Mayaman man at mahirap",
           "Tinatanggap na lahat."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Masok samantalang bukas, ",
+          "Masok samantalang bukas,",
           "Putong ay matatanggap.",
-          "Alintanahin ang hirap ",
+          "Alintanahin ang hirap",
           "Na dulot ni Satanas."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Sa pasanin maiibsan ",
+          "Sa pasanin maiibsan",
           "Ipapalit ay buhay.",
-          "Kasayahang walang hanggan ",
+          "Kasayahang walang hanggan",
           "Ang laging makakamtan."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Manatili kayang bukas ",
+        "Manatili kayang bukas",
         "Ang pinto ng awa't habag?",
-        "Sa 'kin, sa 'kin ",
+        "Sa 'kin, sa 'kin",
         "Magpahanggang wakas?"
       ]
     },
@@ -4075,43 +4061,55 @@
       {
         "number": 1,
         "lines": [
-          "Akong napalayo sa Diyos Ay nagbabalik; ",
-          "Sa sama'y tumatalikod, At nagbabalik."
+          "Akong napalayo sa Diyos",
+          "Ay nagbabalik;",
+          "Sa sama'y tumatalikod,",
+          "At nagbabalik."
         ]
       },
       {
         "number": 2,
         "lines": [
-          "Akong sa sala'y nagtagal, Mahal kong Ama, ",
-          "Ngayo'y nagsisising tunay, Nagbabalik na."
+          "Akong sa sala'y nagtagal,",
+          "Mahal kong Ama,",
+          "Ngayo'y nagsisising tunay,",
+          "Nagbabalik na."
         ]
       },
       {
         "number": 3,
         "lines": [
-          "Nililisan ko na ngayon Ang aking sala, ",
-          "At sa Iyo, Panginoo'y Nagbabalik na."
+          "Nililisan ko na ngayon",
+          "Ang aking sala,",
+          "At sa Iyo,",
+          "Panginoo'y Nagbabalik na."
         ]
       },
       {
         "number": 4,
         "lines": [
-          "Ang kamatayan ni Cristo'y S'ya kong pag-asa, ",
-          "At ngayon sa kandili Mo'y Nagbabalik na."
+          "Ang kamatayan ni",
+          "Cristo'y S'ya kong pag-asa,",
+          "At ngayon sa kandili",
+          "Mo'y Nagbabalik na."
         ]
       },
       {
         "number": 5,
         "lines": [
-          "Sa dugo Niyang natigis Dadalhin ko na ",
-          "Ang kasalanan ko't dungis, At babalik na."
+          "Sa dugo Niyang natigis",
+          "Dadalhin ko na",
+          "Ang kasalanan ko't dungis,",
+          "At babalik na."
         ]
       }
     ],
     "refrain": {
       "lines": [
-        "Ako'y nagbabalik, di na aalis; ",
-        "Buksan ang Iyong dibdib Sa nagbabalik!"
+        "Ako'y nagbabalik,",
+        "di na aalis;",
+        "Buksan ang Iyong dibdib",
+        "Sa nagbabalik!"
       ]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/296%20%E2%80%93%20Lord%2C%20I%27m%20Coming%20Home.mp3"
@@ -4930,7 +4928,7 @@
         "number": 3,
         "lines": [
           "Jesus, may pangako Kang sa ami'y sasama,",
-          "Kami'y di nag-iisa hin di nangangamba;",
+          "Kami'y di nag-iisa hindi nangangamba;",
           "Kaya nga't nananatang hanggang may hininga.",
           "Kami ay tatalaga sa lahat Mong pita."
         ]
@@ -5260,7 +5258,7 @@
     ],
     "refrain": {
       "lines": [
-        "Purihin si Jesus, Tinig Nya'y pakinggan;",
+        "Purihin si Jesus, Tinig N'ya'y pakinggan;",
         "Purihin si Jesus, Tayo'y magkatuwaan;",
         "Kay Jesus ang Ama'y ating lapitan,",
         "At ang l'walhati sa Kanya'y ibigay."
@@ -5540,11 +5538,11 @@
         "number": 1,
         "lines": [
           "Dinggin! ang tawag ni Jesus,",
-          "“Sinong ngayo’y hahayo?",
-          "Bukira’y hinog nang lubos,",
+          "“Sinong ngayo'y hahayo?",
+          "Bukira'y hinog nang lubos,",
           "Gagapas nga ay sino?”",
-          "Tumatawag S’yang mataos,",
-          "Gantimpala’y sasa’yo;",
+          "Tumatawag S'yang mataos,",
+          "Gantimpala'y sasa'yo;",
           "Sinong masayang sasagot,",
           "“Jesus, suguin ako”?"
         ]
@@ -5568,7 +5566,7 @@
           "Kung hindi ka maaari",
           "Na maging isang bantay,",
           "Na ang handog nga at mithi:",
-          "Kapayapaa’t buhay;",
+          "Kapayapaa't buhay;",
           "Ang sa Langit namang hingi",
           "Magagawang tiwasay,",
           "Magsa Aaron kang lagi,",
@@ -5580,11 +5578,11 @@
         "lines": [
           "Habang nangagsisiyao",
           "Kaluluwa ng tao,",
-          "H’wag sanang marinig sa’yo,",
+          "H'wag sanang marinig sa'yo,",
           "“Walang magagawa ako!”",
           "May tuwang tupding totoo",
-          "Tungkuling bigay sa’yo;",
-          "Pagtawag N’ya’y tugunin mo,",
+          "Tungkuling bigay sa'yo;",
+          "Pagtawag N'ya'y tugunin mo,",
           "“Jesus, suguin ako.”"
         ]
       }
@@ -5643,7 +5641,7 @@
         "number": 1,
         "lines": [
           "Magmadali, O Siyon, na itanyag.",
-          "Sa daigdig na Diyos ay liwanang;",
+          "Sa daigdig na Diyos ay liwanag;",
           "S'ya na sa mga bansa'y naglatag.",
           "Di N'ya ibig isa'y mapahamak."
         ]
@@ -5677,10 +5675,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ang balita ay ipahayag,",
-        "Balita tungkol kay Jesus na liyag."
-      ]
+      "lines": ["Ang balita ay ipahayag,", "Balita tungkol kay Jesus na liyag."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/365%20%E2%80%93%20O%20Zion%2C%20Haste.mp3"
   },
@@ -5791,7 +5786,7 @@
           "Ay pagtamanang",
           "Pilitin sa mga kagalingan,",
           "Hanggang sa maparam ang kadiliman",
-          "Siya'y kusaing pagtiyagaan."
+          "Siya'y kusang pagtiyagaan."
         ]
       },
       {
@@ -5886,7 +5881,7 @@
         "number": 2,
         "lines": [
           "Itaas Siya't bayaang.",
-          "Masadan ng karamihan;",
+          "Masdan ng karamihan;",
           "Ang humahanap sa Kanya'y.",
           "Ipipisa sa kawan;",
           "Sila ay magkakatipon.",
@@ -7252,10 +7247,7 @@
     "verses": [
       {
         "number": 1,
-        "lines": [
-          "Kailangan Kita, O Jesus ko!",
-          "Walang makikita na gaya Mo!"
-        ]
+        "lines": ["Kailangan Kita, O Jesus ko!", "Walang makikita na gaya Mo!"]
       },
       {
         "number": 2,
@@ -7649,7 +7641,7 @@
           "Sumaaming awit at pagpupuri,",
           "Aming hinihingi'y Iyong kandili,",
           "Kami'y umaasa sa 'Yong pagkasi",
-          "Bigyang kasiglaha't dingging parati."
+          "Bigyang kasiglaha't dinggin parati."
         ]
       }
     ],
@@ -7710,7 +7702,7 @@
         "lines": [
           "Salitang higit sa lahat,",
           "Di pinasalamatan;",
-          "Espiritu't mga kalo'b,",
+          "Espiritu't mga kaloob,",
           "Sa Kanya'y kinakamtan.",
           "Ang tinatangkilik",
           "At buhay na ito,",
@@ -7986,7 +7978,7 @@
           "Ako'y pinangungunahan,",
           "Ni Jesus ko sa daan;",
           "Wala akong alinlangan,",
-          "Sa habag n'yat patnubay;",
+          "Sa habag n'ya't patnubay;",
           "Masarap ang kabuhayan,",
           "Nang sa Kanya'y manahan.",
           "Pagka't bawa't karanasa'y,",
@@ -8294,10 +8286,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Ikaw ang aking kanlungan,",
-        "Mapalad na batong aking taguan!"
-      ]
+      "lines": ["Ikaw ang aking kanlungan,", "Mapalad na batong aking taguan!"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/525%20%E2%80%93%20Hiding%20in%20Thee.mp3"
   },
@@ -8422,10 +8411,7 @@
       },
       {
         "number": 3,
-        "lines": [
-          "Pasapitin Mo Panginoong Jesus,",
-          "Araw ng mga tinubos."
-        ]
+        "lines": ["Pasapitin Mo Panginoong Jesus,", "Araw ng mga tinubos."]
       }
     ],
     "refrain": {
@@ -9453,7 +9439,7 @@
     "link": "https://www.dropbox.com/scl/fi/zy9arnnexc7ltswmfoz6h/SDAH-405-One-Thing-I-the-Lord-Desire-SDA-Hymnal-Philippine-Edition.mp3?rlkey=sunmlyv22hmvc6372vkkhagrz&st=8f3dwu4k&dl=1"
   },
   {
-    "title": "Ama,sa Iyo ay Ilapit",
+    "title": "Ama, sa Iyo ay Ilapit",
     "pageNumber": 408,
     "language": "tagalog",
     "verses": [
@@ -9581,7 +9567,7 @@
       {
         "number": 3,
         "lines": [
-          "O kapatid ko, magtapat kasana!",
+          "O kapatid ko, magtapat kasama!",
           "Malapit nang bumaba S'ya,",
           "Libu-libong anghel ang abay Niya,",
           "Palmang tagumpay ay dala.",
@@ -10642,7 +10628,7 @@
         "lines": [
           "Kayo nawa'y ingatan,",
           "At pagpalain ng Panginoon;",
-          "At bigyan ng kapayapa'an;",
+          "At bigyan ng kapayapaan;",
           "Mukha N'ya'y pasilangin sa inyo,",
           "At S'ya'y maging mabiyaya,",
           "Pagbiyayaan nawa N'ya kayo. Amen."
@@ -10731,8 +10717,8 @@
         "lines": [
           "Ang Panginoo'y nasa templo,",
           "Ang Panginoo'y nasa templo,",
-          "Laha't ay tumahimik,",
-          "Laha't ay tumahimik sa Kanya,",
+          "Lahat ay tumahimik,",
+          "Lahat ay tumahimik sa Kanya,",
           "Tahimik, tahimik sa Kanya.",
           "Amen."
         ]

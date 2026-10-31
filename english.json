@@ -76,7 +76,7 @@
         ]
       }
     ],
-    "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/007%20%E2%80%93%20The%20Lord%20in%20Zion%20Reigneth.mp3"
+    "link": "https://www.dropbox.com/scl/fi/447mvva07neehxwt6wv8y/007-The-Lord-in-Zion-Reigneth-SDA-Hymnal-The-Hymns-Channel.mp3?rlkey=hqcxkzoowygz939kx6tsn3eu4&st=2at1mhwd&dl=1"
   },
   {
     "title": "We Gather Together",
@@ -217,10 +217,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Rejoice! Rejoice!",
-        " Rejoice, give thanks, and sing!"
-      ]
+      "lines": ["Rejoice! Rejoice!", " Rejoice, give thanks, and sing!"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/027%20%E2%80%93%20Rejoice%20Ye%20Pure%20in%20Heart%21.mp3"
   },
@@ -1282,7 +1279,7 @@
         ]
       }
     ],
-    "link": "https://www.dropbox.com/scl/fi/idpi8haw7vhkqqddd6trh/092-This-Is-My-Father-s-World-SDA-Hymnal-The-Hymns-Channel.mp3?rlkey=ifhafvylpfzvtflp1z71ekch9&st=ijwq9pk0&dl=1"
+    "link": "https://media.gccsatx.com/This-Is-My-Fathers-World-220.mp3"
   },
   {
     "title": "God Will Take Care of You",
@@ -1388,10 +1385,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Noel, Noel, Noel, Noel, ",
-        "Born is the King of Israel."
-      ]
+      "lines": ["Noel, Noel, Noel, Noel, ", "Born is the King of Israel."]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/118%20%E2%80%93%20The%20First%20Noel.mp3"
   },
@@ -2524,10 +2518,7 @@
       }
     ],
     "refrain": {
-      "lines": [
-        "Coming again, coming again,",
-        "Jesus is coming again!"
-      ]
+      "lines": ["Coming again, coming again,", "Jesus is coming again!"]
     },
     "link": "https://cdn.jsdelivr.net/gh/cevr/sda-hymns@main/mp3/213%20%E2%80%93%20Jesus%20Is%20Coming%20Again.mp3"
   },
